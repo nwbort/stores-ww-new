@@ -3,8 +3,8 @@
 Fetch and cache Woolworths store details from the StoreLocator API.
 
 Reads woolworths.com.au-stores.json, fetches details for each store in
-parallel, writes individual files to store-details/{id}.json, then
-rebuilds woolworths.com.au-store-details.json from those files.
+parallel with a global rate limiter, writes individual files to
+store-details/{id}.json, then rebuilds woolworths.com.au-store-details.json.
 
 Usage:
   python3 fetch_store_details.py           # new stores only (default)
@@ -14,6 +14,8 @@ Usage:
 import json
 import os
 import sys
+import time
+import threading
 import urllib.request
 import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -22,7 +24,11 @@ STORES_JSON = "woolworths.com.au-stores.json"
 DETAILS_DIR = "store-details"
 COMBINED_JSON = "woolworths.com.au-store-details.json"
 API_BASE = "https://www.woolworths.com.au/apis/ui/StoreLocator/Store"
-MAX_WORKERS = 20
+
+MAX_WORKERS = 5
+REQUESTS_PER_SECOND = 3.0   # global ceiling; 2205 stores ≈ 12 min full refresh
+MAX_RETRIES = 3
+RETRY_BACKOFF = [5, 10, 20]  # seconds between retries
 
 DIVISION_MAP = {
     "supermarket": "SUPERMARKETS",
@@ -45,6 +51,21 @@ HEADERS = {
     "Referer": "https://www.woolworths.com.au/shop/storelocator",
 }
 
+# Global rate limiter: at most REQUESTS_PER_SECOND across all workers
+_rate_lock = threading.Lock()
+_last_request_time = 0.0
+
+
+def rate_limited_sleep():
+    global _last_request_time
+    with _rate_lock:
+        now = time.monotonic()
+        interval = 1.0 / REQUESTS_PER_SECOND
+        wait = _last_request_time + interval - now
+        if wait > 0:
+            time.sleep(wait)
+        _last_request_time = time.monotonic()
+
 
 def detail_path(store_id):
     return os.path.join(DETAILS_DIR, f"{store_id}.json")
@@ -55,22 +76,36 @@ def fetch_store(store):
     store_type = store.get("type", "supermarket")
     division = DIVISION_MAP.get(store_type, store_type)
     url = f"{API_BASE}?Division={division}&StoreNo={store_id}"
-    req = urllib.request.Request(url, headers=HEADERS)
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            raw = resp.read().decode("utf-8")
-        data = json.loads(raw)
-        if not isinstance(data, dict) or not data:
-            return store_id, None, "empty or non-object response"
-        return store_id, data, None
-    except urllib.error.HTTPError as e:
-        return store_id, None, f"HTTP {e.code}"
-    except urllib.error.URLError as e:
-        return store_id, None, f"URL error: {e.reason}"
-    except json.JSONDecodeError as e:
-        return store_id, None, f"invalid JSON: {e}"
-    except Exception as e:
-        return store_id, None, str(e)
+
+    last_error = None
+    for attempt in range(MAX_RETRIES + 1):
+        if attempt > 0:
+            delay = RETRY_BACKOFF[min(attempt - 1, len(RETRY_BACKOFF) - 1)]
+            time.sleep(delay)
+
+        rate_limited_sleep()
+
+        req = urllib.request.Request(url, headers=HEADERS)
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read().decode("utf-8")
+            data = json.loads(raw)
+            if not isinstance(data, dict) or not data:
+                return store_id, None, "empty or non-object response"
+            return store_id, data, None
+        except urllib.error.HTTPError as e:
+            last_error = f"HTTP {e.code}"
+            if e.code not in (403, 429, 503):
+                break  # non-retryable
+        except urllib.error.URLError as e:
+            last_error = f"URL error: {e.reason}"
+        except json.JSONDecodeError as e:
+            last_error = f"invalid JSON: {e}"
+            break
+        except Exception as e:
+            last_error = str(e)
+
+    return store_id, None, last_error
 
 
 def rebuild_combined(current_store_ids):
@@ -111,6 +146,8 @@ def main():
         to_fetch = [s for s in stores if not os.path.exists(detail_path(s["id"]))]
         cached = len(stores) - len(to_fetch)
         print(f"Mode: new-only — {len(to_fetch)} to fetch, {cached} already cached")
+
+    print(f"Rate: {REQUESTS_PER_SECOND} req/s, {MAX_WORKERS} workers, {MAX_RETRIES} retries")
 
     if to_fetch:
         success = 0
