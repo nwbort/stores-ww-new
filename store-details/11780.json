@@ -1,0 +1,105 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "11780",
+  "Name": "Ampol Foodary Leichhardt",
+  "AddressLine1": "Edward St Cnr Old Toowoomba Rd",
+  "AddressLine2": null,
+  "Suburb": "Leichhardt",
+  "State": "QLD",
+  "Postcode": "4305",
+  "Latitude": "-27.627607",
+  "Longitude": "152.743585",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0530-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

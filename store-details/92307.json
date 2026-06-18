@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92307",
+  "Name": "Gracemere",
+  "AddressLine1": "19 McLaughlin Street",
+  "AddressLine2": null,
+  "Suburb": "Gracemere",
+  "State": "QLD",
+  "Postcode": "4702",
+  "Latitude": "-23.4328",
+  "Longitude": "150.4541",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8748",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0530-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0530-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

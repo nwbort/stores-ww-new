@@ -1,0 +1,68 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5647",
+  "Name": "Millicent",
+  "AddressLine1": "34 Davenport Street",
+  "AddressLine2": null,
+  "Suburb": "Millicent",
+  "State": "SA",
+  "Postcode": "5280",
+  "Latitude": "-37.596415",
+  "Longitude": "140.35335",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8726 4950",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1800"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-1800"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-1800"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-1800"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,109 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "33828",
+  "Name": "Ampol Foodary Roxburgh Park",
+  "AddressLine1": "124-130-Somerton Road",
+  "AddressLine2": null,
+  "Suburb": "Roxburgh Park",
+  "State": "VIC",
+  "Postcode": "3064",
+  "Latitude": "-37.6413683",
+  "Longitude": "144.93923",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-1900"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

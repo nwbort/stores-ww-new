@@ -1,0 +1,71 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3143",
+  "Name": "Ferntree Gully",
+  "AddressLine1": "1038-1042 Burwood Highway",
+  "AddressLine2": null,
+  "Suburb": "Ferntree Gully",
+  "State": "VIC",
+  "Postcode": "3156",
+  "Latitude": "-37.8893486",
+  "Longitude": "145.2940635",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 8756 2416",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0600-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0600-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0600-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0600-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0600-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0600-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    }
+  ],
+  "Facilities": [
+    "Cut on Demand",
+    "Direct to boot",
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

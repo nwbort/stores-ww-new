@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92275",
+  "Name": "Gladstone",
+  "AddressLine1": "132 Auckland Street",
+  "AddressLine2": null,
+  "Suburb": "Gladstone",
+  "State": "QLD",
+  "Postcode": "4680",
+  "Latitude": "-23.8458",
+  "Longitude": "151.2604",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 4082 7434",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

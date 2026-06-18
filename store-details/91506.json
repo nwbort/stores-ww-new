@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91506",
+  "Name": "Cootamundra",
+  "AddressLine1": "88 Murray Street",
+  "AddressLine2": null,
+  "Suburb": "Cootamundra",
+  "State": "NSW",
+  "Postcode": "2590",
+  "Latitude": "-34.6363",
+  "Longitude": "148.025",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 5318 2953",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0800-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-1900"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

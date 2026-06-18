@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5615",
+  "Name": "Gove",
+  "AddressLine1": "Endeavour Square",
+  "AddressLine2": null,
+  "Suburb": "Nhulunbuy",
+  "State": "NT",
+  "Postcode": "880",
+  "Latitude": "-12.1840133",
+  "Longitude": "136.7867193",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8965 2000",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2000"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

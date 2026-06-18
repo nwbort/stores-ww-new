@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91830",
+  "Name": "Lake Cathie",
+  "AddressLine1": "Ocean Drive",
+  "AddressLine2": null,
+  "Suburb": "Lake Cathie",
+  "State": "NSW",
+  "Postcode": "2445",
+  "Latitude": "-31.5531",
+  "Longitude": "152.8543",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 5625 0825",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

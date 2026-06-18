@@ -1,0 +1,109 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "28684",
+  "Name": "Ampol Foodary Woy Woy",
+  "AddressLine1": "66-Memorial Avenue",
+  "AddressLine2": null,
+  "Suburb": "Woy Woy",
+  "State": "NSW",
+  "Postcode": "2256",
+  "Latitude": "-33.5070038",
+  "Longitude": "151.3314219",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0430-2359"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0430-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0430-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0430-2359"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0430-2359"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0430-2359"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0430-2359"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0430-2359"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

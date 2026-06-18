@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93420",
+  "Name": "Epsom",
+  "AddressLine1": "16-40 Howard Street",
+  "AddressLine2": null,
+  "Suburb": "Epsom",
+  "State": "VIC",
+  "Postcode": "3551",
+  "Latitude": "-36.7051",
+  "Longitude": "144.3175",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9431",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0530-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0530-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

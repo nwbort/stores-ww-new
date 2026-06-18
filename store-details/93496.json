@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93496",
+  "Name": "Mornington East",
+  "AddressLine1": "210 Dunns Road",
+  "AddressLine2": null,
+  "Suburb": "Mornington East",
+  "State": "VIC",
+  "Postcode": "3931",
+  "Latitude": "-38.2465",
+  "Longitude": "145.0478",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9458",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0630-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0630-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

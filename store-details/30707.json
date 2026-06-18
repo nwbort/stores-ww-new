@@ -1,0 +1,111 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "30707",
+  "Name": "Ampol Foodary Yarra Glen-Yarraview Mtrs",
+  "AddressLine1": "66-Bell Street",
+  "AddressLine2": null,
+  "Suburb": "Yarra Glen",
+  "State": "VIC",
+  "Postcode": "3775",
+  "Latitude": "-37.6540288",
+  "Longitude": "145.3759323",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Diesel",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Diesel",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

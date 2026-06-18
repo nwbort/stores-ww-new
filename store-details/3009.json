@@ -1,0 +1,67 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3009",
+  "Name": "Armstrong Creek Town Centre",
+  "AddressLine1": "11 Lagoon Street",
+  "AddressLine2": null,
+  "Suburb": "Armstrong Creek",
+  "State": "VIC",
+  "Postcode": "3217",
+  "Latitude": "-38.22738893",
+  "Longitude": "144.33776",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "TBC",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Thu: CLOSED"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Fri: CLOSED"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Sat: CLOSED"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Sun: CLOSED"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Mon: CLOSED"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Tue: CLOSED"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Wed: CLOSED"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Thu: CLOSED"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Instore Bakery",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

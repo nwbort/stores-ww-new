@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5649",
+  "Name": "Roxby Downs",
+  "AddressLine1": "12 - 28 Richardson Pl",
+  "AddressLine2": null,
+  "Suburb": "Roxby Downs",
+  "State": "SA",
+  "Postcode": "5725",
+  "Latitude": "-30.561926",
+  "Longitude": "136.896553",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8678 5000",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

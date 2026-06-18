@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "97401",
+  "Name": "Sorell",
+  "AddressLine1": "12 Weston Hill Road",
+  "AddressLine2": null,
+  "Suburb": "Sorell",
+  "State": "TAS",
+  "Postcode": "7172",
+  "Latitude": "-42.7802",
+  "Longitude": "147.565",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9494",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

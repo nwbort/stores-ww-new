@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4397",
+  "Name": "Margaret River",
+  "AddressLine1": "Town View Terrace & Willmott Avenue",
+  "AddressLine2": null,
+  "Suburb": "Margaret River",
+  "State": "WA",
+  "Postcode": "6285",
+  "Latitude": "-33.95082765",
+  "Longitude": "115.075918",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 9759 3150",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2000"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

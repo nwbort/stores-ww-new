@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93234",
+  "Name": "Cowes",
+  "AddressLine1": "124-128 Thompson Avenue",
+  "AddressLine2": null,
+  "Suburb": "Cowes",
+  "State": "VIC",
+  "Postcode": "3922",
+  "Latitude": "-38.4533",
+  "Longitude": "145.2385",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 5219 3661",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

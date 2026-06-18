@@ -1,0 +1,107 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "55396",
+  "Name": "Ampol Foodary South Lake",
+  "AddressLine1": "2-Omeo St Cnr North Lake Rd",
+  "AddressLine2": null,
+  "Suburb": "South Lake",
+  "State": "WA",
+  "Postcode": "6164",
+  "Latitude": "-32.108221",
+  "Longitude": "115.829304",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

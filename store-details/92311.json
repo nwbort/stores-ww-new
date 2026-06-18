@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92311",
+  "Name": "Oxenford",
+  "AddressLine1": "2 Cottonwood Place (Cnr Old Pacific Hwy)",
+  "AddressLine2": null,
+  "Suburb": "Oxenford",
+  "State": "QLD",
+  "Postcode": "4210",
+  "Latitude": "-27.8912",
+  "Longitude": "153.3134",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 4167 0769",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

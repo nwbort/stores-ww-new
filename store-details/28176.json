@@ -1,0 +1,107 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "28176",
+  "Name": "Ampol Foodary Queanbeyan Bungendore Rd",
+  "AddressLine1": "84-Bungendore Rd",
+  "AddressLine2": null,
+  "Suburb": "Queanbeyan",
+  "State": "NSW",
+  "Postcode": "2620",
+  "Latitude": "-35.34927",
+  "Longitude": "149.24381",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0430-2359"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0430-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0430-2359"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0430-2359"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0430-2359"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0430-2359"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 95 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

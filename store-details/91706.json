@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91706",
+  "Name": "Nowra",
+  "AddressLine1": "58 North Street",
+  "AddressLine2": null,
+  "Suburb": "Nowra",
+  "State": "NSW",
+  "Postcode": "2541",
+  "Latitude": "-34.8726",
+  "Longitude": "150.6015",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 6957 2647",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0730-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

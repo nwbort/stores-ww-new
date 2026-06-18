@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "99008",
+  "Name": "Bacchus Marsh",
+  "AddressLine1": "101 Gisborne Road",
+  "AddressLine2": null,
+  "Suburb": "Bacchus Marsh",
+  "State": "VIC",
+  "Postcode": "3340",
+  "Latitude": "-37.66468",
+  "Longitude": "144.43805",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 7065 5747",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Sun: 0600-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "06:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,111 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "28974",
+  "Name": "Ampol Foodary Glenbrook",
+  "AddressLine1": "78-Great Western Hwy Cnr Ross St",
+  "AddressLine2": null,
+  "Suburb": "Glenbrook",
+  "State": "NSW",
+  "Postcode": "2773",
+  "Latitude": "-33.7653789",
+  "Longitude": "150.6214785",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Thu: 0500-2230"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Fri: 0500-2230"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Sat: 0500-2230"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Sun: 0500-2230"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Mon: 0500-2230"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Tue: 0500-2230"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Wed: 0500-2230"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Thu: 0500-2230"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

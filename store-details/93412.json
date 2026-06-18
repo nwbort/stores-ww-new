@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "93412",
+  "Name": "Kennington",
+  "AddressLine1": "125 Condon Street",
+  "AddressLine2": null,
+  "Suburb": "Kennington",
+  "State": "VIC",
+  "Postcode": "3550",
+  "Latitude": "-36.7726",
+  "Longitude": "144.3044",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9068 8512",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0600-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0600-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0600-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0600-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0600-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0600-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "376",
+      "Name": "BIG W Bendigo",
+      "AddressLine1": "Mitchell Street",
+      "AddressLine2": null,
+      "Suburb": "Bendigo",
+      "State": "VIC",
+      "Postcode": "3550",
+      "Latitude": "-36.76458",
+      "Longitude": "144.283951",
+      "GeoLevel": "7",
+      "Distance": "2.02",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0376/BIG-W-Bendigo?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

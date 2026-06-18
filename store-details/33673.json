@@ -1,0 +1,111 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "33673",
+  "Name": "Ampol Foodary Mansfield",
+  "AddressLine1": "2-Chenery St",
+  "AddressLine2": null,
+  "Suburb": "Mansfield",
+  "State": "VIC",
+  "Postcode": "3722",
+  "Latitude": "-37.0532066",
+  "Longitude": "146.0929345",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0630-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Diesel",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Diesel",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

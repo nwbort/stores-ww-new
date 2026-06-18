@@ -1,0 +1,176 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "17915",
+  "Name": "Ampol Foodary Dalby",
+  "AddressLine1": "Warrego Highway",
+  "AddressLine2": null,
+  "Suburb": "Dalby",
+  "State": "QLD",
+  "Postcode": "4405",
+  "Latitude": "-27.173446",
+  "Longitude": "151.242933",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Diesel",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-BBQGasAvailable",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Diesel",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "BBQ Gas Available",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "289",
+      "Name": "BIG W Dalby",
+      "AddressLine1": "Corner of Cunningham Street and Patrick Street",
+      "AddressLine2": null,
+      "Suburb": "Dalby",
+      "State": "QLD",
+      "Postcode": "4405",
+      "Latitude": "-27.18153818",
+      "Longitude": "151.2661893",
+      "GeoLevel": "0",
+      "Distance": "2.48",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0289/BIG-W-Dalby?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 7:30 PM",
+          "TradingHourForDisplay": "Thu: 0900-1930"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 4:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1600"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0900-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 7:30 PM",
+          "TradingHourForDisplay": "Thu: 0900-1930"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

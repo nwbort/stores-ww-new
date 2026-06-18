@@ -1,0 +1,103 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "33293",
+  "Name": "Ampol Foodary Bridgewater",
+  "AddressLine1": "Cnr Calder Hwy & Kerang Rd",
+  "AddressLine2": null,
+  "Suburb": "Bridgewater On Loddon",
+  "State": "VIC",
+  "Postcode": "3516",
+  "Latitude": "-36.599003",
+  "Longitude": "143.937155",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-1900"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}
