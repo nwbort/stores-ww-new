@@ -23,17 +23,24 @@ import xml.etree.ElementTree as ET
 import json
 import sys
 
+KNOWN_SUFFIXES = {'ampol'}
+
 def extract_store(url):
     slug = url.rstrip('/').split('/')[-1]
     if not slug:
         return None
     parts = slug.split('-')
+    # Strip a known brand suffix (e.g. -ampol) before parsing id and name
+    store_type = None
+    if parts[-1].lower() in KNOWN_SUFFIXES:
+        store_type = parts[-1].lower()
+        parts = parts[:-1]
     # Expect at least: {state}-{name}-{id}
     if len(parts) < 3 or not parts[-1].isdigit():
         return None
     store_id = int(parts[-1])
     name = ' '.join(p.title() for p in parts[1:-1])
-    return name, store_id
+    return store_id, name, store_type
 
 tree = ET.parse(sys.argv[1])
 root = tree.getroot()
@@ -49,8 +56,11 @@ for url_elem in root.findall('sm:url', ns):
         continue
     result = extract_store(loc)
     if result:
-        name, store_id = result
-        stores.append({'id': store_id, 'name': name, 'url': loc})
+        store_id, name, store_type = result
+        entry = {'id': store_id, 'name': name, 'url': loc}
+        if store_type:
+            entry['type'] = store_type
+        stores.append(entry)
 
 print(json.dumps(stores, indent=2))
 PYEOF
