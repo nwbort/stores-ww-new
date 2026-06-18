@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 import json
 import sys
 
-KNOWN_SUFFIXES = {'ampol'}
+KNOWN_SUFFIXES = {'ampol', 'eg'}
 
 def extract_store(url):
     slug = url.rstrip('/').split('/')[-1]
