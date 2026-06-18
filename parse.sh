@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 import json
 import sys
 
-def extract_store_name(url):
+def extract_store(url):
     slug = url.rstrip('/').split('/')[-1]
     if not slug:
         return None
@@ -31,9 +31,9 @@ def extract_store_name(url):
     # Expect at least: {state}-{name}-{id}
     if len(parts) < 3 or not parts[-1].isdigit():
         return None
-    # Drop state prefix (index 0) and numeric id (last)
-    name_parts = parts[1:-1]
-    return ' '.join(p.title() for p in name_parts)
+    store_id = int(parts[-1])
+    name = ' '.join(p.title() for p in parts[1:-1])
+    return name, store_id
 
 tree = ET.parse(sys.argv[1])
 root = tree.getroot()
@@ -47,9 +47,10 @@ for url_elem in root.findall('sm:url', ns):
     loc = loc_elem.text
     if '/storelocator/' not in loc:
         continue
-    name = extract_store_name(loc)
-    if name:
-        stores.append({'name': name, 'url': loc})
+    result = extract_store(loc)
+    if result:
+        name, store_id = result
+        stores.append({'id': store_id, 'name': name, 'url': loc})
 
 print(json.dumps(stores, indent=2))
 PYEOF
