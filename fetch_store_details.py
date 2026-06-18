@@ -25,8 +25,8 @@ DETAILS_DIR = "store-details"
 COMBINED_JSON = "woolworths.com.au-store-details.json"
 API_BASE = "https://www.woolworths.com.au/apis/ui/StoreLocator/Store"
 
-MAX_WORKERS = 5
-REQUESTS_PER_SECOND = 3.0   # global ceiling; 2205 stores ≈ 12 min full refresh
+MAX_WORKERS = 10
+REQUESTS_PER_SECOND = 10.0  # global ceiling; 2205 stores ≈ 4 min full refresh
 MAX_RETRIES = 3
 RETRY_BACKOFF = [5, 10, 20]  # seconds between retries
 
