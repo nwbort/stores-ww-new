@@ -1,0 +1,179 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "11312",
+  "Name": "Ampol Foodary Woree",
+  "AddressLine1": "590-Mulgrave Rd",
+  "AddressLine2": null,
+  "Suburb": "Woree",
+  "State": "QLD",
+  "Postcode": "4868",
+  "Latitude": "-16.9505095",
+  "Longitude": "145.742352",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "257",
+      "Name": "BIG W Cairns",
+      "AddressLine1": "537 Mulgrave Road",
+      "AddressLine2": null,
+      "Suburb": "Earlville",
+      "State": "QLD",
+      "Postcode": "4870",
+      "Latitude": "-16.94420885",
+      "Longitude": "145.7400894",
+      "GeoLevel": "7",
+      "Distance": "0.78",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0257/BIG-W-Earlville?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "77030",
+  "Name": "Ampol Foodary Yarrawonga Middleton St",
+  "AddressLine1": "8-Middleton St",
+  "AddressLine2": null,
+  "Suburb": "Yarrawonga",
+  "State": "NT",
+  "Postcode": "0830",
+  "Latitude": "-12.4698632",
+  "Longitude": "130.9875898",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "236",
+      "Name": "BIG W Palmerston",
+      "AddressLine1": "Roystonea Ave and Yarrawonga Road",
+      "AddressLine2": null,
+      "Suburb": "Palmerston",
+      "State": "NT",
+      "Postcode": "0830",
+      "Latitude": "-12.473088",
+      "Longitude": "130.983076",
+      "GeoLevel": "0",
+      "Distance": "0.64",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0236/BIG-W-Palmerston?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

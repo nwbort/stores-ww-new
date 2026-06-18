@@ -1,0 +1,137 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5601",
+  "Name": "Port Augusta",
+  "AddressLine1": "25 Tassie Street",
+  "AddressLine2": null,
+  "Suburb": "Port Augusta",
+  "State": "SA",
+  "Postcode": "5700",
+  "Latitude": "-32.4899211",
+  "Longitude": "137.7616659",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8642 7202",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "562",
+      "Name": "BIG W Port Augusta",
+      "AddressLine1": "Tassie Street",
+      "AddressLine2": null,
+      "Suburb": "Port Augusta",
+      "State": "SA",
+      "Postcode": "5700",
+      "Latitude": "-32.49078579",
+      "Longitude": "137.7604028",
+      "GeoLevel": "6",
+      "Distance": "0.17",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0562/BIG-W-Port Augusta?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

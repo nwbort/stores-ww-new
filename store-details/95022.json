@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "95022",
+  "Name": "Mt Barker",
+  "AddressLine1": "1 Diagonal Way (Cnr Adelaide & Mt. Barker Rds), Totness",
+  "AddressLine2": null,
+  "Suburb": "Mt Barker",
+  "State": "SA",
+  "Postcode": "5250",
+  "Latitude": "-35.0555",
+  "Longitude": "138.852",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 8548 3571",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

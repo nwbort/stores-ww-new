@@ -1,0 +1,65 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2554",
+  "Name": "Inala",
+  "AddressLine1": "20 Kittyhawke Ave",
+  "AddressLine2": null,
+  "Suburb": "Inala",
+  "State": "QLD",
+  "Postcode": "4077",
+  "Latitude": "-27.59818814",
+  "Longitude": "152.9741044",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 3012 3362",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "94238",
+  "Name": "Miami",
+  "AddressLine1": "651-669 Old Coast Road",
+  "AddressLine2": null,
+  "Suburb": "Miami",
+  "State": "WA",
+  "Postcode": "6210",
+  "Latitude": "-32.5848",
+  "Longitude": "115.6604",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0481",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

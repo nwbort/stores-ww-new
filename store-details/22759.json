@@ -1,0 +1,111 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "22759",
+  "Name": "Ampol Foodary Gosford West",
+  "AddressLine1": "283-Manns Rd Cnr Merinee Rd",
+  "AddressLine2": null,
+  "Suburb": "Gosford West",
+  "State": "NSW",
+  "Postcode": "2250",
+  "Latitude": "-33.4165378",
+  "Longitude": "151.3252698",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

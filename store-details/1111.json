@@ -1,0 +1,139 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1111",
+  "Name": "Tuggerah",
+  "AddressLine1": "50 Wyong Road",
+  "AddressLine2": null,
+  "Suburb": "Tuggerah",
+  "State": "NSW",
+  "Postcode": "2259",
+  "Latitude": "-33.3083342",
+  "Longitude": "151.4147659",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 4356 4504",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "172",
+      "Name": "BIG W Tuggerah",
+      "AddressLine1": "16 Gavenlock Road",
+      "AddressLine2": null,
+      "Suburb": "Tuggerah",
+      "State": "NSW",
+      "Postcode": "2259",
+      "Latitude": "-33.30883839",
+      "Longitude": "151.4138798",
+      "GeoLevel": "6",
+      "Distance": "0.14",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0172/BIG-W-Tuggerah?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

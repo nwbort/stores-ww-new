@@ -1,0 +1,140 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1416",
+  "Name": "Double Bay",
+  "AddressLine1": "Kiaora Lane and Kiaora Road",
+  "AddressLine2": null,
+  "Suburb": "Double Bay",
+  "State": "NSW",
+  "Postcode": "2028",
+  "Latitude": "-33.87813873",
+  "Longitude": "151.2444126",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 8736 7472",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Cut on Demand",
+    "Direct to boot - drive through",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Scan&Go",
+    "Seafood",
+    "Sushi Bar",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "101",
+      "Name": "BIG W Town Hall",
+      "AddressLine1": "Big W Service Desk, Level 1  Cnr Park & George Street Sydney",
+      "AddressLine2": null,
+      "Suburb": "Sydney",
+      "State": "NSW",
+      "Postcode": "2000",
+      "Latitude": "-33.873204",
+      "Longitude": "151.2073606",
+      "GeoLevel": "0",
+      "Distance": "3.42",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0101/BIG-W-Sydney?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2100"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2100"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        }
+      ],
+      "Facilities": [
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

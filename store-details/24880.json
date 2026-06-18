@@ -1,0 +1,115 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "24880",
+  "Name": "Ampol Foodary Austral",
+  "AddressLine1": "68-Kelly Street",
+  "AddressLine2": null,
+  "Suburb": "Austral",
+  "State": "NSW",
+  "Postcode": "2179",
+  "Latitude": "-33.9479401",
+  "Longitude": "150.7928115",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0430-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0430-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2300"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Diesel",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Diesel",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

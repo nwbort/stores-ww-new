@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91565",
+  "Name": "Scone",
+  "AddressLine1": "Lot 402 New England Highway",
+  "AddressLine2": null,
+  "Suburb": "Scone",
+  "State": "NSW",
+  "Postcode": "2337",
+  "Latitude": "-32.0578",
+  "Longitude": "150.8708",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8073 7605",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0400-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0400-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0400-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0400-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0400-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0400-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

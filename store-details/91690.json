@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91690",
+  "Name": "Jerrabomberra",
+  "AddressLine1": "10 Limestone Drive",
+  "AddressLine2": null,
+  "Suburb": "Jerrabomberra",
+  "State": "NSW",
+  "Postcode": "2619",
+  "Latitude": "-35.3808",
+  "Longitude": "149.2001",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8073 3960",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

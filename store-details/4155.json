@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4155",
+  "Name": "Bennett Springs",
+  "AddressLine1": "Cnr Beechboro Road And Bennett Springs Drive",
+  "AddressLine2": null,
+  "Suburb": "Beechboro",
+  "State": "WA",
+  "Postcode": "6063",
+  "Latitude": "-31.85921946",
+  "Longitude": "115.9260159",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 6318 9918",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

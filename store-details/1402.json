@@ -1,0 +1,73 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1402",
+  "Name": "Revesby",
+  "AddressLine1": "60 Marco Avenue",
+  "AddressLine2": null,
+  "Suburb": "Revesby",
+  "State": "NSW",
+  "Postcode": "2212",
+  "Latitude": "-33.95138336",
+  "Longitude": "151.0131654",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 8709 4324",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0700-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0700-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0700-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0000"
+    }
+  ],
+  "Facilities": [
+    "Australia Post Parcel Locker",
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Reverse Vending Machines (RVM)",
+    "Scan&Go Trolley",
+    "Seafood",
+    "Sushi Bar"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

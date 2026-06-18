@@ -1,0 +1,186 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "22478",
+  "Name": "Ampol Foodary Charlestown",
+  "AddressLine1": "81-Pacific Hwy",
+  "AddressLine2": null,
+  "Suburb": "Charlestown",
+  "State": "NSW",
+  "Postcode": "2290",
+  "Latitude": "-32.9671807",
+  "Longitude": "151.6954957",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "162",
+      "Name": "BIG W Charlestown",
+      "AddressLine1": "30 Pearson Street",
+      "AddressLine2": null,
+      "Suburb": "Charlestown",
+      "State": "NSW",
+      "Postcode": "2290",
+      "Latitude": "-32.96415516",
+      "Longitude": "151.6938101",
+      "GeoLevel": "7",
+      "Distance": "0.34",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0162/BIG-W-Charlestown?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

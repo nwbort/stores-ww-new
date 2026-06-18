@@ -1,0 +1,139 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4360",
+  "Name": "Armadale",
+  "AddressLine1": "Cnr Neerigen Street And Orchard Avenue",
+  "AddressLine2": null,
+  "Suburb": "Armadale",
+  "State": "WA",
+  "Postcode": "6112",
+  "Latitude": "-32.14945382",
+  "Longitude": "116.0148171",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 9234 7110",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Australia Post Parcel Locker",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "457",
+      "Name": "BIG W Armadale",
+      "AddressLine1": "10 Orchard Avenue",
+      "AddressLine2": null,
+      "Suburb": "Armadale",
+      "State": "WA",
+      "Postcode": "6112",
+      "Latitude": "-32.15036184",
+      "Longitude": "116.014835",
+      "GeoLevel": "7",
+      "Distance": "0.15",
+      "Phone": "1300 411 875",
+      "GMTZone": "8:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0457/BIG-W-Armadale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

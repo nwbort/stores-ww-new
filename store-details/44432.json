@@ -1,0 +1,181 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "44432",
+  "Name": "Ampol Foodary Modbury",
+  "AddressLine1": "1003-North East Road",
+  "AddressLine2": null,
+  "Suburb": "Modbury",
+  "State": "SA",
+  "Postcode": "5092",
+  "Latitude": "-34.828425",
+  "Longitude": "138.691982",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "555",
+      "Name": "BIG W Tea Tree Plaza",
+      "AddressLine1": "976 North East Road",
+      "AddressLine2": null,
+      "Suburb": "Modbury",
+      "State": "SA",
+      "Postcode": "5092",
+      "Latitude": "-34.83149131",
+      "Longitude": "138.691223",
+      "GeoLevel": "7",
+      "Distance": "0.39",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0555/BIG-W-Modbury?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

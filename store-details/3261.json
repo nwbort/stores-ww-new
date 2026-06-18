@@ -1,0 +1,68 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3261",
+  "Name": "Leongatha",
+  "AddressLine1": "1-7 Peart Street",
+  "AddressLine2": null,
+  "Suburb": "Leongatha",
+  "State": "VIC",
+  "Postcode": "3953",
+  "Latitude": "-38.47633299",
+  "Longitude": "145.943511",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 5667 3700",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

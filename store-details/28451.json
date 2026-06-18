@@ -1,0 +1,183 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "28451",
+  "Name": "Ampol Foodary Maryland",
+  "AddressLine1": "41-Minmi Rd",
+  "AddressLine2": null,
+  "Suburb": "Maryland",
+  "State": "NSW",
+  "Postcode": "2287",
+  "Latitude": "-32.88964",
+  "Longitude": "151.662078",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2100"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "159",
+      "Name": "BIG W Jesmond",
+      "AddressLine1": "Corner of Blue Gum Road and Mordue Parade",
+      "AddressLine2": null,
+      "Suburb": "Jesmond",
+      "State": "NSW",
+      "Postcode": "2299",
+      "Latitude": "-32.9042",
+      "Longitude": "151.6906",
+      "GeoLevel": "0",
+      "Distance": "3.1",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0159/BIG-W-Jesmond?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

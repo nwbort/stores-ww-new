@@ -1,0 +1,137 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1179",
+  "Name": "Green Hills",
+  "AddressLine1": "Stockland Centre, 1 Molly Morgan Drive",
+  "AddressLine2": null,
+  "Suburb": "East Maitland",
+  "State": "NSW",
+  "Postcode": "2323",
+  "Latitude": "-32.7631333",
+  "Longitude": "151.5918896",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 4015 6307",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up",
+    "Scan&Go Trolley"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "139",
+      "Name": "BIG W Green Hills",
+      "AddressLine1": "1 Molly Morgan Drive",
+      "AddressLine2": null,
+      "Suburb": "East Maitland",
+      "State": "NSW",
+      "Postcode": "2323",
+      "Latitude": "-32.76067",
+      "Longitude": "151.592743",
+      "GeoLevel": "0",
+      "Distance": "0.27",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0139/BIG-W-East Maitland?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

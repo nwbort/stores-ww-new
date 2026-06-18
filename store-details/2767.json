@@ -1,0 +1,136 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2767",
+  "Name": "Dalby",
+  "AddressLine1": "17-67 Cunningham Street",
+  "AddressLine2": null,
+  "Suburb": "Dalby",
+  "State": "QLD",
+  "Postcode": "4405",
+  "Latitude": "-27.18086945",
+  "Longitude": "151.2683705",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 4613 2842",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "289",
+      "Name": "BIG W Dalby",
+      "AddressLine1": "Corner of Cunningham Street and Patrick Street",
+      "AddressLine2": null,
+      "Suburb": "Dalby",
+      "State": "QLD",
+      "Postcode": "4405",
+      "Latitude": "-27.18153818",
+      "Longitude": "151.2661893",
+      "GeoLevel": "0",
+      "Distance": "0.19",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0289/BIG-W-Dalby?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 7:30 PM",
+          "TradingHourForDisplay": "Thu: 0900-1930"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 4:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1600"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0900-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 7:30 PM",
+          "TradingHourForDisplay": "Thu: 0900-1930"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

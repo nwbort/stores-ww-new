@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92298",
+  "Name": "Beerwah",
+  "AddressLine1": "Lot 271 Peachester Street",
+  "AddressLine2": null,
+  "Suburb": "Beerwah",
+  "State": "QLD",
+  "Postcode": "4519",
+  "Latitude": "-26.8568",
+  "Longitude": "152.9549",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 4082 7412",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

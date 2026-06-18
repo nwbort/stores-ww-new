@@ -1,0 +1,145 @@
+{
+  "Division": "EG",
+  "StoreNo": "91433",
+  "Name": "Seven Hills North",
+  "AddressLine1": "1/155 Prospect Highway",
+  "AddressLine2": null,
+  "Suburb": "Seven Hills North",
+  "State": "NSW",
+  "Postcode": "2147",
+  "Latitude": "-33.7695",
+  "Longitude": "150.9421",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 96204057",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "157",
+      "Name": "BIG W Winston Hills",
+      "AddressLine1": "180-190 Caroline Chisolm Drive",
+      "AddressLine2": null,
+      "Suburb": "Winston Hills",
+      "State": "NSW",
+      "Postcode": "2153",
+      "Latitude": "-33.7723084",
+      "Longitude": "150.9687836",
+      "GeoLevel": "0",
+      "Distance": "2.49",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0157/BIG-W-Winston Hills?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

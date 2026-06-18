@@ -1,0 +1,115 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "55408",
+  "Name": "Ampol Foodary Coolgardie",
+  "AddressLine1": "110-114-Bayley St",
+  "AddressLine2": null,
+  "Suburb": "Coolgardie",
+  "State": "WA",
+  "Postcode": "6429",
+  "Latitude": "-30.9540619",
+  "Longitude": "121.1587046",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0400-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0400-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0400-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0400-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0400-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0400-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0400-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0400-0000"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Diesel",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Diesel",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,178 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "55462",
+  "Name": "Ampol Foodary Kingsley",
+  "AddressLine1": "86-Kingsley Dr",
+  "AddressLine2": null,
+  "Suburb": "Kingsley",
+  "State": "WA",
+  "Postcode": "6026",
+  "Latitude": "-31.8070156",
+  "Longitude": "115.7888598",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "448",
+      "Name": "BIG W Kingsway",
+      "AddressLine1": "Hepburn Avenue and Wanneroo Road",
+      "AddressLine2": null,
+      "Suburb": "Landsdale",
+      "State": "WA",
+      "Postcode": "6065",
+      "Latitude": "-31.82024",
+      "Longitude": "115.820869",
+      "GeoLevel": "0",
+      "Distance": "3.35",
+      "Phone": "1300 411 875",
+      "GMTZone": "8:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0448/BIG-W-Landsdale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

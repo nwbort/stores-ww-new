@@ -1,0 +1,144 @@
+{
+  "Division": "EG",
+  "StoreNo": "92937",
+  "Name": "Gympie South",
+  "AddressLine1": "90-92 River Road",
+  "AddressLine2": null,
+  "Suburb": "Gympie South",
+  "State": "QLD",
+  "Postcode": "4570",
+  "Latitude": "-26.197",
+  "Longitude": "152.665",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8732",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0400-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0400-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0400-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0400-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "281",
+      "Name": "BIG W Gympie",
+      "AddressLine1": "Corner of Perseverance Street and Excelsior Road",
+      "AddressLine2": null,
+      "Suburb": "Gympie",
+      "State": "QLD",
+      "Postcode": "4570",
+      "Latitude": "-26.19935876",
+      "Longitude": "152.668094",
+      "GeoLevel": "0",
+      "Distance": "0.41",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0281/BIG-W-Gympie?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

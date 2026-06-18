@@ -1,0 +1,109 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "20841",
+  "Name": "Ampol Foodary Toormina",
+  "AddressLine1": "2-Minorca Pl Cnr Toormina Rd",
+  "AddressLine2": null,
+  "Suburb": "Toormina",
+  "State": "NSW",
+  "Postcode": "2452",
+  "Latitude": "-30.352418",
+  "Longitude": "153.090648",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2059"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2059"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2059"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2059"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Mon: 0500-2059"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Tue: 0500-2059"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Wed: 0500-2059"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 8:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2059"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 95 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

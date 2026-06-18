@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "93300",
+  "Name": "Moama",
+  "AddressLine1": "2 Perricoota Rd",
+  "AddressLine2": null,
+  "Suburb": "Moama",
+  "State": "NSW",
+  "Postcode": "2731",
+  "Latitude": "-36.1065",
+  "Longitude": "144.7507",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9493",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0630-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0630-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "392",
+      "Name": "BIG W Echuca",
+      "AddressLine1": "Maude Street and Annesley Street",
+      "AddressLine2": null,
+      "Suburb": "Echuca",
+      "State": "VIC",
+      "Postcode": "3564",
+      "Latitude": "-36.13142734",
+      "Longitude": "144.7522672",
+      "GeoLevel": "0",
+      "Distance": "2.83",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0392/BIG-W-Echuca?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "Division": "EG",
+  "StoreNo": "92335",
+  "Name": "Cannonvale",
+  "AddressLine1": "Corner of Paluma and Prosperine Shute Harbour Rd",
+  "AddressLine2": null,
+  "Suburb": "Cannonvale",
+  "State": "QLD",
+  "Postcode": "4802",
+  "Latitude": "-20.2904",
+  "Longitude": "148.6762",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8762",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "288",
+      "Name": "BIG W Whitsunday",
+      "AddressLine1": "Corner of Proserpine Road and Shute Harbour Road",
+      "AddressLine2": null,
+      "Suburb": "Cannonvale",
+      "State": "QLD",
+      "Postcode": "4802",
+      "Latitude": "-20.283",
+      "Longitude": "148.6883",
+      "GeoLevel": "0",
+      "Distance": "1.5",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0288/BIG-W-Cannonvale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0900-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1700"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 4:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1600"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0900-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0900-1900"
+        }
+      ],
+      "Facilities": [
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

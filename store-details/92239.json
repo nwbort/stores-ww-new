@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92239",
+  "Name": "Fairfield Waters",
+  "AddressLine1": "2-30 Lakeside Drive",
+  "AddressLine2": null,
+  "Suburb": "Fairfield Waters",
+  "State": "QLD",
+  "Postcode": "4811",
+  "Latitude": "-19.3166",
+  "Longitude": "146.8182",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8718",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0530-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0530-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

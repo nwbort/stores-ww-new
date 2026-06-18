@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93512",
+  "Name": "Leongatha",
+  "AddressLine1": "20-22 Anderson Street",
+  "AddressLine2": null,
+  "Suburb": "Leongatha",
+  "State": "VIC",
+  "Postcode": "3953",
+  "Latitude": "-38.4741",
+  "Longitude": "145.9448",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 4311 1994",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

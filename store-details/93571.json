@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93571",
+  "Name": "Bayswater",
+  "AddressLine1": "659 Mountain Hwy",
+  "AddressLine2": null,
+  "Suburb": "Bayswater",
+  "State": "VIC",
+  "Postcode": "3153",
+  "Latitude": "-37.8413",
+  "Longitude": "145.2622",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9068 8516",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92295",
+  "Name": "Acacia Ridge",
+  "AddressLine1": "1150 Beaudesert Road",
+  "AddressLine2": null,
+  "Suburb": "Acacia Ridge",
+  "State": "QLD",
+  "Postcode": "4110",
+  "Latitude": "-27.5751",
+  "Longitude": "153.0262",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8715",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0800-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,68 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1302",
+  "Name": "Albion Park",
+  "AddressLine1": "Cnr Terry & Russell Street",
+  "AddressLine2": null,
+  "Suburb": "Albion Park",
+  "State": "NSW",
+  "Postcode": "2527",
+  "Latitude": "-34.57219",
+  "Longitude": "150.77421",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 4232 6403",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

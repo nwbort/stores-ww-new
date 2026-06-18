@@ -1,0 +1,113 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "44218",
+  "Name": "Ampol Foodary Nuriootpa",
+  "AddressLine1": "174 Murray St",
+  "AddressLine2": null,
+  "Suburb": "Nuriootpa",
+  "State": "SA",
+  "Postcode": "5355",
+  "Latitude": "-34.456827",
+  "Longitude": "139.003374",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Diesel",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Diesel",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

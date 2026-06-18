@@ -1,0 +1,137 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1370",
+  "Name": "Bexley North (Metro)",
+  "AddressLine1": "216 Sarsfield Circuit",
+  "AddressLine2": null,
+  "Suburb": "Bexley North",
+  "State": "NSW",
+  "Postcode": "2207",
+  "Latitude": "-33.93898965",
+  "Longitude": "151.1149231",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 8565 9263",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Thu: 0700-2130"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Fri: 0700-2130"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Sat: 0700-2130"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Sun: 0700-2130"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Mon: 0700-2130"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Tue: 0700-2130"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Wed: 0700-2130"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Thu: 0700-2130"
+    }
+  ],
+  "Facilities": [
+    "Convenience Store",
+    "Metro",
+    "Pick up"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "182",
+      "Name": "BIG W Hurstville",
+      "AddressLine1": "Corner of Cross Street and Park Road",
+      "AddressLine2": null,
+      "Suburb": "Hurstville",
+      "State": "NSW",
+      "Postcode": "2220",
+      "Latitude": "-33.96540237",
+      "Longitude": "151.1059499",
+      "GeoLevel": "0",
+      "Distance": "3.05",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0182/BIG-W-Hurstville?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

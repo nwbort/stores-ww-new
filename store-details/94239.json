@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "94239",
+  "Name": "Katanning",
+  "AddressLine1": "137-139 Clive Street",
+  "AddressLine2": null,
+  "Suburb": "Katanning",
+  "State": "WA",
+  "Postcode": "6317",
+  "Latitude": "-33.6917",
+  "Longitude": "117.5536",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0304",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

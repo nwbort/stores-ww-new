@@ -1,0 +1,184 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "11350",
+  "Name": "Ampol Foodary Windsor",
+  "AddressLine1": "143-Newmarket Rd",
+  "AddressLine2": null,
+  "Suburb": "Windsor",
+  "State": "QLD",
+  "Postcode": "4030",
+  "Latitude": "-27.436608",
+  "Longitude": "153.023245",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0500-2359"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0500-2359"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0500-2359"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "278",
+      "Name": "BIG W Macarthur",
+      "AddressLine1": "255 Queen Street",
+      "AddressLine2": null,
+      "Suburb": "Brisbane City",
+      "State": "QLD",
+      "Postcode": "4000",
+      "Latitude": "-27.46835712",
+      "Longitude": "153.0275652",
+      "GeoLevel": "0",
+      "Distance": "3.52",
+      "Phone": "0730123313",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0278/BIG-W-Brisbane City?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

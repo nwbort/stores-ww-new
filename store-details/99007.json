@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "99007",
+  "Name": "Winter Valley",
+  "AddressLine1": "103 Ballarat-Carngham Road",
+  "AddressLine2": null,
+  "Suburb": "Winter Valley",
+  "State": "VIC",
+  "Postcode": "3358",
+  "Latitude": "-37.568567",
+  "Longitude": "143.80046",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 4311 1979",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Mon: 0600-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Tue: 0600-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Wed: 0600-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "06:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

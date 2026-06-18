@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91868",
+  "Name": "Lisarow",
+  "AddressLine1": "900 Pacific Hwy",
+  "AddressLine2": null,
+  "Suburb": "Lisarow",
+  "State": "NSW",
+  "Postcode": "2250",
+  "Latitude": "-33.384611",
+  "Longitude": "151.361808",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8870 7641",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Fri: 0400-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "06:00:00 - 21:00:00",
+      "TradingHourForDisplay": "Sun: 0600-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Mon: 0400-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Tue: 0400-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Wed: 0400-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

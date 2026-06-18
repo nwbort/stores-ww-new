@@ -1,0 +1,19 @@
+name: Test Store Details API
+
+on:
+  push:
+    branches:
+      - claude/store-details-api-test-tfvm99
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Make scripts executable
+      run: chmod +x get_store_details.sh
+
+    - name: Run store details tests
+      run: python3 test_store_details.py

@@ -1,0 +1,63 @@
+{
+  "Division": "EG",
+  "StoreNo": "10507",
+  "Name": "Agnes Water",
+  "AddressLine1": "Round Hill Rd Cnr Captain Cook Dr",
+  "AddressLine2": null,
+  "Suburb": "Agnes Water",
+  "State": "QLD",
+  "Postcode": "4677",
+  "Latitude": "-24.212387",
+  "Longitude": "151.903349",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "0749749166",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Thu: "
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Fri: "
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Sat: "
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Sun: "
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Mon: "
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Tue: "
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Wed: "
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": " ",
+      "TradingHourForDisplay": "Thu: "
+    }
+  ],
+  "Facilities": [],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,142 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1165",
+  "Name": "Mt Hutton",
+  "AddressLine1": "46 Wilson Road",
+  "AddressLine2": null,
+  "Suburb": "Mt Hutton",
+  "State": "NSW",
+  "Postcode": "2290",
+  "Latitude": "-32.984334",
+  "Longitude": "151.672295",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 4902 2714",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Reverse Vending Machines (RVM)",
+    "Seafood",
+    "Sushi Bar",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "174",
+      "Name": "BIG W Mt Hutton",
+      "AddressLine1": "Wilson Road and Rosalind Street",
+      "AddressLine2": null,
+      "Suburb": "Mount Hutton",
+      "State": "NSW",
+      "Postcode": "2290",
+      "Latitude": "-32.98502487",
+      "Longitude": "151.6718942",
+      "GeoLevel": "0",
+      "Distance": "0.11",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0174/BIG-W-Mount Hutton?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

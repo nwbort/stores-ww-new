@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "92227",
+  "Name": "Ballina",
+  "AddressLine1": "44 Bangalow Road (Access via Kerr St)",
+  "AddressLine2": null,
+  "Suburb": "Ballina",
+  "State": "NSW",
+  "Postcode": "2478",
+  "Latitude": "-28.8583",
+  "Longitude": "153.5606",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8073 3959",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Mon: 0500-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Tue: 0500-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Wed: 0500-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0500-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "134",
+      "Name": "BIG W Ballina",
+      "AddressLine1": "Corner of Kerr Street and Bangalow Road",
+      "AddressLine2": null,
+      "Suburb": "Ballina",
+      "State": "NSW",
+      "Postcode": "2478",
+      "Latitude": "-28.85853621",
+      "Longitude": "153.5618251",
+      "GeoLevel": "6",
+      "Distance": "0.1",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0134/BIG-W-Ballina?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

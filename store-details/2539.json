@@ -1,0 +1,67 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2539",
+  "Name": "Mt Isa",
+  "AddressLine1": "2 Miles Street",
+  "AddressLine2": null,
+  "Suburb": "Mount Isa",
+  "State": "QLD",
+  "Postcode": "4825",
+  "Latitude": "-20.727995",
+  "Longitude": "139.491635",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 4437 2025",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Fri: 0900-1800"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "10:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1000-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

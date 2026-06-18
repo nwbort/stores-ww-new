@@ -1,0 +1,68 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2540",
+  "Name": "Casino",
+  "AddressLine1": "Canterbury Street",
+  "AddressLine2": null,
+  "Suburb": "Casino",
+  "State": "NSW",
+  "Postcode": "2470",
+  "Latitude": "-28.86374199",
+  "Longitude": "153.0495",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6663 6100",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

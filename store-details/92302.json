@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92302",
+  "Name": "Flagstone",
+  "AddressLine1": "1 Bushmans Drive",
+  "AddressLine2": null,
+  "Suburb": "Flagstone",
+  "State": "QLD",
+  "Postcode": "4280",
+  "Latitude": "-27.81638",
+  "Longitude": "152.96658",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8788",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Fri: 0400-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Sat: 0400-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Sun: 0400-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Mon: 0400-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Tue: 0400-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Wed: 0400-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "04:00:00 - 23:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

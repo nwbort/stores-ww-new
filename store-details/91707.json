@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91707",
+  "Name": "Wollongong West",
+  "AddressLine1": "425 Crown Street",
+  "AddressLine2": null,
+  "Suburb": "Wollongong West",
+  "State": "NSW",
+  "Postcode": "2500",
+  "Latitude": "-34.4263",
+  "Longitude": "150.8797",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 6865 5846",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

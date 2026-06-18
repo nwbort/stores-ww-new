@@ -1,0 +1,71 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3153",
+  "Name": "Glen Huntly",
+  "AddressLine1": "Cnr Glen Huntly Road And Manchester Grove",
+  "AddressLine2": null,
+  "Suburb": "Glen Huntly",
+  "State": "VIC",
+  "Postcode": "3163",
+  "Latitude": "-37.888968",
+  "Longitude": "145.041068",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 8347 5879",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0700-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0700-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0700-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0700-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0000"
+    }
+  ],
+  "Facilities": [
+    "Australia Post Parcel Locker",
+    "Cut on Demand",
+    "EV Charging",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

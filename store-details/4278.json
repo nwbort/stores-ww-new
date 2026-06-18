@@ -1,0 +1,63 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4278",
+  "Name": "Nedlands",
+  "AddressLine1": "80 Stirling Highway",
+  "AddressLine2": null,
+  "Suburb": "Nedlands",
+  "State": "WA",
+  "Postcode": "6009",
+  "Latitude": "-31.980199",
+  "Longitude": "115.797159",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "8:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Thu: CLOSED"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Fri: CLOSED"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Sat: CLOSED"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Sun: CLOSED"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Mon: CLOSED"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Tue: CLOSED"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Wed: CLOSED"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "CLOSED",
+      "TradingHourForDisplay": "Thu: CLOSED"
+    }
+  ],
+  "Facilities": [],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

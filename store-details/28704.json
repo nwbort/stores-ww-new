@@ -1,0 +1,111 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "28704",
+  "Name": "Ampol Foodary Mt Victoria",
+  "AddressLine1": "36a-Great Western Hwy Cnr Mt York Rd",
+  "AddressLine2": null,
+  "Suburb": "Mt Victoria",
+  "State": "NSW",
+  "Postcode": "2786",
+  "Latitude": "-33.5844748",
+  "Longitude": "150.2465874",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

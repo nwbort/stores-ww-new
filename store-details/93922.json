@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93922",
+  "Name": "Wyndham vale",
+  "AddressLine1": "205 Greens Rd",
+  "AddressLine2": null,
+  "Suburb": "Wyndham vale",
+  "State": "VIC",
+  "Postcode": "3024",
+  "Latitude": "-37.8874",
+  "Longitude": "144.6085",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 5614 5237",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,113 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "33190",
+  "Name": "Ampol Foodary Reservoir Mahoneys Rd",
+  "AddressLine1": "137-141-Mahoneys Rd Cnr Hughes Pde",
+  "AddressLine2": null,
+  "Suburb": "Reservoir",
+  "State": "VIC",
+  "Postcode": "3073",
+  "Latitude": "-37.692854",
+  "Longitude": "144.99092701",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Diesel",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Diesel",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

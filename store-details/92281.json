@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92281",
+  "Name": "Mt Isa",
+  "AddressLine1": "42 Miles Street",
+  "AddressLine2": null,
+  "Suburb": "Mt Isa",
+  "State": "QLD",
+  "Postcode": "4825",
+  "Latitude": "-20.7238",
+  "Longitude": "139.4926",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8777",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

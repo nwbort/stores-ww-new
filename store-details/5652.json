@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5652",
+  "Name": "Darwin City",
+  "AddressLine1": "Cnr Cavenagh & Whitfield Street",
+  "AddressLine2": null,
+  "Suburb": "Darwin",
+  "State": "NT",
+  "Postcode": "800",
+  "Latitude": "-12.46068",
+  "Longitude": "130.8403",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8995 9308",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood",
+    "Sushi Bar"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

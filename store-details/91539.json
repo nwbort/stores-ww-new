@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91539",
+  "Name": "Gunnedah",
+  "AddressLine1": "18-22 Tempest Street",
+  "AddressLine2": null,
+  "Suburb": "Gunnedah",
+  "State": "NSW",
+  "Postcode": "2380",
+  "Latitude": "-30.9762",
+  "Longitude": "150.2483",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8074 0868",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4352",
+  "Name": "Miami Plaza",
+  "AddressLine1": "3 Olive Road",
+  "AddressLine2": null,
+  "Suburb": "Falcon",
+  "State": "WA",
+  "Postcode": "6210",
+  "Latitude": "-32.5836727",
+  "Longitude": "115.66153491",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 9586 6510",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "10:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1000-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Scan&Go",
+    "Seafood",
+    "Sushi Bar"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

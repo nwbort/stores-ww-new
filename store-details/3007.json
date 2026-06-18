@@ -1,0 +1,67 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3007",
+  "Name": "Marriott Waters",
+  "AddressLine1": "Cnr Marriott Blvd & Thompsons Rd",
+  "AddressLine2": null,
+  "Suburb": "Lyndhurst",
+  "State": "VIC",
+  "Postcode": "3975",
+  "Latitude": "-38.0772985",
+  "Longitude": "145.2495168",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 8793 3374",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    }
+  ],
+  "Facilities": [
+    "Cut on Demand",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

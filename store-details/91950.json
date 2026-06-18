@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "91950",
+  "Name": "Campbelltown Mall",
+  "AddressLine1": "90-94 Queen Street (Cnr Broughton Street)",
+  "AddressLine2": null,
+  "Suburb": "Campbelltown Mall",
+  "State": "NSW",
+  "Postcode": "2560",
+  "Latitude": "-34.0635",
+  "Longitude": "150.8174",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 9054 0495",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0500-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0500-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0500-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0500-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0500-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0500-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "154",
+      "Name": "BIG W Campbelltown",
+      "AddressLine1": "200 Gilchrist Drive",
+      "AddressLine2": null,
+      "Suburb": "Ambarvale",
+      "State": "NSW",
+      "Postcode": "2560",
+      "Latitude": "-34.07748124",
+      "Longitude": "150.797553",
+      "GeoLevel": "0",
+      "Distance": "2.41",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0154/BIG-W-Ambarvale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

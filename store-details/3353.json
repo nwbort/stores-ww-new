@@ -1,0 +1,73 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3353",
+  "Name": "Heidelberg",
+  "AddressLine1": "451 Lower Heidelberg Road",
+  "AddressLine2": null,
+  "Suburb": "Heidelberg",
+  "State": "VIC",
+  "Postcode": "3084",
+  "Latitude": "-37.7586065",
+  "Longitude": "145.0687312",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 9624 6234",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    }
+  ],
+  "Facilities": [
+    "Australia Post Parcel Locker",
+    "Cut on Demand",
+    "Direct to boot - drive through",
+    "EV Charging",
+    "Instore Bakery",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

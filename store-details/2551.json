@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2551",
+  "Name": "Weipa",
+  "AddressLine1": "Central Avenue",
+  "AddressLine2": null,
+  "Suburb": "Weipa",
+  "State": "QLD",
+  "Postcode": "4874",
+  "Latitude": "-12.64003499",
+  "Longitude": "141.865748",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 4082 4200",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

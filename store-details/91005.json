@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91005",
+  "Name": "Minto",
+  "AddressLine1": "2 Cary Grove (cnr Ben Lomond Dr)",
+  "AddressLine2": null,
+  "Suburb": "Minto",
+  "State": "NSW",
+  "Postcode": "2566",
+  "Latitude": "-34.0261",
+  "Longitude": "150.8368",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8074 3202",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0400-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0400-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0400-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0400-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

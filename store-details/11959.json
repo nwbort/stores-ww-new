@@ -1,0 +1,183 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "11959",
+  "Name": "Ampol Foodary Strathpine",
+  "AddressLine1": "321-South Pine Road",
+  "AddressLine2": null,
+  "Suburb": "Strathpine",
+  "State": "QLD",
+  "Postcode": "4500",
+  "Latitude": "-27.326165",
+  "Longitude": "152.978797",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-1900"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Diesel",
+    "Fuel-E10",
+    "Fuel-Premium98A",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Diesel",
+        "E10",
+        "Premium 98 A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "262",
+      "Name": "BIG W Strathpine",
+      "AddressLine1": "295 Gympie Road",
+      "AddressLine2": null,
+      "Suburb": "Strathpine",
+      "State": "QLD",
+      "Postcode": "4500",
+      "Latitude": "-27.3069",
+      "Longitude": "152.9925",
+      "GeoLevel": "0",
+      "Distance": "2.51",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0262/BIG-W-Strathpine?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

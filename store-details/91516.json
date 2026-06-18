@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91516",
+  "Name": "Glendale",
+  "AddressLine1": "Stockland Shopping Centre Stockland Drive",
+  "AddressLine2": null,
+  "Suburb": "Glendale",
+  "State": "NSW",
+  "Postcode": "2285",
+  "Latitude": "-32.9324",
+  "Longitude": "151.6403",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8074 0815",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

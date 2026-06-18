@@ -1,0 +1,70 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1103",
+  "Name": "Lane Cove",
+  "AddressLine1": "Cnr Longueville Road And Austin Street",
+  "AddressLine2": null,
+  "Suburb": "Lane Cove",
+  "State": "NSW",
+  "Postcode": "2066",
+  "Latitude": "-33.81516537",
+  "Longitude": "151.1690647",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 9308 7364",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Scan&Go Trolley",
+    "Seafood",
+    "Sushi Bar",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

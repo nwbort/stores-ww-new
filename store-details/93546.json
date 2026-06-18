@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93546",
+  "Name": "Ferntree Gully",
+  "AddressLine1": "1036 Burwood Highway",
+  "AddressLine2": null,
+  "Suburb": "Ferntree Gully",
+  "State": "VIC",
+  "Postcode": "3156",
+  "Latitude": "-37.8893",
+  "Longitude": "145.2926",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9422",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0530-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0530-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0530-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0530-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0530-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

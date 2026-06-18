@@ -1,0 +1,184 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "10101",
+  "Name": "Ampol Foodary Toowoomba North",
+  "AddressLine1": "282-Ruthven Street",
+  "AddressLine2": null,
+  "Suburb": "Toowoomba",
+  "State": "QLD",
+  "Postcode": "4350",
+  "Latitude": "-27.5545667",
+  "Longitude": "151.954793",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-1900"
+    }
+  ],
+  "Facilities": [
+    "Fuel-AdBlue",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "AdBlue",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "291",
+      "Name": "BIG W Grand Central",
+      "AddressLine1": "Corner of Dent Street and Margaret Street",
+      "AddressLine2": null,
+      "Suburb": "Toowoomba",
+      "State": "QLD",
+      "Postcode": "4350",
+      "Latitude": "-27.56067702",
+      "Longitude": "151.949801",
+      "GeoLevel": "0",
+      "Distance": "0.81",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0291/BIG-W-Toowoomba?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

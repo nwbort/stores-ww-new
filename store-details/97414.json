@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "97414",
+  "Name": "New Norfolk",
+  "AddressLine1": "81 High Street",
+  "AddressLine2": null,
+  "Suburb": "New Norfolk",
+  "State": "TAS",
+  "Postcode": "7140",
+  "Latitude": "-42.7802",
+  "Longitude": "147.0657",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9402",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

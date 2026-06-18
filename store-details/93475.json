@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93475",
+  "Name": "Eltham",
+  "AddressLine1": "527 Main Road",
+  "AddressLine2": null,
+  "Suburb": "Eltham",
+  "State": "VIC",
+  "Postcode": "3095",
+  "Latitude": "-37.7326",
+  "Longitude": "145.1382",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9495",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

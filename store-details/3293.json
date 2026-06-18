@@ -1,0 +1,72 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3293",
+  "Name": "Wodonga",
+  "AddressLine1": "Cnr Elgin Blvd & Hume Street",
+  "AddressLine2": null,
+  "Suburb": "Wodonga",
+  "State": "VIC",
+  "Postcode": "3960",
+  "Latitude": "-36.12066933",
+  "Longitude": "146.8868747",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6022 2622",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Cut on Demand",
+    "Direct to boot - drive through",
+    "Instore Bakery",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,183 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "11415",
+  "Name": "Ampol Foodary Coombabah",
+  "AddressLine1": "384-Oxley Drive Cnr Lae Drive",
+  "AddressLine2": null,
+  "Suburb": "Coombabah",
+  "State": "QLD",
+  "Postcode": "4216",
+  "Latitude": "-27.9120841",
+  "Longitude": "153.3884338",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0400-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0400-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0400-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0400-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0400-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0400-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0400-2300"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "269",
+      "Name": "BIG W Runaway Bay",
+      "AddressLine1": "Lae Drive",
+      "AddressLine2": null,
+      "Suburb": "Runaway Bay",
+      "State": "QLD",
+      "Postcode": "4216",
+      "Latitude": "-27.91393049",
+      "Longitude": "153.4005739",
+      "GeoLevel": "7",
+      "Distance": "1.25",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0269/BIG-W-Runaway Bay?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

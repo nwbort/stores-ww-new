@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "8385",
+  "Name": "Bondi Road (Metro)",
+  "AddressLine1": "137-147 Bondi Rd, Bondi NSW 2026",
+  "AddressLine2": null,
+  "Suburb": "Bondi Beach",
+  "State": "NSW",
+  "Postcode": "2026",
+  "Latitude": "-33.89409",
+  "Longitude": "151.26305",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 9305 1010",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0900-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0900-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0900-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0900-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0900-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "9:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0900-2200"
+    }
+  ],
+  "Facilities": [
+    "Convenience Store",
+    "Liquor (Adjacent BWS)",
+    "Metro",
+    "Sushi Bar",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5636",
+  "Name": "Katherine",
+  "AddressLine1": "Katherine Terrace",
+  "AddressLine2": null,
+  "Suburb": "Katherine",
+  "State": "NT",
+  "Postcode": "850",
+  "Latitude": "-14.466298",
+  "Longitude": "132.264589",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8973 3100",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-1900"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

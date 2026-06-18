@@ -1,0 +1,70 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "5088",
+  "Name": "Fulham Gardens",
+  "AddressLine1": "445-457 Tapleys Hill Rd",
+  "AddressLine2": null,
+  "Suburb": "Fulham Gardens",
+  "State": "SA",
+  "Postcode": "5024",
+  "Latitude": "-34.913509",
+  "Longitude": "138.514836",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8215 6957",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1700"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot",
+    "Direct to boot - drive through",
+    "Instore Bakery",
+    "Pick up",
+    "Seafood",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

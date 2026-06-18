@@ -1,0 +1,134 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "3163",
+  "Name": "Carlton",
+  "AddressLine1": "Lygon Court 368 - 380 Lygon Street",
+  "AddressLine2": null,
+  "Suburb": "Carlton",
+  "State": "VIC",
+  "Postcode": "3053",
+  "Latitude": "-37.798175",
+  "Longitude": "144.968443",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(03) 8347 5891",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    }
+  ],
+  "Facilities": [
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "391",
+      "Name": "BIG W Queen Victoria Village",
+      "AddressLine1": "Corner of Swanston Street and Lonsdale Street",
+      "AddressLine2": null,
+      "Suburb": "Melbourne",
+      "State": "VIC",
+      "Postcode": "3000",
+      "Latitude": "-37.811259",
+      "Longitude": "144.964793",
+      "GeoLevel": "0",
+      "Distance": "1.5",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0391/BIG-W-Melbourne?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2300"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2300"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

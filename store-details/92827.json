@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "92827",
+  "Name": "Kenmore",
+  "AddressLine1": "2005 Moggill Road",
+  "AddressLine2": null,
+  "Suburb": "Kenmore",
+  "State": "QLD",
+  "Postcode": "4069",
+  "Latitude": "-27.5076",
+  "Longitude": "152.9405",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 4843 4896",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0430-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0430-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0430-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0430-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0430-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0430-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "4:30 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0430-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

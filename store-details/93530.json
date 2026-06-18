@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93530",
+  "Name": "Endeavour Hills",
+  "AddressLine1": "Cnr Heatherton Road and Matthew Flinders Ave",
+  "AddressLine2": null,
+  "Suburb": "Endeavour Hills",
+  "State": "VIC",
+  "Postcode": "3802",
+  "Latitude": "-37.9762",
+  "Longitude": "145.261",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 4311 1998",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0730-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0730-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

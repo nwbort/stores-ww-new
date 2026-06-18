@@ -1,0 +1,187 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "22737",
+  "Name": "Ampol Foodary Kellyville",
+  "AddressLine1": "3-5-Windsor Rd",
+  "AddressLine2": null,
+  "Suburb": "Kellyville",
+  "State": "NSW",
+  "Postcode": "2155",
+  "Latitude": "-33.714403",
+  "Longitude": "150.960118",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0500-2359"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0500-2359"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0500-2359"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    }
+  ],
+  "Facilities": [
+    "Fuel-E10",
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "E10",
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "152",
+      "Name": "BIG W Stanhope Gardens",
+      "AddressLine1": "Cnr Stanhope Parkway & 2 Sentry Drive ",
+      "AddressLine2": null,
+      "Suburb": "Stanhope Gardens",
+      "State": "NSW",
+      "Postcode": "2768",
+      "Latitude": "-33.71912",
+      "Longitude": "150.91959",
+      "GeoLevel": "0",
+      "Distance": "3.78",
+      "Phone": "1300 144 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0152/BIG-W-Stanhope Gardens?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2000"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2200"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill",
+        "Toys for Joy Recycling Program"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

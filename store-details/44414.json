@@ -1,0 +1,182 @@
+{
+  "Division": "AMPOL",
+  "StoreNo": "44414",
+  "Name": "Ampol Foodary Reynella",
+  "AddressLine1": "1-3-Main South Road",
+  "AddressLine2": null,
+  "Suburb": "Reynella",
+  "State": "SA",
+  "Postcode": "5161",
+  "Latitude": "-35.104996",
+  "Longitude": "138.527134",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": null,
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0500-2359"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0500-2359"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0500-2359"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
+    }
+  ],
+  "Facilities": [
+    "Fuel-Premium95A",
+    "Fuel-Premium98A",
+    "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
+    "General-ATM",
+    "General-BBQGasAvailable",
+    "General-DisabledToilet",
+    "General-TwentyFourHourOutdoor",
+    "Pay-AmpolCardaccepted",
+    "Pay-FuelPay",
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    },
+    {
+      "Category": "Fuel",
+      "CategoryLabel": "Fuel",
+      "Facilities": [
+        "Premium 95 A",
+        "Premium 98 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
+      ]
+    },
+    {
+      "Category": "Pay",
+      "CategoryLabel": "Payment options",
+      "Facilities": [
+        "AmpolCard accepted",
+        "FuelPay"
+      ]
+    },
+    {
+      "Category": "General",
+      "CategoryLabel": "Store services",
+      "Facilities": [
+        "ATM",
+        "BBQ Gas Available",
+        "Disabled Toilet",
+        "Twenty Four Hour Outdoor Payment"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "563",
+      "Name": "BIG W Hallett Cove",
+      "AddressLine1": "246 Lonsdale Road",
+      "AddressLine2": null,
+      "Suburb": "Hallett Cove",
+      "State": "SA",
+      "Postcode": "5158",
+      "Latitude": "-35.07671865",
+      "Longitude": "138.5170341",
+      "GeoLevel": "0",
+      "Distance": "3.27",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0563/BIG-W-Hallett Cove?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

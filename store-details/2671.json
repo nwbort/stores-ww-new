@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2671",
+  "Name": "Ferny Grove",
+  "AddressLine1": "1340 Samford Road",
+  "AddressLine2": null,
+  "Suburb": "Ferny Grove",
+  "State": "QLD",
+  "Postcode": "4055",
+  "Latitude": "-27.40195",
+  "Longitude": "152.93647",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 3012 3304",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Thu: Closed"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Fri: Closed"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Mon: Closed"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Tue: Closed"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Wed: Closed"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Thu: Closed"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot",
+    "Instore Bakery",
+    "Seafood",
+    "Sushi Bar",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

@@ -1,0 +1,136 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "2612",
+  "Name": "Cannonvale",
+  "AddressLine1": "Cnr Paluma And Proserpine Shute Harbour Roads",
+  "AddressLine2": null,
+  "Suburb": "Cannonvale",
+  "State": "QLD",
+  "Postcode": "4802",
+  "Latitude": "-20.2905714",
+  "Longitude": "148.6733763",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(07) 4967 5702",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Fri: 0900-1800"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "288",
+      "Name": "BIG W Whitsunday",
+      "AddressLine1": "Corner of Proserpine Road and Shute Harbour Road",
+      "AddressLine2": null,
+      "Suburb": "Cannonvale",
+      "State": "QLD",
+      "Postcode": "4802",
+      "Latitude": "-20.283",
+      "Longitude": "148.6883",
+      "GeoLevel": "0",
+      "Distance": "1.83",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0288/BIG-W-Cannonvale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0900-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1700"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 4:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1600"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0900-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0900-1900"
+        }
+      ],
+      "Facilities": [
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "4851",
+  "Name": "Eglinton",
+  "AddressLine1": "1K Imperial Entrance",
+  "AddressLine2": null,
+  "Suburb": "Eglinton",
+  "State": "WA",
+  "Postcode": "6034",
+  "Latitude": "-31.59",
+  "Longitude": "115.67",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 9562 8814",
+  "GMTZone": "8:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Thu: Closed"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Fri: Closed"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Mon: Closed"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Tue: Closed"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

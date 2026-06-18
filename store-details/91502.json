@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "91502",
+  "Name": "Goulburn",
+  "AddressLine1": "12 Verner Street",
+  "AddressLine2": null,
+  "Suburb": "Goulburn",
+  "State": "NSW",
+  "Postcode": "2580",
+  "Latitude": "-34.7583",
+  "Longitude": "149.7168",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 8074 0806",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

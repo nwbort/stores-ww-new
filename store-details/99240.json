@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "99240",
+  "Name": "Upper Coomera",
+  "AddressLine1": "1 Days Road",
+  "AddressLine2": null,
+  "Suburb": "Upper Coomera",
+  "State": "QLD",
+  "Postcode": "4209",
+  "Latitude": "-27.8565",
+  "Longitude": "153.3046",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "07 3088 8795",
+  "GMTZone": "10:0",
+  "IsOpen": false,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Fri: 0400-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sat: 0500-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "05:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Sun: 0500-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Mon: 0400-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Tue: 0400-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Wed: 0400-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "04:00:00 - 22:00:00",
+      "TradingHourForDisplay": "Thu: 0400-2200"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,144 @@
+{
+  "Division": "EG",
+  "StoreNo": "91193",
+  "Name": "Canberra Airport",
+  "AddressLine1": "Corner Majura Rd and Mustang Avenue",
+  "AddressLine2": null,
+  "Suburb": "Canberra Airport",
+  "State": "ACT",
+  "Postcode": "2609",
+  "Latitude": "-35.2946",
+  "Longitude": "149.1898",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "02 9054 0493",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0500-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0500-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0500-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0500-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0500-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0500-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "191",
+      "Name": "BIG W Canberra Airport",
+      "AddressLine1": "18 - 26 Spitfire Avenue",
+      "AddressLine2": null,
+      "Suburb": "Canberra Airport",
+      "State": "ACT",
+      "Postcode": "2609",
+      "Latitude": "-35.29785325",
+      "Longitude": "149.1873553",
+      "GeoLevel": "7",
+      "Distance": "0.4",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0191/BIG-W-Canberra Airport?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

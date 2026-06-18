@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "97419",
+  "Name": "Huonville",
+  "AddressLine1": "45 Main Road",
+  "AddressLine2": null,
+  "Suburb": "Huonville",
+  "State": "TAS",
+  "Postcode": "7109",
+  "Latitude": "-43.03",
+  "Longitude": "147.0486",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9435",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-1900"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0630-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0630-1900"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Tue: 0630-1900"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Wed: 0630-1900"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:30 AM - 7:00 PM",
+      "TradingHourForDisplay": "Thu: 0630-1900"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}
