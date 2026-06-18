@@ -152,6 +152,8 @@ def main():
     if to_fetch:
         success = 0
         failed = []
+        total = len(to_fetch)
+        start_time = time.monotonic()
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             futures = {executor.submit(fetch_store, s): s for s in to_fetch}
@@ -161,12 +163,22 @@ def main():
                     with open(detail_path(store_id), "w") as f:
                         json.dump(data, f, indent=2)
                     success += 1
+                    print(f"  [{i}/{total}] store {store_id} ok")
                 else:
                     failed.append((store_id, error))
-                if i % 100 == 0 or i == len(to_fetch):
-                    print(f"  {i}/{len(to_fetch)} — {success} ok, {len(failed)} failed")
+                    print(f"  [{i}/{total}] store {store_id} FAILED: {error}")
 
-        print(f"\nResult: {success} fetched, {len(failed)} failed")
+                if i % 25 == 0 or i == total:
+                    elapsed = time.monotonic() - start_time
+                    rate = i / elapsed if elapsed > 0 else 0
+                    remaining = (total - i) / rate if rate > 0 else 0
+                    print(
+                        f"  --- {i}/{total} done | {success} ok, {len(failed)} failed"
+                        f" | {rate:.1f} req/s | ETA {remaining:.0f}s ---"
+                    )
+
+        elapsed = time.monotonic() - start_time
+        print(f"\nResult: {success} fetched, {len(failed)} failed in {elapsed:.0f}s")
         if failed:
             for sid, err in failed[:20]:
                 print(f"  store {sid}: {err}")
