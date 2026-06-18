@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "94240",
+  "Name": "Osborne Park",
+  "AddressLine1": "401 Scarborough Beach Rd",
+  "AddressLine2": null,
+  "Suburb": "Osborne Park",
+  "State": "WA",
+  "Postcode": "6017",
+  "Latitude": "-31.9107",
+  "Longitude": "115.814",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0433",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0500-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0500-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 1:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-1300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0500-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0500-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

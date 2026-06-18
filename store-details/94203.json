@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "94203",
+  "Name": "Ballajura (Glenview)",
+  "AddressLine1": "Glenview S/Centre Cnr Bellevin & Hamlin Drives",
+  "AddressLine2": null,
+  "Suburb": "Ballajura (Glenview)",
+  "State": "WA",
+  "Postcode": "6066",
+  "Latitude": "-31.8476",
+  "Longitude": "115.907",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0312",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-1900"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

@@ -1,0 +1,66 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1066",
+  "Name": "Rose Bay - Direct to Boot Only",
+  "AddressLine1": "488 Old South Head Road",
+  "AddressLine2": null,
+  "Suburb": "Rose Bay",
+  "State": "NSW",
+  "Postcode": "2029",
+  "Latitude": "-33.8748665",
+  "Longitude": "151.2723417",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 8736 7464",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

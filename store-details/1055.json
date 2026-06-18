@@ -1,0 +1,136 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1055",
+  "Name": "Potts Point (Metro)",
+  "AddressLine1": "Icon Building, 81 Macleay Street",
+  "AddressLine2": null,
+  "Suburb": "Potts Point",
+  "State": "NSW",
+  "Postcode": "2011",
+  "Latitude": "-33.870603",
+  "Longitude": "151.2248",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 9308 7391",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    }
+  ],
+  "Facilities": [
+    "Convenience Store",
+    "Liquor (Adjacent BWS)",
+    "Metro",
+    "Pick up"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "101",
+      "Name": "BIG W Town Hall",
+      "AddressLine1": "Big W Service Desk, Level 1  Cnr Park & George Street Sydney",
+      "AddressLine2": null,
+      "Suburb": "Sydney",
+      "State": "NSW",
+      "Postcode": "2000",
+      "Latitude": "-33.873204",
+      "Longitude": "151.2073606",
+      "GeoLevel": "0",
+      "Distance": "1.65",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0101/BIG-W-Sydney?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2100"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2100"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        }
+      ],
+      "Facilities": [
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

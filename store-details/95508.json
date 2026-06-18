@@ -1,0 +1,145 @@
+{
+  "Division": "EG",
+  "StoreNo": "95508",
+  "Name": "Nightcliff",
+  "AddressLine1": "Dick Ward Drive",
+  "AddressLine2": null,
+  "Suburb": "Nightcliff",
+  "State": "NT",
+  "Postcode": "810",
+  "Latitude": "-12.3895",
+  "Longitude": "130.8519",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 7082 4516",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2300"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "264",
+      "Name": "BIG W Casuarina",
+      "AddressLine1": "Corner of Trower Road and Dripstone Road",
+      "AddressLine2": null,
+      "Suburb": "Casuarina",
+      "State": "NT",
+      "Postcode": "0810",
+      "Latitude": "-12.3775",
+      "Longitude": "130.8821",
+      "GeoLevel": "0",
+      "Distance": "3.51",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0264/BIG-W-Casuarina?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-1800"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0830-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Thu: 0830-1800"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

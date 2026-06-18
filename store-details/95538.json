@@ -1,0 +1,145 @@
+{
+  "Division": "EG",
+  "StoreNo": "95538",
+  "Name": "Renmark",
+  "AddressLine1": "202 - 206 Renmark Av (Cnr 18th Street)",
+  "AddressLine2": null,
+  "Suburb": "Renmark",
+  "State": "SA",
+  "Postcode": "5341",
+  "Latitude": "-34.1753",
+  "Longitude": "140.7449",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(08) 8548 9663",
+  "GMTZone": "9:30",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2100"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "564",
+      "Name": "BIG W Renmark",
+      "AddressLine1": "Corner Of Nineteenth and Twentieth Street",
+      "AddressLine2": null,
+      "Suburb": "Renmark",
+      "State": "SA",
+      "Postcode": "5341",
+      "Latitude": "-34.177284",
+      "Longitude": "140.741516",
+      "GeoLevel": "0",
+      "Distance": "0.41",
+      "Phone": "1300 411 875",
+      "GMTZone": "9:30",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0564/BIG-W-Renmark?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

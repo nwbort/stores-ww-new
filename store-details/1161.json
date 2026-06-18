@@ -1,0 +1,139 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1161",
+  "Name": "Weston Creek",
+  "AddressLine1": "Cnr Brierly And Mahoney Crescent",
+  "AddressLine2": null,
+  "Suburb": "Weston Creek",
+  "State": "ACT",
+  "Postcode": "2611",
+  "Latitude": "-35.34059299",
+  "Longitude": "149.052288",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6132 9828",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Sushi Bar"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "151",
+      "Name": "BIG W Woden",
+      "AddressLine1": "Keltie Street",
+      "AddressLine2": null,
+      "Suburb": "Phillip",
+      "State": "ACT",
+      "Postcode": "2606",
+      "Latitude": "-35.34766",
+      "Longitude": "149.085846",
+      "GeoLevel": "0",
+      "Distance": "3.16",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0151/BIG-W-Phillip?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-1900"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

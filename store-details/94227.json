@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "94227",
+  "Name": "Southlake",
+  "AddressLine1": "752 North Lake Road",
+  "AddressLine2": null,
+  "Suburb": "Southlake",
+  "State": "WA",
+  "Postcode": "6164",
+  "Latitude": "-32.1153",
+  "Longitude": "115.8372",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0285",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "444",
+      "Name": "BIG W Gateways",
+      "AddressLine1": "Kwinana Freeway and Beeliar Drive",
+      "AddressLine2": null,
+      "Suburb": "Success",
+      "State": "WA",
+      "Postcode": "6164",
+      "Latitude": "-32.14336",
+      "Longitude": "115.859627",
+      "GeoLevel": "0",
+      "Distance": "3.81",
+      "Phone": "1300 411 875",
+      "GMTZone": "8:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0444/BIG-W-Success?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

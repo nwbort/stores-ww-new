@@ -1,0 +1,145 @@
+{
+  "Division": "EG",
+  "StoreNo": "94215",
+  "Name": "Whitfords",
+  "AddressLine1": "Whitford Shopping Centre 470 Marmion Ave",
+  "AddressLine2": null,
+  "Suburb": "Whitfords",
+  "State": "WA",
+  "Postcode": "6025",
+  "Latitude": "-31.7966",
+  "Longitude": "115.7456",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0383",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0500-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0500-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0600-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "5:00 AM - 1:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-1300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0500-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0500-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "451",
+      "Name": "BIG W Whitfords",
+      "AddressLine1": "Marmion Avenue",
+      "AddressLine2": null,
+      "Suburb": "Kallaroo",
+      "State": "WA",
+      "Postcode": "6025",
+      "Latitude": "-31.79489",
+      "Longitude": "115.75347",
+      "GeoLevel": "7",
+      "Distance": "0.74",
+      "Phone": "1300 411 875",
+      "GMTZone": "8:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0451/BIG-W-Kallaroo?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

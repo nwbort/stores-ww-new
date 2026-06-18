@@ -1,0 +1,137 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1181",
+  "Name": "Parkes",
+  "AddressLine1": "299 Clarinda Street",
+  "AddressLine2": null,
+  "Suburb": "Parkes",
+  "State": "NSW",
+  "Postcode": "2870",
+  "Latitude": "-33.1338347",
+  "Longitude": "148.1746098",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6862 7202",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "133",
+      "Name": "BIG W Parkes",
+      "AddressLine1": "Corner of Currajong Street and Browne Street",
+      "AddressLine2": null,
+      "Suburb": "Parkes",
+      "State": "NSW",
+      "Postcode": "2870",
+      "Latitude": "-33.137882",
+      "Longitude": "148.178986",
+      "GeoLevel": "0",
+      "Distance": "0.57",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0133/BIG-W-Parkes?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2000"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

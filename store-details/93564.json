@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93564",
+  "Name": "Glen Waverley",
+  "AddressLine1": "Cnr 676-680 High Street (Cnr Rose Av )",
+  "AddressLine2": null,
+  "Suburb": "Glen Waverley",
+  "State": "VIC",
+  "Postcode": "3150",
+  "Latitude": "-37.8736",
+  "Longitude": "145.1584",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 4311 1914",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0600-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0600-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0600-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0600-0000"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0600-0000"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0600-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0600-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

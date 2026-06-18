@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "94235",
+  "Name": "Joondalup",
+  "AddressLine1": "189 Winton Road",
+  "AddressLine2": null,
+  "Suburb": "Joondalup",
+  "State": "WA",
+  "Postcode": "6027",
+  "Latitude": "-31.7445",
+  "Longitude": "115.7631",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "08 6186 0332",
+  "GMTZone": "8:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0500-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0500-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0500-0000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0500-0000"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "5:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0500-0000"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "441",
+      "Name": "BIG W Joondalup",
+      "AddressLine1": "420 Joondalup Drive",
+      "AddressLine2": null,
+      "Suburb": "Joondalup",
+      "State": "WA",
+      "Postcode": "6027",
+      "Latitude": "-31.7438007",
+      "Longitude": "115.7664947",
+      "GeoLevel": "7",
+      "Distance": "0.33",
+      "Phone": "1300 411 875",
+      "GMTZone": "8:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0441/BIG-W-Joondalup?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

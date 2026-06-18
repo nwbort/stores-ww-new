@@ -1,0 +1,137 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1200",
+  "Name": "Eastwood",
+  "AddressLine1": "Eastwood Centre, 160 Rowe Street",
+  "AddressLine2": null,
+  "Suburb": "Eastwood",
+  "State": "NSW",
+  "Postcode": "2122",
+  "Latitude": "-33.79234014",
+  "Longitude": "151.08135",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 9308 7340",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
+    }
+  ],
+  "Facilities": [
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "117",
+      "Name": "BIG W Top Ryde",
+      "AddressLine1": "115 - 121 Blaxland Road",
+      "AddressLine2": null,
+      "Suburb": "Ryde",
+      "State": "NSW",
+      "Postcode": "2112",
+      "Latitude": "-33.80925498",
+      "Longitude": "151.1059077",
+      "GeoLevel": "6",
+      "Distance": "3",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0117/BIG-W-Ryde?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

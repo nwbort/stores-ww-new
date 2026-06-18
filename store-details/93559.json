@@ -1,0 +1,75 @@
+{
+  "Division": "EG",
+  "StoreNo": "93559",
+  "Name": "Deer park",
+  "AddressLine1": "28-72 Neale Road",
+  "AddressLine2": null,
+  "Suburb": "Deer park",
+  "State": "VIC",
+  "Postcode": "3021",
+  "Latitude": "-37.7517",
+  "Longitude": "144.7719",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9020 9492",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": []
+}

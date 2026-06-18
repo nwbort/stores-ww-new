@@ -1,0 +1,71 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1102",
+  "Name": "Vincentia",
+  "AddressLine1": "8 Moona Creek Rd",
+  "AddressLine2": null,
+  "Suburb": "Vincentia",
+  "State": "NSW",
+  "Postcode": "2540",
+  "Latitude": "-35.07505494",
+  "Longitude": "150.6558706",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 4428 2500",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Instore Bakery",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Reverse Vending Machines (RVM)",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

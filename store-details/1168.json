@@ -1,0 +1,70 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1168",
+  "Name": "Gunnedah",
+  "AddressLine1": "119 - 129 Conadilly Street",
+  "AddressLine2": null,
+  "Suburb": "Gunnedah",
+  "State": "NSW",
+  "Postcode": "2380",
+  "Latitude": "-30.976832",
+  "Longitude": "150.250134",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6748 3100",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2100"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
+    }
+  ],
+  "Facilities": [
+    "EV Charging",
+    "Liquor (Adjacent BWS)",
+    "Pick up",
+    "Quiet Hour: Mon-Thurs 10:30am",
+    "Reverse Vending Machines (RVM)",
+    "Seafood"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}

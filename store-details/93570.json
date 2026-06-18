@@ -1,0 +1,146 @@
+{
+  "Division": "EG",
+  "StoreNo": "93570",
+  "Name": "Doncaster East",
+  "AddressLine1": "987 Doncaster Road",
+  "AddressLine2": null,
+  "Suburb": "Doncaster East",
+  "State": "VIC",
+  "Postcode": "3109",
+  "Latitude": "-37.7884",
+  "Longitude": "145.159",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "03 9068 8535",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2300"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2300"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2300"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2300"
+    }
+  ],
+  "Facilities": [
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
+  ],
+  "CategorisedFacilities": [
+    {
+      "Category": "Rewards",
+      "CategoryLabel": "Rewards",
+      "Facilities": [
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
+      ]
+    }
+  ],
+  "NearbyPartners": [
+    {
+      "Division": "BIGW",
+      "StoreNo": "368",
+      "Name": "BIG W Doncaster",
+      "AddressLine1": "619 Doncaster Road",
+      "AddressLine2": null,
+      "Suburb": "Doncaster",
+      "State": "VIC",
+      "Postcode": "3108",
+      "Latitude": "-37.78499964",
+      "Longitude": "145.1261943",
+      "GeoLevel": "7",
+      "Distance": "2.9",
+      "Phone": "1300 411 875",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1900"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2200"
+        }
+      ],
+      "Facilities": [
+        "Bike Build",
+        "Direct to Boot",
+        "In-Store Layby",
+        "Party",
+        "Pick Up",
+        "Soda Stream Refill"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    }
+  ]
+}

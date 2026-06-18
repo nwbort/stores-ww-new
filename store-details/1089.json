@@ -1,0 +1,69 @@
+{
+  "Division": "SUPERMARKETS",
+  "StoreNo": "1089",
+  "Name": "Hawker (Metro)",
+  "AddressLine1": "Springvale Drive",
+  "AddressLine2": null,
+  "Suburb": "Hawker",
+  "State": "ACT",
+  "Postcode": "2614",
+  "Latitude": "-35.24337262",
+  "Longitude": "149.0441686",
+  "GeoLevel": "0",
+  "Distance": null,
+  "Phone": "(02) 6132 9302",
+  "GMTZone": "10:0",
+  "IsOpen": true,
+  "PartnerUrl": null,
+  "TradingHours": [
+    {
+      "Day": "Today",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Tomorrow",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
+    },
+    {
+      "Day": "Monday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
+    },
+    {
+      "Day": "Tuesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
+    },
+    {
+      "Day": "Wednesday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
+    },
+    {
+      "Day": "Thursday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
+    }
+  ],
+  "Facilities": [
+    "Australia Post Parcel Locker",
+    "Liquor (Adjacent BWS)",
+    "Metro",
+    "Pick up",
+    "WiFi"
+  ],
+  "CategorisedFacilities": [],
+  "NearbyPartners": []
+}
