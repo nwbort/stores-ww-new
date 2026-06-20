@@ -56,8 +56,8 @@
   },
   {
     "id": 1037,
-    "name": "Gables",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-gables-1037"
+    "name": "Box Hill",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-box-hill-1037"
   },
   {
     "id": 1044,
@@ -331,8 +331,8 @@
   },
   {
     "id": 1130,
-    "name": "Erskineville Park",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-erskineville-park-1130"
+    "name": "Erskineville",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-erskineville-1130"
   },
   {
     "id": 1131,
@@ -431,8 +431,8 @@
   },
   {
     "id": 1156,
-    "name": "Griffith North",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-griffith-north-1156"
+    "name": "Griffith",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-griffith-1156"
   },
   {
     "id": 1159,
@@ -446,8 +446,8 @@
   },
   {
     "id": 1161,
-    "name": "Weston Creek",
-    "url": "https://www.woolworths.com.au/shop/storelocator/act-weston-creek-1161"
+    "name": "Weston",
+    "url": "https://www.woolworths.com.au/shop/storelocator/act-weston-1161"
   },
   {
     "id": 1162,
@@ -826,8 +826,8 @@
   },
   {
     "id": 1280,
-    "name": "Wagga Wagga",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-wagga-wagga-1280"
+    "name": "Kooringal",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-kooringal-1280"
   },
   {
     "id": 1282,
@@ -871,8 +871,8 @@
   },
   {
     "id": 1297,
-    "name": "Round Corner",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-round-corner-1297"
+    "name": "Dural",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-dural-1297"
   },
   {
     "id": 1302,
@@ -881,8 +881,8 @@
   },
   {
     "id": 1304,
-    "name": "West Dubbo",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-west-dubbo-1304"
+    "name": "Delroy Park",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-delroy-park-1304"
   },
   {
     "id": 1305,
@@ -916,8 +916,8 @@
   },
   {
     "id": 1313,
-    "name": "North Orange",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-north-orange-1313"
+    "name": "Orange",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-orange-1313"
   },
   {
     "id": 1315,
@@ -1071,8 +1071,8 @@
   },
   {
     "id": 1360,
-    "name": "Boronia Park",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-boronia-park-1360"
+    "name": "Gladesville",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-gladesville-1360"
   },
   {
     "id": 1364,
@@ -1111,13 +1111,13 @@
   },
   {
     "id": 1376,
-    "name": "Maroubra",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-maroubra-1376"
+    "name": "Maroubra South",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-maroubra-south-1376"
   },
   {
     "id": 1377,
-    "name": "Hurstville East",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-hurstville-east-1377"
+    "name": "Hurstville",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-hurstville-1377"
   },
   {
     "id": 1380,
@@ -1132,7 +1132,7 @@
   {
     "id": 1385,
     "name": "Belconnen",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-belconnen-1385"
+    "url": "https://www.woolworths.com.au/shop/storelocator/act-belconnen-1385"
   },
   {
     "id": 1386,
@@ -1271,8 +1271,8 @@
   },
   {
     "id": 1470,
-    "name": "Shellharbour",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-shellharbour-1470"
+    "name": "Shellharbour City",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-shellharbour-city-1470"
   },
   {
     "id": 1472,
@@ -1326,8 +1326,8 @@
   },
   {
     "id": 1561,
-    "name": "Kellyville North",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-kellyville-north-1561"
+    "name": "North Kellyville",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-north-kellyville-1561"
   },
   {
     "id": 1572,
@@ -1441,8 +1441,8 @@
   },
   {
     "id": 1638,
-    "name": "Zetland",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-zetland-1638"
+    "name": "Green Square",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-green-square-1638"
   },
   {
     "id": 1641,
@@ -1686,8 +1686,8 @@
   },
   {
     "id": 2042,
-    "name": "South Brisbane",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-south-brisbane-2042"
+    "name": "Southbank",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-southbank-2042"
   },
   {
     "id": 2048,
@@ -1726,8 +1726,8 @@
   },
   {
     "id": 2071,
-    "name": "Burpengary East",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-burpengary-east-2071"
+    "name": "",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld--2071"
   },
   {
     "id": 2072,
@@ -1766,8 +1766,8 @@
   },
   {
     "id": 2082,
-    "name": "Emerald East",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-emerald-east-2082"
+    "name": "Emerald",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-emerald-2082"
   },
   {
     "id": 2115,
@@ -1806,8 +1806,8 @@
   },
   {
     "id": 2174,
-    "name": "Bogangar",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-bogangar-2174"
+    "name": "Cabarita Beach",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-cabarita-beach-2174"
   },
   {
     "id": 2190,
@@ -1886,8 +1886,8 @@
   },
   {
     "id": 2480,
-    "name": "Burleigh Heads",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-burleigh-heads-2480"
+    "name": "Burleigh Heads North",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-burleigh-heads-north-2480"
   },
   {
     "id": 2501,
@@ -1936,8 +1936,8 @@
   },
   {
     "id": 2510,
-    "name": "Coomera Town Centre",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-coomera-town-centre-2510"
+    "name": "Coomera",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-coomera-2510"
   },
   {
     "id": 2511,
@@ -1991,8 +1991,8 @@
   },
   {
     "id": 2522,
-    "name": "Gympie",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-gympie-2522"
+    "name": "Gympie South",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-gympie-south-2522"
   },
   {
     "id": 2523,
@@ -2086,8 +2086,8 @@
   },
   {
     "id": 2556,
-    "name": "Michelton",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-michelton-2556"
+    "name": "Mitchelton",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-mitchelton-2556"
   },
   {
     "id": 2557,
@@ -2136,13 +2136,13 @@
   },
   {
     "id": 2566,
-    "name": "Cairns",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-cairns-2566"
+    "name": "Earlville",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-earlville-2566"
   },
   {
     "id": 2567,
-    "name": "Hervey Bay",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-hervey-bay-2567"
+    "name": "Pialba",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-pialba-2567"
   },
   {
     "id": 2568,
@@ -2276,13 +2276,13 @@
   },
   {
     "id": 2602,
-    "name": "Daisy Hill",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-daisy-hill-2602"
+    "name": "Springwood",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-springwood-2602"
   },
   {
     "id": 2603,
-    "name": "Palm Beach",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-palm-beach-2603"
+    "name": "Elanora",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-elanora-2603"
   },
   {
     "id": 2604,
@@ -2336,13 +2336,13 @@
   },
   {
     "id": 2614,
-    "name": "Buranda",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-buranda-2614"
+    "name": "Woolloongabba",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-woolloongabba-2614"
   },
   {
     "id": 2615,
-    "name": "Woodridge",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-woodridge-2615"
+    "name": "Logan Central",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-logan-central-2615"
   },
   {
     "id": 2616,
@@ -2386,8 +2386,8 @@
   },
   {
     "id": 2625,
-    "name": "Mountain Creek",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-mountain-creek-2625"
+    "name": "Buderim",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-buderim-2625"
   },
   {
     "id": 2626,
@@ -2431,8 +2431,8 @@
   },
   {
     "id": 2636,
-    "name": "Manly",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-manly-2636"
+    "name": "Manly West",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-manly-west-2636"
   },
   {
     "id": 2637,
@@ -2446,8 +2446,8 @@
   },
   {
     "id": 2639,
-    "name": "Townsville",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-townsville-2639"
+    "name": "Idalia",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-idalia-2639"
   },
   {
     "id": 2640,
@@ -2551,8 +2551,8 @@
   },
   {
     "id": 2663,
-    "name": "Toowoomba",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-toowoomba-2663"
+    "name": "Wilsonton",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-wilsonton-2663"
   },
   {
     "id": 2664,
@@ -2606,8 +2606,8 @@
   },
   {
     "id": 2674,
-    "name": "Bribie Island",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-bribie-island-2674"
+    "name": "Bongaree",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-bongaree-2674"
   },
   {
     "id": 2676,
@@ -2811,8 +2811,8 @@
   },
   {
     "id": 2742,
-    "name": "Springfield",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-springfield-2742"
+    "name": "Springfield Central",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-springfield-central-2742"
   },
   {
     "id": 2744,
@@ -2986,8 +2986,8 @@
   },
   {
     "id": 2883,
-    "name": "Mount Sheridan",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-mount-sheridan-2883"
+    "name": "Mt Sheridan",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-mt-sheridan-2883"
   },
   {
     "id": 2885,
@@ -3151,8 +3151,8 @@
   },
   {
     "id": 3091,
-    "name": "Mernda Village",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mernda-village-3091"
+    "name": "Mernda",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mernda-3091"
   },
   {
     "id": 3092,
@@ -3241,8 +3241,8 @@
   },
   {
     "id": 3117,
-    "name": "East Keilor",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-east-keilor-3117"
+    "name": "Keilor East",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-keilor-east-3117"
   },
   {
     "id": 3118,
@@ -3256,8 +3256,8 @@
   },
   {
     "id": 3120,
-    "name": "Geelong",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-geelong-3120"
+    "name": "Newtown",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-newtown-3120"
   },
   {
     "id": 3121,
@@ -3311,8 +3311,8 @@
   },
   {
     "id": 3133,
-    "name": "Chadstone ",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-chadstone--3133"
+    "name": "Chadstone",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-chadstone-3133"
   },
   {
     "id": 3134,
@@ -3326,8 +3326,8 @@
   },
   {
     "id": 3136,
-    "name": "Middle Brighton",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-middle-brighton-3136"
+    "name": "Brighton",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-brighton-3136"
   },
   {
     "id": 3137,
@@ -3356,8 +3356,8 @@
   },
   {
     "id": 3142,
-    "name": "Mornington East",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mornington-east-3142"
+    "name": "Mornington",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mornington-3142"
   },
   {
     "id": 3143,
@@ -3386,8 +3386,8 @@
   },
   {
     "id": 3148,
-    "name": "Bendigo",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-bendigo-3148"
+    "name": "Golden Square",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-golden-square-3148"
   },
   {
     "id": 3149,
@@ -3531,8 +3531,8 @@
   },
   {
     "id": 3183,
-    "name": "St Helena",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-st-helena-3183"
+    "name": "Saint Helena",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-saint-helena-3183"
   },
   {
     "id": 3184,
@@ -3676,8 +3676,8 @@
   },
   {
     "id": 3223,
-    "name": "Werribee",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-werribee-3223"
+    "name": "Hoppers Crossing",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-hoppers-crossing-3223"
   },
   {
     "id": 3227,
@@ -3686,8 +3686,8 @@
   },
   {
     "id": 3229,
-    "name": "Warrnambool East",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-warrnambool-east-3229"
+    "name": "Warrnambool",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-warrnambool-3229"
   },
   {
     "id": 3235,
@@ -3851,8 +3851,8 @@
   },
   {
     "id": 3292,
-    "name": "East Preston",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-east-preston-3292"
+    "name": "Preston",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-preston-3292"
   },
   {
     "id": 3293,
@@ -3871,8 +3871,8 @@
   },
   {
     "id": 3299,
-    "name": "Bendigo",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-bendigo-3299"
+    "name": "Epsom",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-epsom-3299"
   },
   {
     "id": 3301,
@@ -4051,8 +4051,8 @@
   },
   {
     "id": 3355,
-    "name": "Epping North",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-epping-north-3355"
+    "name": "Epping",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-epping-3355"
   },
   {
     "id": 3357,
@@ -4126,8 +4126,8 @@
   },
   {
     "id": 3390,
-    "name": "Cranbourne",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-cranbourne-3390"
+    "name": "Cranbourne East",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-cranbourne-east-3390"
   },
   {
     "id": 3391,
@@ -4136,8 +4136,8 @@
   },
   {
     "id": 3392,
-    "name": "Tayors Hill",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-tayors-hill-3392"
+    "name": "Taylors Hill",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-taylors-hill-3392"
   },
   {
     "id": 3393,
@@ -4171,8 +4171,8 @@
   },
   {
     "id": 3411,
-    "name": "Brunswick North",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-brunswick-north-3411"
+    "name": "Brunswick",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-brunswick-3411"
   },
   {
     "id": 3427,
@@ -4221,8 +4221,8 @@
   },
   {
     "id": 3567,
-    "name": "Torquay North",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-torquay-north-3567"
+    "name": "Torquay",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-torquay-3567"
   },
   {
     "id": 3576,
@@ -4251,8 +4251,8 @@
   },
   {
     "id": 3670,
-    "name": "Wantirna",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-wantirna-3670"
+    "name": "Wantirna South",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-wantirna-south-3670"
   },
   {
     "id": 3672,
@@ -4311,8 +4311,8 @@
   },
   {
     "id": 3805,
-    "name": "Keysborough South",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-keysborough-south-3805"
+    "name": "Keysborough",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-keysborough-3805"
   },
   {
     "id": 3806,
@@ -4326,8 +4326,8 @@
   },
   {
     "id": 3809,
-    "name": "Roxburg Park",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-roxburg-park-3809"
+    "name": "Roxburgh Park",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-roxburgh-park-3809"
   },
   {
     "id": 3813,
@@ -4371,8 +4371,8 @@
   },
   {
     "id": 3923,
-    "name": "Delacombe",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-delacombe-3923"
+    "name": "Smythes Creek",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-smythes-creek-3923"
   },
   {
     "id": 3940,
@@ -4396,8 +4396,8 @@
   },
   {
     "id": 3969,
-    "name": "Glen Waverly",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-glen-waverly-3969"
+    "name": "Glen Waverley",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-glen-waverley-3969"
   },
   {
     "id": 3996,
@@ -4406,8 +4406,8 @@
   },
   {
     "id": 3999,
-    "name": "St Kilda",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-st-kilda-3999"
+    "name": "St Kilda West",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-st-kilda-west-3999"
   },
   {
     "id": 4029,
@@ -4436,8 +4436,8 @@
   },
   {
     "id": 4155,
-    "name": "Beechboro",
-    "url": "https://www.woolworths.com.au/shop/storelocator/wa-beechboro-4155"
+    "name": "Bennett Springs",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-bennett-springs-4155"
   },
   {
     "id": 4170,
@@ -4521,8 +4521,8 @@
   },
   {
     "id": 4317,
-    "name": "Secret Harhour",
-    "url": "https://www.woolworths.com.au/shop/storelocator/wa-secret-harhour-4317"
+    "name": "Secret Harbour",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-secret-harbour-4317"
   },
   {
     "id": 4318,
@@ -4691,8 +4691,8 @@
   },
   {
     "id": 4361,
-    "name": "Canning Vale",
-    "url": "https://www.woolworths.com.au/shop/storelocator/wa-canning-vale-4361"
+    "name": "Canningvale",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-canningvale-4361"
   },
   {
     "id": 4363,
@@ -4981,13 +4981,13 @@
   },
   {
     "id": 4855,
-    "name": "Bunbury",
-    "url": "https://www.woolworths.com.au/shop/storelocator/wa-bunbury-4855"
+    "name": "South Bunbury",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-south-bunbury-4855"
   },
   {
     "id": 4857,
-    "name": "Mount Pleasant",
-    "url": "https://www.woolworths.com.au/shop/storelocator/wa-mount-pleasant-4857"
+    "name": "Mt Pleasant",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-mt-pleasant-4857"
   },
   {
     "id": 4995,
@@ -5306,8 +5306,8 @@
   },
   {
     "id": 5674,
-    "name": "Mildura Langtree",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mildura-langtree-5674"
+    "name": "Mildura",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mildura-5674"
   },
   {
     "id": 5676,
@@ -5316,8 +5316,8 @@
   },
   {
     "id": 5677,
-    "name": "Nightcliff",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nt-nightcliff-5677"
+    "name": "Coconut Grove",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nt-coconut-grove-5677"
   },
   {
     "id": 5679,
@@ -5326,8 +5326,8 @@
   },
   {
     "id": 5680,
-    "name": "Yarrawonga",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nt-yarrawonga-5680"
+    "name": "Palmerston",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nt-palmerston-5680"
   },
   {
     "id": 5681,
@@ -5406,8 +5406,8 @@
   },
   {
     "id": 5945,
-    "name": "Munno Para",
-    "url": "https://www.woolworths.com.au/shop/storelocator/sa-munno-para-5945"
+    "name": "Munno Para West",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-munno-para-west-5945"
   },
   {
     "id": 7001,
@@ -5466,8 +5466,8 @@
   },
   {
     "id": 7014,
-    "name": "Rosny",
-    "url": "https://www.woolworths.com.au/shop/storelocator/tas-rosny-7014"
+    "name": "Rosny Park",
+    "url": "https://www.woolworths.com.au/shop/storelocator/tas-rosny-park-7014"
   },
   {
     "id": 7018,
@@ -5596,8 +5596,8 @@
   },
   {
     "id": 8380,
-    "name": "Avalon",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-avalon-8380"
+    "name": "Avalon Beach",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-avalon-beach-8380"
   },
   {
     "id": 8381,
@@ -5611,8 +5611,8 @@
   },
   {
     "id": 8385,
-    "name": "Bondi Beach",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-bondi-beach-8385"
+    "name": "Bondi",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-bondi-8385"
   },
   {
     "id": 8485,
