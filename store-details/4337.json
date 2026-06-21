@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4337",
   "Name": "Midland Gate",
-  "AddressLine1": "274 Great Eastern Highway",
+  "AddressLine1": "274 Great Eastern Hwy",
   "AddressLine2": null,
   "Suburb": "Midland",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "116.009016",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 6318 9936",
+  "Phone": "08 6318 9936",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [
@@ -87,26 +87,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -124,6 +109,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

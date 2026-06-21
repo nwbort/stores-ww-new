@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4360",
   "Name": "Armadale",
-  "AddressLine1": "Cnr Neerigen Street And Orchard Avenue",
+  "AddressLine1": "Cnr Neerigen St and Orchard Ave",
   "AddressLine2": null,
   "Suburb": "Armadale",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "116.0148171",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9234 7110",
+  "Phone": "08 9234 7110",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [
@@ -86,26 +86,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1800"
         },
@@ -123,6 +108,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

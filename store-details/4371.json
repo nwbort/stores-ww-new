@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4371",
   "Name": "Karrinyup",
-  "AddressLine1": "Karrinyup Shopping Centre, 200 Karrinyup Road",
+  "AddressLine1": "200 Karrinyup Road",
   "AddressLine2": null,
   "Suburb": "Karrinyup",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "115.7786031",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9203 3512",
+  "Phone": "08 9203 3512",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [
@@ -88,26 +88,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1800"
         },
@@ -125,6 +110,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

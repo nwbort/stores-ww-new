@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2654",
-  "Name": "Kin Kora (Gladstone)",
-  "AddressLine1": "Cnr Dawson Highway And Phillip Street",
+  "Name": "Kin Kora Gladstone (CQ)",
+  "AddressLine1": "Cnr Dawson Highway and Phillip St",
   "AddressLine2": null,
   "Suburb": "Gladstone",
   "State": "QLD",
@@ -11,33 +11,18 @@
   "Longitude": "151.24228",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4977 7938",
+  "Phone": "07 4977 7938",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [

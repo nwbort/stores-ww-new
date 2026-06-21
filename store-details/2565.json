@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2565",
   "Name": "Kingaroy",
-  "AddressLine1": "Youngman Street",
+  "AddressLine1": "29-45 Alford St",
   "AddressLine2": null,
   "Suburb": "Kingaroy",
   "State": "QLD",
@@ -11,33 +11,18 @@
   "Longitude": "151.8369561",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4172 8302",
+  "Phone": "07 4172 8302",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [
@@ -79,31 +79,16 @@
       "Distance": "0.23",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0279/BIG-W-Kingaroy?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-1900"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:30 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0830-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "Closed",
           "TradingHourForDisplay": "Sun: Closed"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:30 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0830-1800"
         },
@@ -121,6 +106,21 @@
           "Day": "Thursday",
           "OpenHour": "8:30 AM - 7:00 PM",
           "TradingHourForDisplay": "Thu: 0830-1900"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "Closed",
+          "TradingHourForDisplay": "Sun: Closed"
         }
       ],
       "Facilities": [

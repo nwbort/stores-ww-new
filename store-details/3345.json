@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3345",
   "Name": "Wyndham Vale",
-  "AddressLine1": "205 Greens Road",
+  "AddressLine1": "209 Greens Road",
   "AddressLine2": null,
   "Suburb": "Wyndham Vale",
   "State": "VIC",
   "Postcode": "3024",
   "Latitude": "-37.88805519",
-  "Longitude": "144.60780465",
+  "Longitude": "144.6078047",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8734 3616",
+  "Phone": "03 8734 3616",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [

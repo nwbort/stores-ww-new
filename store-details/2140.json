@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2140",
-  "Name": "Marian",
-  "AddressLine1": "213-247 Anzac Avenue",
+  "Name": "Marian (FNQ)",
+  "AddressLine1": "213 - 247 Anzac Avenue",
   "AddressLine2": null,
   "Suburb": "Marian",
   "State": "QLD",
@@ -11,7 +11,7 @@
   "Longitude": "148.9517903",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4964 3112",
+  "Phone": "07 4964 3112",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "9:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Thu: 0900-1800"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [

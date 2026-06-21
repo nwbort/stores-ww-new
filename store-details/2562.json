@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2562",
-  "Name": "Bowen",
-  "AddressLine1": "Centrepoint, Cnr Richmond And Old Soldier Roads",
+  "Name": "Bowen (FNQ)",
+  "AddressLine1": "Cnr Richmond Rd and Old Soldier Rd,",
   "AddressLine2": null,
   "Suburb": "Bowen",
   "State": "QLD",
@@ -11,33 +11,18 @@
   "Longitude": "148.2400784",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4793 3100",
+  "Phone": "07 4793 3100",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [

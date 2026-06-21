@@ -11,33 +11,18 @@
   "Longitude": "138.625757",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8259 3729",
+  "Phone": "08 8259 3729",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1700"
     }
   ],
   "Facilities": [
@@ -85,26 +85,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1900"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -122,6 +107,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

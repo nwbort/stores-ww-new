@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "5635",
   "Name": "Whyalla Westlands",
-  "AddressLine1": "199 Nicolson Avenue",
+  "AddressLine1": "193-199 Nicolson Avenue",
   "AddressLine2": null,
   "Suburb": "Whyalla",
   "State": "SA",
-  "Postcode": "5600",
+  "Postcode": "5608",
   "Latitude": "-33.02840101",
   "Longitude": "137.532792",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8649 9500",
+  "Phone": "08 8649 9500",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [

@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1343",
   "Name": "Dunlop",
-  "AddressLine1": "Cnr Snowbridge Circuit & Lance Hill Ave",
+  "AddressLine1": "Lot 4 68 Lance Hill Avenue",
   "AddressLine2": null,
   "Suburb": "Dunlop",
   "State": "ACT",
@@ -11,33 +11,18 @@
   "Longitude": "149.0194181",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6132 9849",
+  "Phone": "02 6132 9849",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2100"
     }
   ],
   "Facilities": [

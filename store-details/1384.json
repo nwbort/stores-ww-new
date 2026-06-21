@@ -1,43 +1,28 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1384",
-  "Name": "West Pennant Hills (Metro)",
+  "Name": "West Pennant Hills Metro",
   "AddressLine1": "Shop 12, 35 Coonara Avenue",
   "AddressLine2": null,
   "Suburb": "West Pennant Hills",
   "State": "NSW",
-  "Postcode": "2125",
+  "Postcode": "2120",
   "Latitude": "-33.744865",
   "Longitude": "151.030533",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8633 2931",
+  "Phone": "02 8633 2931",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [

@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1674",
   "Name": "Tura Beach",
-  "AddressLine1": "Cnr Tura Beach Dr & Saphire Coast Dr",
+  "AddressLine1": "Cnr Sapphire Coast Dve and Tura Beach",
   "AddressLine2": null,
   "Suburb": "Tura Beach",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "149.9136289",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6497 6003",
+  "Phone": "02 6497 6003",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2000"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
     }
   ],
   "Facilities": [

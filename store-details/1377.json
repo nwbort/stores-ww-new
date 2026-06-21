@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1377",
   "Name": "Hurstville East",
-  "AddressLine1": "89 Durham St",
+  "AddressLine1": "89 Durham Street",
   "AddressLine2": null,
-  "Suburb": "Hurstville East",
+  "Suburb": "Hurstville",
   "State": "NSW",
   "Postcode": "2220",
   "Latitude": "-33.96744145",
   "Longitude": "151.1109817",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 9305 1004",
+  "Phone": "02 9305 1004",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -82,26 +82,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2000"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -119,6 +104,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
         }
       ],
       "Facilities": [

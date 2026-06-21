@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4397",
   "Name": "Margaret River",
-  "AddressLine1": "Town View Terrace & Willmott Avenue",
+  "AddressLine1": "Cnr Town View Terrace and Willmot Ave",
   "AddressLine2": null,
   "Suburb": "Margaret River",
   "State": "WA",
@@ -11,7 +11,7 @@
   "Longitude": "115.075918",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9759 3150",
+  "Phone": "08 9759 3150",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2000"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
     }
   ],
   "Facilities": [

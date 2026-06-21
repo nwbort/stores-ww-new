@@ -1,43 +1,28 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2639",
-  "Name": "Fairfield Central",
-  "AddressLine1": "Cnr Waterfront Parade And Lakeside Drive",
+  "Name": "Fairfield Central (FNQ)",
+  "AddressLine1": "2-30 Lakeside Dr",
   "AddressLine2": null,
-  "Suburb": "Townsville",
+  "Suburb": "Idalia",
   "State": "QLD",
   "Postcode": "4811",
   "Latitude": "-19.31508",
   "Longitude": "146.8177",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4755 3834",
+  "Phone": "07 4755 3834",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [

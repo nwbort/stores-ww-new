@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Thu: 24 Hours"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Fri: 24 Hours"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sat: 24 Hours"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Sun: 24 Hours"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Mon: 24 Hours"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     }
   ],
   "Facilities": [
@@ -123,31 +123,16 @@
       "Distance": "2.16",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0449/BIG-W-Mandurah?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "10:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1000-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1800"
         },
@@ -165,6 +150,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1700"
         }
       ],
       "Facilities": [

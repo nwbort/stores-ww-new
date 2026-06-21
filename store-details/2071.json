@@ -4,40 +4,25 @@
   "Name": "Bupengary East",
   "AddressLine1": "137 Uhlmann Road",
   "AddressLine2": null,
-  "Suburb": "Burpengary East",
+  "Suburb": "Burpengary  East",
   "State": "QLD",
   "Postcode": "4505",
   "Latitude": "-27.139063",
   "Longitude": "152.982036",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 5420 3019",
+  "Phone": "07 5420 3019",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [

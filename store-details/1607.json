@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1607",
   "Name": "Cherrybrook Village",
-  "AddressLine1": "Shop 17, Cherrybrook Village, 41-47 Shepherds Drive",
+  "AddressLine1": "47 Shepherds Dr",
   "AddressLine2": null,
   "Suburb": "Cherrybrook",
   "State": "NSW",
@@ -11,7 +11,7 @@
   "Longitude": "151.044132",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 9450 6715",
+  "Phone": "02 9450 6715",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [

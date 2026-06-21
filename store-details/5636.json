@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "5636",
   "Name": "Katherine",
-  "AddressLine1": "Katherine Terrace",
+  "AddressLine1": "5 Katherine Terrace",
   "AddressLine2": null,
   "Suburb": "Katherine",
   "State": "NT",
-  "Postcode": "850",
+  "Postcode": "0850",
   "Latitude": "-14.466298",
   "Longitude": "132.264589",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8973 3100",
+  "Phone": "08 8973 3100",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-1900"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-1900"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1900"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Sun: 0700-1900"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Mon: 0700-1900"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Thu: 0700-1900"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1900"
     }
   ],
   "Facilities": [

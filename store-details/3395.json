@@ -1,17 +1,17 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "3395",
-  "Name": "Pakenham Market Place",
-  "AddressLine1": "55 Henry Street, Pakenham Market Place",
+  "Name": "Pakenham Marketplace",
+  "AddressLine1": "55 Henry St, Pakenham Market Place",
   "AddressLine2": null,
   "Suburb": "Pakenham",
   "State": "VIC",
   "Postcode": "3810",
   "Latitude": "-38.07709632",
-  "Longitude": "145.48323995",
+  "Longitude": "145.48324",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 5943 5205",
+  "Phone": "03 5943 5205",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -86,26 +86,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1900"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -123,6 +108,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
         }
       ],
       "Facilities": [

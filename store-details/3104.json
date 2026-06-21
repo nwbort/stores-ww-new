@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3104",
   "Name": "Patterson Lakes",
-  "AddressLine1": "Lakeview Shopping Centre, 92-114 Gladesville Boulevard",
+  "AddressLine1": "92-114 Gladesville Boulevard",
   "AddressLine2": null,
   "Suburb": "Patterson Lakes",
   "State": "VIC",
@@ -11,7 +11,7 @@
   "Longitude": "145.143726",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8793 3325",
+  "Phone": "03 8793 3325",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [

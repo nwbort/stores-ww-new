@@ -1,17 +1,17 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "3398",
-  "Name": "Smith St (Metro)",
-  "AddressLine1": "377 Smith Street, Fitzroy, VIC, 3065",
+  "Name": "Smith St Metro",
+  "AddressLine1": "365-379 Smith Street",
   "AddressLine2": null,
   "Suburb": "Fitzroy",
   "State": "VIC",
-  "Postcode": "3065",
+  "Postcode": "3006",
   "Latitude": "-37.797923",
   "Longitude": "144.984193",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 9258 8453",
+  "Phone": "03 9258 8453",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -83,26 +83,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2300"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2300"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2200"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 11:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2300"
         },
@@ -120,6 +105,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 11:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2300"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2200"
         }
       ],
       "Facilities": [

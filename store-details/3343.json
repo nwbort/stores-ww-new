@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3343",
   "Name": "Mernda Town Centre",
-  "AddressLine1": "590 Bridge Inn Road",
+  "AddressLine1": "Cnr Plenty Road and Bridge Inn Road",
   "AddressLine2": null,
   "Suburb": "Mernda",
   "State": "VIC",
@@ -11,7 +11,7 @@
   "Longitude": "145.100645",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 9216 2902",
+  "Phone": "03 9216 2902",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2300"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
     }
   ],
   "Facilities": [

@@ -1,17 +1,17 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2174",
-  "Name": "Cabarita",
+  "Name": "Cabarita Beach",
   "AddressLine1": "39-45 Tweed Coast Rd",
   "AddressLine2": null,
-  "Suburb": "Bogangar",
+  "Suburb": "Cabarita Beach",
   "State": "NSW",
   "Postcode": "2488",
   "Latitude": "-28.33222217",
   "Longitude": "153.5688761",
   "GeoLevel": "7",
   "Distance": null,
-  "Phone": "(02) 6671 2103",
+  "Phone": "02 6671 2103",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [

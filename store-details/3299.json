@@ -4,14 +4,14 @@
   "Name": "Epsom",
   "AddressLine1": "16-40 Howard Street",
   "AddressLine2": null,
-  "Suburb": "Bendigo",
+  "Suburb": "Epsom",
   "State": "VIC",
-  "Postcode": "3550",
+  "Postcode": "3551",
   "Latitude": "-36.7041015",
   "Longitude": "144.3183746",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 5446 5610",
+  "Phone": "03 5446 5610",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "6:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2300"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "6:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2300"
     }
   ],
   "Facilities": [

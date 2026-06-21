@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1550",
-  "Name": "Sydney Metcentre (Metro)",
+  "Name": "Sydney Metcentre Metro",
   "AddressLine1": "60 Margaret Street",
   "AddressLine2": null,
   "Suburb": "Sydney",
@@ -11,33 +11,18 @@
   "Longitude": "151.206521",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8565 9236",
+  "Phone": "02 8565 9236",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "6:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sat: Closed"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [
@@ -85,26 +85,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2100"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Mon: 0700-2100"
         },
@@ -122,6 +107,21 @@
           "Day": "Thursday",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
         }
       ],
       "Facilities": [

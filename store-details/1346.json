@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1346",
   "Name": "Tumut",
-  "AddressLine1": "Cnr Herlihy & Fitzroy Street",
+  "AddressLine1": "Cnr Herlihy and Fitzroy Streets",
   "AddressLine2": null,
   "Suburb": "Tumut",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "148.2238467",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6941 2100",
+  "Phone": "02 6941 2100",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2100"
     }
   ],
   "Facilities": [

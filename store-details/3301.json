@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3301",
   "Name": "The Pines",
-  "AddressLine1": "The Pines Shopping Centre, Cnr Reynolds And Blackburn Road",
+  "AddressLine1": "The Pines, Cnr Reynolds And Blackburn Rd",
   "AddressLine2": null,
   "Suburb": "Doncaster East",
   "State": "VIC",
@@ -11,33 +11,18 @@
   "Longitude": "145.1680141",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8841 7630",
+  "Phone": "03 8841 7630",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [

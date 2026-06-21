@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Thu: 24 Hours"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Fri: 24 Hours"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sat: 24 Hours"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Sun: 24 Hours"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Mon: 24 Hours"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     }
   ],
   "Facilities": [
@@ -87,31 +87,16 @@
       "Distance": "0.65",
       "Phone": "1300 411 875",
       "GMTZone": "9:30",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0264/BIG-W-Casuarina?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-1800"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:30 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0830-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:30 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0830-1800"
         },
@@ -129,6 +114,21 @@
           "Day": "Thursday",
           "OpenHour": "8:30 AM - 6:00 PM",
           "TradingHourForDisplay": "Thu: 0830-1800"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:30 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2540",
   "Name": "Casino",
-  "AddressLine1": "Canterbury Street",
+  "AddressLine1": "165 Canterbury St",
   "AddressLine2": null,
   "Suburb": "Casino",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "153.0495",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6663 6100",
+  "Phone": "02 6663 6100",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "6:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [

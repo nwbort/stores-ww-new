@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1662",
-  "Name": "Norwest (Metro)",
+  "Name": "Norwest Metro",
   "AddressLine1": "1 Woolworths Way",
   "AddressLine2": null,
   "Suburb": "Bella Vista",
@@ -11,33 +11,18 @@
   "Longitude": "150.950775",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 9677 6465",
+  "Phone": "02 9677 6465",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-1700"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-1700"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sat: Closed"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Mon: 0700-1700"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Thu: 0700-1700"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1700"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [
@@ -85,26 +85,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2200"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2000"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Sun: 0800-2000"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2200"
         },
@@ -122,6 +107,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2000"
         }
       ],
       "Facilities": [

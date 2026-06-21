@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "3060",
-  "Name": "Burwood Brickworks",
-  "AddressLine1": "78 Middleborough Road, Burwood East",
+  "Name": "Burwood Brickworks SM",
+  "AddressLine1": "70 Middleborough Road",
   "AddressLine2": null,
   "Suburb": "Burwood East",
   "State": "VIC",
@@ -11,33 +11,18 @@
   "Longitude": "145.1340425",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 9624 6292",
+  "Phone": "03 9624 6294",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2200"
     }
   ],
   "Facilities": [

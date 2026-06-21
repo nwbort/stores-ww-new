@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1669",
-  "Name": "Central (Metro)",
+  "Name": "Central Metro",
   "AddressLine1": "302-306 Elizabeth Street",
   "AddressLine2": null,
   "Suburb": "Surry Hills",
@@ -11,33 +11,18 @@
   "Longitude": "151.2084814",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8736 7401",
+  "Phone": "02 8736 7401",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "6:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Thu: 0600-0000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Fri: 0600-0000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Mon: 0600-0000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Thu: 0600-0000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0600-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2200"
     }
   ],
   "Facilities": [
@@ -84,26 +84,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2100"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Mon: 0700-2100"
         },
@@ -121,6 +106,21 @@
           "Day": "Thursday",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
         }
       ],
       "Facilities": [

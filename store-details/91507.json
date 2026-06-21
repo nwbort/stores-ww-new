@@ -18,26 +18,11 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0500-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0500-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "5:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0500-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "5:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     }
   ],
   "Facilities": [
@@ -87,31 +87,16 @@
       "Distance": "0.15",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0139/BIG-W-East Maitland?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:30 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1900"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0830-1800"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:30 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0830-1900"
         },
@@ -129,6 +114,21 @@
           "Day": "Thursday",
           "OpenHour": "8:30 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

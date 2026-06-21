@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3153",
   "Name": "Glen Huntly",
-  "AddressLine1": "Cnr Glen Huntly Road And Manchester Grove",
+  "AddressLine1": "Cnr Glen Huntly Rd and Manchester Grv",
   "AddressLine2": null,
   "Suburb": "Glen Huntly",
   "State": "VIC",
@@ -11,7 +11,7 @@
   "Longitude": "145.041068",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8347 5879",
+  "Phone": "03 8347 5879",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Thu: 0700-0000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Fri: 0700-0000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Sat: 0700-0000"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Sun: 0700-0000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Mon: 0700-0000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Thu: 0700-0000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0700-0000"
     }
   ],
   "Facilities": [

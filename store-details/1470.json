@@ -1,43 +1,28 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1470",
-  "Name": "Stocklands Shellharbour",
-  "AddressLine1": "Shellharbour Stocklands Centre, Lake Entrance Rd",
+  "Name": "Shellharbour Stocklands",
+  "AddressLine1": "Lake Entrance Road",
   "AddressLine2": null,
-  "Suburb": "Shellharbour",
+  "Suburb": "Shellharbour City",
   "State": "NSW",
   "Postcode": "2529",
   "Latitude": "-34.5637349",
   "Longitude": "150.8397737",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 4276 6035",
+  "Phone": "02 4276 6035",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2000"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
     }
   ],
   "Facilities": [

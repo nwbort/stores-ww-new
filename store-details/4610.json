@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4610",
   "Name": "Carnarvon",
-  "AddressLine1": "Carnarvon Boulevard Cnr Alexander & Robinson Street",
+  "AddressLine1": "Cnr Alexander St and Robinson St",
   "AddressLine2": null,
   "Suburb": "Carnarvon",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "113.65737",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9941 5400",
+  "Phone": "08 9941 5400",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0700-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1800"
     }
   ],
   "Facilities": [

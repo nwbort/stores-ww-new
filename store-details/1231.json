@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1231",
   "Name": "Hillsdale",
-  "AddressLine1": "South Point Shopping Centre, 238-262 Bunnerong Road",
+  "AddressLine1": "South Pt S/c, 238-262 Bunnerong Rd",
   "AddressLine2": null,
   "Suburb": "Hillsdale",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "151.2305711",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8565 9209",
+  "Phone": "02 8565 9209",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
     }
   ],
   "Facilities": [
@@ -86,26 +86,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2000"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1900"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -123,6 +108,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1900"
         }
       ],
       "Facilities": [

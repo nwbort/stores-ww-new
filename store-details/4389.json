@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4389",
   "Name": "Perth Airport",
-  "AddressLine1": "10 High Street",
+  "AddressLine1": "Cnr Dunreath Drive and Central Ave",
   "AddressLine2": null,
   "Suburb": "Perth Airport",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "115.9489584",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 6235 8900",
+  "Phone": "08 6235 8900",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "5:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0500-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0500-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "5:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0500-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "5:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0500-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     }
   ],
   "Facilities": [
@@ -89,26 +89,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -126,6 +111,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

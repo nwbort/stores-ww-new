@@ -1,43 +1,28 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2883",
-  "Name": "Mount Sheridan",
+  "Name": "Mount Sheridan (FNQ)",
   "AddressLine1": "106 Barnard Drive",
   "AddressLine2": null,
-  "Suburb": "Mount Sheridan",
+  "Suburb": "Mt Sheridan",
   "State": "QLD",
   "Postcode": "4868",
   "Latitude": "-16.990019",
   "Longitude": "145.740296",
   "GeoLevel": "6",
   "Distance": null,
-  "Phone": "(07) 4058 5371",
+  "Phone": "07 4058 5371",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [

@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "4560",
-  "Name": "Seacrest",
-  "AddressLine1": "75 Barrett Drive",
+  "Name": "Seacrest SM",
+  "AddressLine1": "75 Barrett Dr",
   "AddressLine2": null,
   "Suburb": "Wandina",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "114.6327448",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9960 8203",
+  "Phone": "08 9960 8203",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [

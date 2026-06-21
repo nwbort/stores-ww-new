@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3802",
   "Name": "Taylors Lakes",
-  "AddressLine1": "Cnr Melton-Keilor Road And Sunshine Avenue",
+  "AddressLine1": "Cnr Melton-Keilor Rd and Sunshine Ave",
   "AddressLine2": null,
   "Suburb": "Taylors Lakes",
   "State": "VIC",
   "Postcode": "3038",
   "Latitude": "-37.70238081",
-  "Longitude": "144.79979223",
+  "Longitude": "144.7997922",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8361 4716",
+  "Phone": "03 8361 4716",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2300"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
     }
   ],
   "Facilities": [
@@ -84,26 +84,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2200"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1900"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0800-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -121,6 +106,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-1800"
         }
       ],
       "Facilities": [

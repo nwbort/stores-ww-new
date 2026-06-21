@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "5604",
   "Name": "Alice Springs",
-  "AddressLine1": "Yeperenye Shopping Centre, 40 Hartley Street",
+  "AddressLine1": "36-38 Hartley Street",
   "AddressLine2": null,
   "Suburb": "Alice Springs",
   "State": "NT",
-  "Postcode": "870",
+  "Postcode": "0870",
   "Latitude": "-23.699237",
   "Longitude": "133.880526",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8958 6575",
+  "Phone": "08 8958 6575",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-1900"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-1900"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1900"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Sun: 0700-1900"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Mon: 0700-1900"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Thu: 0700-1900"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-1900"
     }
   ],
   "Facilities": [

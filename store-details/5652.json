@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "5652",
   "Name": "Darwin City",
-  "AddressLine1": "Cnr Cavenagh & Whitfield Street",
+  "AddressLine1": "Cnr Cavenagh and Whitfield Streets",
   "AddressLine2": null,
   "Suburb": "Darwin",
   "State": "NT",
-  "Postcode": "800",
+  "Postcode": "0800",
   "Latitude": "-12.46068",
   "Longitude": "130.8403",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8995 9308",
+  "Phone": "08 8995 9308",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     }
   ],
   "Facilities": [

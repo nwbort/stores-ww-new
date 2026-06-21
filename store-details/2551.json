@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2551",
-  "Name": "Weipa",
+  "Name": "Weipa (FNQ)",
   "AddressLine1": "Central Avenue",
   "AddressLine2": null,
   "Suburb": "Weipa",
@@ -11,33 +11,18 @@
   "Longitude": "141.865748",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4082 4200",
+  "Phone": "07 4082 4200",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-1900"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Mon: 0800-1900"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-1900"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [

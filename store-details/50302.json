@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Thu: 0500-2359"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Fri: 0500-2359"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Sat: 0500-2359"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "5:00 AM - 11:59 PM",
       "TradingHourForDisplay": "Sun: 0500-2359"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "5:00 AM - 11:59 PM",
       "TradingHourForDisplay": "Mon: 0500-2359"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "5:00 AM - 11:59 PM",
       "TradingHourForDisplay": "Thu: 0500-2359"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2359"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
     }
   ],
   "Facilities": [
@@ -125,31 +125,16 @@
       "Distance": "1.99",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0475/BIG-W-Warnbro?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1800"
         },
@@ -167,6 +152,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

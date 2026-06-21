@@ -11,33 +11,18 @@
   "Longitude": "140.35335",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8726 4950",
+  "Phone": "08 8726 4950",
   "GMTZone": "9:30",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-1800"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "Closed",
       "TradingHourForDisplay": "Sun: Closed"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Mon: 0700-1800"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-1800"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [

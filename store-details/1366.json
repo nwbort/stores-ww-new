@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1366",
   "Name": "Ermington",
-  "AddressLine1": "30 Betty Cuthbert Avenue",
+  "AddressLine1": "Betty Cuthbert Avenue",
   "AddressLine2": null,
   "Suburb": "Ermington",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "151.054459",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8633 2922",
+  "Phone": "02 8633 2922",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [

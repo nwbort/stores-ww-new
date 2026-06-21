@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1369",
   "Name": "Beresfield",
-  "AddressLine1": "Cnr Lawson & Newton Street",
+  "AddressLine1": "Cnr Lawson and Newton Streets",
   "AddressLine2": null,
   "Suburb": "Beresfield",
   "State": "NSW",
@@ -11,7 +11,7 @@
   "Longitude": "151.657708",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 4902 2735",
+  "Phone": "02 4902 2735",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2000"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
     }
   ],
   "Facilities": [

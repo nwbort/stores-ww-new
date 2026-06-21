@@ -2,16 +2,16 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3142",
   "Name": "Mornington East",
-  "AddressLine1": "Cnr Bentons And Dunns Roads",
+  "AddressLine1": "Cnr Benton and Dunns Roads,",
   "AddressLine2": null,
-  "Suburb": "Mornington East",
+  "Suburb": "Mornington",
   "State": "VIC",
   "Postcode": "3931",
   "Latitude": "-38.2453854",
   "Longitude": "145.0483836",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 5974 6102",
+  "Phone": "03 5974 6102",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     }
   ],
   "Facilities": [

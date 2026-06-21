@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1121",
   "Name": "Dubbo",
-  "AddressLine1": "Orana Mall Marketplace, Cnr Mitchell Highway And Wheelers Lane",
+  "AddressLine1": "Cnr Mitchell Hwy and Wheelers Lane",
   "AddressLine2": null,
   "Suburb": "Dubbo",
   "State": "NSW",
@@ -11,7 +11,7 @@
   "Longitude": "148.632113",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6881 7604",
+  "Phone": "02 6881 7604",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [
@@ -86,26 +86,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1900"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1800"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -123,6 +108,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
         }
       ],
       "Facilities": [

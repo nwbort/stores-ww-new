@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "4336",
   "Name": "Cannington",
-  "AddressLine1": "Westfield Carousel Shopping Centre 1382 Albany Highway",
+  "AddressLine1": "1382 Albany Highway",
   "AddressLine2": null,
   "Suburb": "Cannington",
   "State": "WA",
@@ -11,33 +11,18 @@
   "Longitude": "115.9397916",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 6318 9933",
+  "Phone": "08 6318 9933",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [

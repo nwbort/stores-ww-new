@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3607",
   "Name": "Albert Park Metro",
-  "AddressLine1": "95-97 Dundas Pl, Albert Park, VIC",
+  "AddressLine1": "95-97 Dundas Place",
   "AddressLine2": null,
   "Suburb": "Albert Park",
   "State": "VIC",
@@ -11,7 +11,7 @@
   "Longitude": "144.95536",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 9258 8402",
+  "Phone": "03 9258 8402",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [
@@ -84,26 +84,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2300"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2300"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2200"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 11:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2300"
         },
@@ -121,6 +106,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 11:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2300"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2200"
         }
       ],
       "Facilities": [

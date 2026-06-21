@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1402",
   "Name": "Revesby",
-  "AddressLine1": "60 Marco Avenue",
+  "AddressLine1": "Cnr Marco and Polo Avenues",
   "AddressLine2": null,
   "Suburb": "Revesby",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "151.0131654",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 8709 4324",
+  "Phone": "02 8709 4324",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Thu: 0700-0000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Fri: 0700-0000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Sat: 0700-0000"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Mon: 0700-0000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 12:00 AM",
       "TradingHourForDisplay": "Thu: 0700-0000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
     }
   ],
   "Facilities": [

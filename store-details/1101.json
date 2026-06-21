@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1101",
   "Name": "Mayfield",
-  "AddressLine1": "Cnr Maitland Road And Valencia Street",
+  "AddressLine1": "Cnr Maitland Road and Valencia Street",
   "AddressLine2": null,
   "Suburb": "Mayfield",
   "State": "NSW",
@@ -11,7 +11,7 @@
   "Longitude": "151.7385842",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 4902 2708",
+  "Phone": "02 4902 2708",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0600-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     }
   ],
   "Facilities": [
@@ -90,26 +90,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-2000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1800"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0830-1800"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:30 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0830-1800"
         },
@@ -127,6 +112,21 @@
           "Day": "Thursday",
           "OpenHour": "8:30 AM - 8:00 PM",
           "TradingHourForDisplay": "Thu: 0830-2000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

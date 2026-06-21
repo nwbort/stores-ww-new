@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Thu: 24 Hours"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Fri: 24 Hours"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sat: 24 Hours"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Sun: 24 Hours"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Mon: 24 Hours"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Thu: 24 Hours"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     }
   ],
   "Facilities": [

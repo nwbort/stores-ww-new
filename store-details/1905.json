@@ -1,17 +1,17 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1905",
-  "Name": "Central Park (Metro)",
-  "AddressLine1": "26-60 Broadway",
+  "Name": "Central Park Metro",
+  "AddressLine1": "26-98 Broadway",
   "AddressLine2": null,
   "Suburb": "Chippendale",
   "State": "NSW",
-  "Postcode": "2008",
+  "Postcode": "2000",
   "Latitude": "-33.8845605",
   "Longitude": "151.2006821",
   "GeoLevel": "5",
   "Distance": null,
-  "Phone": "(02) 8736 7450",
+  "Phone": "02 8736 7450",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2300"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2300"
     }
   ],
   "Facilities": [
@@ -87,26 +87,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2100"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Mon: 0700-2100"
         },
@@ -124,6 +109,21 @@
           "Day": "Thursday",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
         }
       ],
       "Facilities": [

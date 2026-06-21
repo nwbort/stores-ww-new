@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "2612",
-  "Name": "Cannonvale",
-  "AddressLine1": "Cnr Paluma And Proserpine Shute Harbour Roads",
+  "Name": "Cannonvale (FNQ)",
+  "AddressLine1": "8 Galbraith Park Road",
   "AddressLine2": null,
   "Suburb": "Cannonvale",
   "State": "QLD",
@@ -11,33 +11,18 @@
   "Longitude": "148.6733763",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 4967 5702",
+  "Phone": "07 4967 5702",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "9:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Fri: 0900-1800"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1800"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 6:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1800"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1800"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [
@@ -79,31 +79,16 @@
       "Distance": "1.83",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0288/BIG-W-Cannonvale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Thu: 0900-1900"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Fri: 0900-1700"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0900-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "10:00 AM - 4:00 PM",
           "TradingHourForDisplay": "Sun: 1000-1600"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Mon: 0900-1800"
         },
@@ -121,6 +106,21 @@
           "Day": "Thursday",
           "OpenHour": "9:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Thu: 0900-1900"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1800"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 4:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1600"
         }
       ],
       "Facilities": [

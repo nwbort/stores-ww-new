@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0500-2300"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0500-2300"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0500-2300"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "5:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Sun: 0500-2300"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "5:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Mon: 0500-2300"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "5:00 AM - 11:00 PM",
       "TradingHourForDisplay": "Thu: 0500-2300"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2300"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2300"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "5:00 AM - 11:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2300"
     }
   ],
   "Facilities": [
@@ -123,31 +123,16 @@
       "Distance": "0.39",
       "Phone": "1300 411 875",
       "GMTZone": "9:30",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0555/BIG-W-Modbury?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -165,6 +150,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

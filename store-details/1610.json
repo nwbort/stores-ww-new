@@ -1,8 +1,8 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1610",
-  "Name": "Wright (Metro)",
-  "AddressLine1": "Crn John Gorton Drive & Steve Irwin Ave",
+  "Name": "Wright Metro",
+  "AddressLine1": "John Gorton Drive",
   "AddressLine2": null,
   "Suburb": "Wright",
   "State": "ACT",
@@ -11,7 +11,7 @@
   "Longitude": "149.0347327",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6132 9333",
+  "Phone": "02 6132 9333",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:30 PM",
-      "TradingHourForDisplay": "Thu: 0700-2230"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:30 PM",
-      "TradingHourForDisplay": "Fri: 0700-2230"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:30 PM",
-      "TradingHourForDisplay": "Sat: 0700-2230"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:30 PM",
       "TradingHourForDisplay": "Sun: 0700-2230"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:30 PM",
       "TradingHourForDisplay": "Mon: 0700-2230"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:30 PM",
       "TradingHourForDisplay": "Thu: 0700-2230"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Fri: 0700-2230"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Sat: 0700-2230"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:30 PM",
+      "TradingHourForDisplay": "Sun: 0700-2230"
     }
   ],
   "Facilities": [

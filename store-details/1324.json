@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1324",
-  "Name": "Erskineville (Metro)",
+  "Name": "Erskineville Metro",
   "AddressLine1": "21-23 Erskineville Road",
   "AddressLine2": null,
   "Suburb": "Newtown",
@@ -11,33 +11,18 @@
   "Longitude": "151.1818915",
   "GeoLevel": "7",
   "Distance": null,
-  "Phone": "(02) 8565 9297",
+  "Phone": "02 8565 9297",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0800-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2200"
     }
   ],
   "Facilities": [
@@ -86,26 +86,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2100"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Mon: 0700-2100"
         },
@@ -123,6 +108,21 @@
           "Day": "Thursday",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
         }
       ],
       "Facilities": [

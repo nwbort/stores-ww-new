@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1259",
   "Name": "Glen Innes",
-  "AddressLine1": "Cnr Wentworth And Grey Streets",
+  "AddressLine1": "128-134 Grey St",
   "AddressLine2": null,
   "Suburb": "Glen Innes",
   "State": "NSW",
@@ -11,33 +11,18 @@
   "Longitude": "151.734035",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6739 7000",
+  "Phone": "02 6739 7000",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2000"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2000"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2000"
     }
   ],
   "Facilities": [

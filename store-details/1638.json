@@ -1,10 +1,10 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1638",
-  "Name": "Green Square (Metro)",
-  "AddressLine1": "20 - 26 Ebsworth Street",
+  "Name": "Green Square Metro",
+  "AddressLine1": "20 - 26 Ebsworth St",
   "AddressLine2": null,
-  "Suburb": "Zetland",
+  "Suburb": "Green Square",
   "State": "NSW",
   "Postcode": "2017",
   "Latitude": "-33.905907",
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 11:30 PM",
-      "TradingHourForDisplay": "Thu: 0700-2330"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:30 PM",
-      "TradingHourForDisplay": "Fri: 0700-2330"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 11:30 PM",
-      "TradingHourForDisplay": "Sat: 0700-2330"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 11:30 PM",
       "TradingHourForDisplay": "Sun: 0700-2330"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 11:30 PM",
       "TradingHourForDisplay": "Mon: 0700-2330"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 11:30 PM",
       "TradingHourForDisplay": "Thu: 0700-2330"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 11:30 PM",
+      "TradingHourForDisplay": "Fri: 0700-2330"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 11:30 PM",
+      "TradingHourForDisplay": "Sat: 0700-2330"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 11:30 PM",
+      "TradingHourForDisplay": "Sun: 0700-2330"
     }
   ],
   "Facilities": [
@@ -87,26 +87,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Sun: 0900-2100"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Mon: 0700-2100"
         },
@@ -124,6 +109,21 @@
           "Day": "Thursday",
           "OpenHour": "7:00 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-2100"
         }
       ],
       "Facilities": [

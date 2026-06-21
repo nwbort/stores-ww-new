@@ -4,40 +4,25 @@
   "Name": "Playford",
   "AddressLine1": "297 Peachey Road",
   "AddressLine2": null,
-  "Suburb": "Munno Para",
+  "Suburb": "Munno Para West",
   "State": "SA",
   "Postcode": "5115",
   "Latitude": "-34.6700363",
   "Longitude": "138.679211",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8259 3737",
+  "Phone": "08 8259 3737",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "9:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 0900-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "9:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1700"
     }
   ],
   "Facilities": [

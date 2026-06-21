@@ -2,42 +2,27 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1156",
   "Name": "Griffith North",
-  "AddressLine1": "Burrell Place",
+  "AddressLine1": "2-12 Burrell Place",
   "AddressLine2": null,
-  "Suburb": "Griffith North",
+  "Suburb": "Griffith",
   "State": "NSW",
   "Postcode": "2680",
   "Latitude": "-34.28532",
   "Longitude": "146.043297",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 6969 6005",
+  "Phone": "02 6969 6005",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2000"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Sun: 0800-1900"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-2000"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-1900"
     }
   ],
   "Facilities": [

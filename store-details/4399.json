@@ -1,43 +1,28 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "4399",
-  "Name": "Aveley",
-  "AddressLine1": "Cnr Millhouse Rd & Egerton Drive",
+  "Name": "Aveley SM",
+  "AddressLine1": "Cnr Millhouse Rd and Edgerton Drive",
   "AddressLine2": null,
   "Suburb": "Aveley",
   "State": "WA",
   "Postcode": "6069",
   "Latitude": "-31.77786252",
-  "Longitude": "115.98752833",
+  "Longitude": "115.9875283",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 9297 7105",
+  "Phone": "08 9297 7105",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2100"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0800-2100"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1700"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "11:00 AM - 5:00 PM",
       "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Mon: 0800-2100"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "8:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Thu: 0800-2100"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
   "Facilities": [
@@ -91,26 +91,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:30 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1900"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1700"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "11:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1100-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:30 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0830-1900"
         },
@@ -128,6 +113,21 @@
           "Day": "Thursday",
           "OpenHour": "8:30 AM - 9:00 PM",
           "TradingHourForDisplay": "Thu: 0830-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1900"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1700"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1100-1700"
         }
       ],
       "Facilities": [

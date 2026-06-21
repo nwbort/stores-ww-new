@@ -2,42 +2,27 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2900",
   "Name": "Newstead",
-  "AddressLine1": "76 Skyring Terrace",
+  "AddressLine1": "76 Skyring Tce",
   "AddressLine2": null,
   "Suburb": "Newstead",
   "State": "QLD",
   "Postcode": "4006",
   "Latitude": "-27.45051672",
-  "Longitude": "153.04446889",
+  "Longitude": "153.0444689",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(07) 3648 4400",
+  "Phone": "07 3648 4400",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0600-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "6:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0600-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "7:00 AM - 9:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2100"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0600-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "6:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0600-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2100"
     }
   ],
   "Facilities": [
@@ -90,26 +90,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0900-1800"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "10:00 AM - 5:00 PM",
           "TradingHourForDisplay": "Sun: 1000-1700"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2000"
         },
@@ -127,6 +112,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0900-1800"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 1000-1700"
         }
       ],
       "Facilities": [

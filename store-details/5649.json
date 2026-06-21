@@ -11,33 +11,18 @@
   "Longitude": "136.896553",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(08) 8678 5000",
+  "Phone": "08 8678 5000",
   "GMTZone": "9:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2000"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2000"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "8:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-1900"
-    },
-    {
-      "Day": "Sunday",
       "OpenHour": "8:00 AM - 7:00 PM",
       "TradingHourForDisplay": "Sun: 0800-1900"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2000"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 8:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2000"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2000"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1900"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-1900"
     }
   ],
   "Facilities": [

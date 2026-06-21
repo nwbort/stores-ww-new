@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1108",
   "Name": "Marayong",
-  "AddressLine1": "Quakers Court, Cnr Falmouth And Quaker Roads",
+  "AddressLine1": "Cnr Falmouth and Quakers Roads",
   "AddressLine2": null,
   "Suburb": "Marayong",
   "State": "NSW",
@@ -11,7 +11,7 @@
   "Longitude": "150.8856225",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(02) 9677 6420",
+  "Phone": "02 9677 6420",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -88,26 +88,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2200"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2000"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "8:00 AM - 8:00 PM",
           "TradingHourForDisplay": "Sun: 0800-2000"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Mon: 0800-2200"
         },
@@ -125,6 +110,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2000"
         }
       ],
       "Facilities": [

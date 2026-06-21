@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "3171",
   "Name": "Mill Park",
-  "AddressLine1": "Cnr Childs Road And Redleap Avenue",
+  "AddressLine1": "Cnr Childs Rd and Redleap Ave",
   "AddressLine2": null,
   "Suburb": "Mill Park",
   "State": "VIC",
@@ -11,7 +11,7 @@
   "Longitude": "145.061093",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "(03) 8432 5259",
+  "Phone": "03 8432 5259",
   "GMTZone": "10:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -19,25 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
-    },
-    {
-      "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2200"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
@@ -55,6 +40,21 @@
       "Day": "Thursday",
       "OpenHour": "7:00 AM - 10:00 PM",
       "TradingHourForDisplay": "Thu: 0700-2200"
+    },
+    {
+      "Day": "Friday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -87,26 +87,11 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2200"
-        },
-        {
-          "Day": "Saturday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1900"
-        },
-        {
-          "Day": "Sunday",
           "OpenHour": "9:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0900-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -124,6 +109,21 @@
           "Day": "Thursday",
           "OpenHour": "8:00 AM - 10:00 PM",
           "TradingHourForDisplay": "Thu: 0800-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2200"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1800"
         }
       ],
       "Facilities": [
