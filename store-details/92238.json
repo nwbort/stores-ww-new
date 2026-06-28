@@ -87,7 +87,7 @@
       "Distance": "0.27",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": false,
+      "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0283/BIG-W-Atherton?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
@@ -102,8 +102,8 @@
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-1800"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1700"
         },
         {
           "Day": "Wednesday",

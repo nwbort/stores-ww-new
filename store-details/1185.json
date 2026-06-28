@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1185",
   "Name": "Camden",
-  "AddressLine1": "Cnr Oxley and Argyle Streets",
+  "AddressLine1": "35 Oxley St",
   "AddressLine2": null,
   "Suburb": "Camden",
   "State": "NSW",
@@ -63,7 +63,7 @@
     "Pick up",
     "Quiet Hour: Mon-Thurs 10:30am",
     "Reverse Vending Machines (RVM)",
-    "Scan&Go"
+    "Scan&Go Trolley"
   ],
   "CategorisedFacilities": [],
   "NearbyPartners": []

@@ -1,10 +1,10 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "1433",
-  "Name": "Melonba",
+  "Name": "Melonba SM",
   "AddressLine1": "250 Abell Road",
   "AddressLine2": null,
-  "Suburb": "Melonba",
+  "Suburb": "",
   "State": "NSW",
   "Postcode": "2765",
   "Latitude": "-33.701066",
@@ -13,23 +13,23 @@
   "Distance": null,
   "Phone": "02 9624 9400",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0600-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Mon: Closed"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "9:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Tue: 0900-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
     },
     {
       "Day": "Wednesday",

@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "1183",
   "Name": "Wentworthville",
-  "AddressLine1": "Cnr Great Western Highway and Lane St",
+  "AddressLine1": "326-336  Great Western Hwy",
   "AddressLine2": null,
   "Suburb": "Wentworthville",
   "State": "NSW",
@@ -90,18 +90,18 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
         },
         {
           "Day": "Thursday",

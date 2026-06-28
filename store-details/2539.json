@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2539",
   "Name": "Mt Isa (FNQ)",
-  "AddressLine1": "Cnr Isa and Miles Streets,",
+  "AddressLine1": "2 Miles St",
   "AddressLine2": null,
   "Suburb": "Mount Isa",
   "State": "QLD",
@@ -13,13 +13,13 @@
   "Distance": null,
   "Phone": "07 4437 2025",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "10:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Sun: 1000-1700"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     },
     {
       "Day": "Tomorrow",

@@ -125,7 +125,7 @@
       "Distance": "3.64",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": false,
+      "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0456/BIG-W-Willetton?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
@@ -135,18 +135,18 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1900"
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1900"
         },
         {
           "Day": "Thursday",
@@ -155,8 +155,8 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2000"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-1900"
         },
         {
           "Day": "Saturday",

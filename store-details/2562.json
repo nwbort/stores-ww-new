@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2562",
   "Name": "Bowen (FNQ)",
-  "AddressLine1": "Cnr Richmond Rd and Old Soldier Rd,",
+  "AddressLine1": "Cnr Richmond Rd and The Soldiers Rd",
   "AddressLine2": null,
   "Suburb": "Bowen",
   "State": "QLD",
@@ -28,8 +28,8 @@
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "9:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Tue: 0900-1800"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
     },
     {
       "Day": "Wednesday",

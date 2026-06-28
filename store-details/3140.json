@@ -33,13 +33,13 @@
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2000"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "10:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 1000-2200"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
     },
     {
       "Day": "Friday",

@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2558",
   "Name": "Atherton (FNQ)",
-  "AddressLine1": "Atherton Shopping Vlge Cook Street",
+  "AddressLine1": "4 Cook St",
   "AddressLine2": null,
   "Suburb": "Atherton",
   "State": "QLD",
@@ -28,8 +28,8 @@
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Tue: 0800-2100"
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Tue: 0900-1800"
     },
     {
       "Day": "Wednesday",
@@ -94,8 +94,8 @@
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-1800"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Tue: 0900-1700"
         },
         {
           "Day": "Wednesday",

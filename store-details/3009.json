@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "3009",
-  "Name": "Armstrong Creek Town Centre",
+  "Name": "New - Armstrong Creek Town Centre SM",
   "AddressLine1": "11 Lagoon Street",
   "AddressLine2": null,
   "Suburb": "Armstrong Creek",
@@ -11,7 +11,7 @@
   "Longitude": "144.33776",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "TBC",
+  "Phone": null,
   "GMTZone": "10:0",
   "IsOpen": false,
   "PartnerUrl": null,

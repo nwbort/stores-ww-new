@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "2563",
   "Name": "Ayr (FNQ)",
-  "AddressLine1": "Cnr Queen and Parker Streets,",
+  "AddressLine1": "64-70 Queen St",
   "AddressLine2": null,
   "Suburb": "Ayr",
   "State": "QLD",
@@ -33,8 +33,8 @@
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "9:00 AM - 6:00 PM",
-      "TradingHourForDisplay": "Wed: 0900-1800"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
     },
     {
       "Day": "Thursday",
