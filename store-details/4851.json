@@ -11,7 +11,7 @@
   "Longitude": "115.67",
   "GeoLevel": "0",
   "Distance": null,
-  "Phone": "08 9562 8814",
+  "Phone": "08 9562 8813",
   "GMTZone": "8:0",
   "IsOpen": true,
   "PartnerUrl": null,
@@ -58,7 +58,8 @@
     }
   ],
   "Facilities": [
-    "Direct to boot - drive through",
+    "Direct to boot",
+    "EV Charging",
     "Pick up"
   ],
   "CategorisedFacilities": [],

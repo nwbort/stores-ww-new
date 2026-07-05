@@ -58,7 +58,6 @@
     }
   ],
   "Facilities": [
-    "Direct to boot - drive through",
     "Pick up",
     "Quiet Hour: Mon-Thurs 10:30am",
     "Reverse Vending Machines (RVM)",
@@ -111,13 +110,13 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1900"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-1800"
         },
         {
           "Day": "Saturday",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0830-1900"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sat: 0830-1800"
         },
         {
           "Day": "Sunday",

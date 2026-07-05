@@ -2,7 +2,7 @@
   "Division": "SUPERMARKETS",
   "StoreNo": "8524",
   "Name": "Wilton Plaza Metro",
-  "AddressLine1": "Shop4/1 Greenbridge Dr",
+  "AddressLine1": "1 Greenbridge Drive",
   "AddressLine2": null,
   "Suburb": "Wilton",
   "State": "NSW",
@@ -59,6 +59,7 @@
   ],
   "Facilities": [
     "Metro",
+    "Pick up",
     "WiFi"
   ],
   "CategorisedFacilities": [],

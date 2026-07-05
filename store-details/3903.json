@@ -59,6 +59,7 @@
   ],
   "Facilities": [
     "Cut on Demand",
+    "Direct to boot",
     "Liquor (Adjacent BWS)",
     "Pick up",
     "Quiet Hour: Mon-Thurs 10:30am",
@@ -92,18 +93,18 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-1900"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-1900"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-1800"
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-1900"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-1800"
         },
         {
           "Day": "Thursday",
