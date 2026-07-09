@@ -5735,12 +5735,6 @@
     "type": "ampol"
   },
   {
-    "id": 10101,
-    "name": "Toowoomba",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-toowoomba-10101-ampol",
-    "type": "ampol"
-  },
-  {
     "id": 10262,
     "name": "Sippy Downs",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-sippy-downs-10262-ampol",
@@ -6842,12 +6836,6 @@
     "id": 22382,
     "name": "Ambarvale",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-ambarvale-22382-ampol",
-    "type": "ampol"
-  },
-  {
-    "id": 22389,
-    "name": "Kogarah",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-kogarah-22389-ampol",
     "type": "ampol"
   },
   {
