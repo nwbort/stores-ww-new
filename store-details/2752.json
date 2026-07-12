@@ -83,8 +83,8 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sun: 0900-1800"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         },
         {
           "Day": "Tomorrow",
