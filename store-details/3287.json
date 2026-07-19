@@ -43,8 +43,8 @@
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
     },
     {
       "Day": "Saturday",

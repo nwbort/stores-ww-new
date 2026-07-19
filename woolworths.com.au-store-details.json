@@ -8464,43 +8464,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-1800"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-1800"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-1800"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-1800"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-1800"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-1800"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-1800"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-1800"
       }
     ],
     "Facilities": [
@@ -17820,43 +17820,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Sun: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Sun: 0500-2359"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Mon: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Mon: 0500-2359"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Tue: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Tue: 0500-2359"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Wed: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Wed: 0500-2359"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Thu: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Thu: 0500-2359"
       },
       {
         "Day": "Friday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Fri: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Fri: 0500-2359"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Sat: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Sat: 0500-2359"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "24 Hours",
-        "TradingHourForDisplay": "Sun: 24 Hours"
+        "OpenHour": "5:00 AM - 11:59 PM",
+        "TradingHourForDisplay": "Sun: 0500-2359"
       }
     ],
     "Facilities": [
@@ -17869,7 +17869,6 @@
       "General-ATM",
       "General-BBQGasAvailable",
       "General-DisabledToilet",
-      "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
       "Rewards-Everyday Rewards"
@@ -17908,8 +17907,7 @@
         "Facilities": [
           "ATM",
           "BBQ Gas Available",
-          "Disabled Toilet",
-          "Twenty Four Hour Outdoor Payment"
+          "Disabled Toilet"
         ]
       }
     ],
@@ -22558,43 +22556,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -25601,14 +25599,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -26858,43 +26858,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0430-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0430-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0430-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0430-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0430-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0430-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0430-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "4:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0430-2300"
+        "OpenHour": "4:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0430-2200"
       }
     ],
     "Facilities": [
@@ -27275,14 +27275,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -27771,43 +27773,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       }
     ],
     "Facilities": [
@@ -29247,43 +29249,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2000"
       }
     ],
     "Facilities": [
@@ -30483,43 +30485,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2100"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2100"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2100"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2100"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2100"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2100"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       }
     ],
     "Facilities": [
@@ -32799,21 +32801,21 @@
     "NearbyPartners": [
       {
         "Division": "BIGW",
-        "StoreNo": "180",
-        "Name": "BIG W Bonnyrigg",
-        "AddressLine1": "100 Bonnyrigg Avenue",
+        "StoreNo": "124",
+        "Name": "BIG W Liverpool",
+        "AddressLine1": "25 George Street",
         "AddressLine2": null,
-        "Suburb": "Bonnyrigg",
+        "Suburb": "Liverpool",
         "State": "NSW",
-        "Postcode": "2177",
-        "Latitude": "-33.88805542",
-        "Longitude": "150.8872717",
+        "Postcode": "2170",
+        "Latitude": "-33.9199",
+        "Longitude": "150.9217",
         "GeoLevel": "7",
         "Distance": "3.57",
         "Phone": "1300 411 875",
         "GMTZone": "10:0",
         "IsOpen": true,
-        "PartnerUrl": "https://www.bigw.com.au/store/0180/BIG-W-Bonnyrigg?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "PartnerUrl": "https://www.bigw.com.au/store/0124/BIG-W-Liverpool?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
             "Day": "Today",
@@ -32858,7 +32860,6 @@
         ],
         "Facilities": [
           "Bike Build",
-          "Direct to Boot",
           "In-Store Layby",
           "Party",
           "Pick Up",
@@ -44208,8 +44209,8 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0700-2300"
       },
       {
         "Day": "Tomorrow",
@@ -54864,14 +54865,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -54993,43 +54996,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -55042,14 +55045,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -56113,8 +56118,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -57383,14 +57388,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -57536,7 +57543,7 @@
   {
     "Division": "AMPOL",
     "StoreNo": "20956",
-    "Name": "Ampol Foodary Seven Hills (Abbott Rd)",
+    "Name": "Ampol Foodary Seven Hills Abbott Rd",
     "AddressLine1": "38-Abbott Rd",
     "AddressLine2": null,
     "Suburb": "Seven Hills",
@@ -57603,14 +57610,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -58626,14 +58635,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -58687,43 +58698,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -59330,14 +59341,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -59693,14 +59706,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -59804,14 +59819,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -60033,7 +60050,7 @@
   {
     "Division": "AMPOL",
     "StoreNo": "22136",
-    "Name": "Ampol Foodary Seven Hills (Station Rd)",
+    "Name": "Ampol Foodary Seven Hills Station Rd",
     "AddressLine1": "105-Station Rd Cnr Powers Rd",
     "AddressLine2": null,
     "Suburb": "Seven Hills",
@@ -60880,14 +60897,16 @@
       "Fuel-UnleadedPetrol",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -61209,14 +61228,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -61663,14 +61684,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -61955,14 +61978,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -62868,14 +62893,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -63764,14 +63791,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -64503,14 +64532,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -64803,14 +64834,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -64985,14 +65018,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -65350,14 +65385,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -65533,14 +65570,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -67056,14 +67095,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -67280,14 +67321,16 @@
       "Fuel-UnleadedPetrol",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -67525,14 +67568,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -67635,14 +67680,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -67858,14 +67905,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -68519,14 +68568,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -68626,14 +68677,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -68804,14 +68857,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -69097,14 +69152,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -69207,14 +69264,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -69451,43 +69510,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -69615,14 +69674,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -70821,14 +70882,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -71002,14 +71065,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -71186,14 +71251,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -72309,43 +72376,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1900"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Mon: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-1900"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Tue: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-1900"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Wed: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-1900"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Thu: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-1900"
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-1900"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sat: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-1900"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1900"
       }
     ],
     "Facilities": [
@@ -72356,14 +72423,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -72536,14 +72605,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -72650,14 +72721,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -73247,14 +73320,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -73359,14 +73434,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -73650,14 +73727,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -73834,14 +73913,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -74318,14 +74399,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -74449,43 +74532,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2300"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       }
     ],
     "Facilities": [
@@ -74724,14 +74807,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -75021,14 +75106,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -75085,28 +75172,28 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
@@ -75132,14 +75219,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -77141,14 +77230,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -80158,8 +80249,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
@@ -80988,8 +81079,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -81885,14 +81976,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -83065,8 +83158,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -85926,14 +86019,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -90039,8 +90134,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -92757,8 +92852,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2200"
       },
       {
         "Day": "Saturday",
@@ -95524,8 +95619,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -95799,8 +95894,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -100249,14 +100344,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -100361,14 +100458,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -100471,14 +100570,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -100651,14 +100752,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -100832,14 +100935,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -101008,43 +101113,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0430-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0430-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0430-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0430-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0430-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       }
     ],
     "Facilities": [
@@ -101056,14 +101161,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -101370,14 +101477,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -101501,43 +101610,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "5:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2000"
       }
     ],
     "Facilities": [
@@ -101550,14 +101659,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -102561,14 +102672,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -103179,14 +103292,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -103292,14 +103407,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -104745,43 +104862,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1800"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:30 AM - 9:00 PM",
-        "TradingHourForDisplay": "Mon: 0430-2100"
+        "OpenHour": "4:30 AM - 8:00 PM",
+        "TradingHourForDisplay": "Mon: 0430-2000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:30 AM - 9:00 PM",
-        "TradingHourForDisplay": "Tue: 0430-2100"
+        "OpenHour": "4:30 AM - 8:00 PM",
+        "TradingHourForDisplay": "Tue: 0430-2000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:30 AM - 9:00 PM",
-        "TradingHourForDisplay": "Wed: 0430-2100"
+        "OpenHour": "4:30 AM - 8:00 PM",
+        "TradingHourForDisplay": "Wed: 0430-2000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:30 AM - 9:00 PM",
-        "TradingHourForDisplay": "Thu: 0430-2100"
+        "OpenHour": "4:30 AM - 8:00 PM",
+        "TradingHourForDisplay": "Thu: 0430-2000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:30 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0430-2100"
+        "OpenHour": "4:30 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0430-2000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2000"
+        "OpenHour": "5:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-1900"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1800"
       }
     ],
     "Facilities": [
@@ -105255,14 +105372,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -105385,43 +105504,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0430-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0430-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0430-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0430-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0430-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0430-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0430-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "4:30 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0430-2359"
+        "OpenHour": "4:30 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0430-2300"
       }
     ],
     "Facilities": [
@@ -105434,14 +105553,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -105769,14 +105890,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -105831,43 +105954,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2100"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2100"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2100"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2100"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2100"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2100"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       }
     ],
     "Facilities": [
@@ -106299,14 +106422,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -106756,8 +106881,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -107174,14 +107299,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -107351,14 +107478,16 @@
       "Fuel-UnleadedPetrol",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -107454,14 +107583,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -107636,14 +107767,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -107767,43 +107900,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2100"
+        "OpenHour": "6:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2000"
       }
     ],
     "Facilities": [
@@ -108343,14 +108476,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -108706,14 +108841,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -109002,14 +109139,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -109115,14 +109254,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -109297,14 +109438,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -111052,43 +111195,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -112745,13 +112888,13 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2200"
+        "OpenHour": "7:00 AM - 7:45 PM",
+        "TradingHourForDisplay": "Mon: 0700-1945"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2200"
+        "OpenHour": "10:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 1000-2200"
       },
       {
         "Day": "Wednesday",
@@ -122073,28 +122216,28 @@
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0700-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "10:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 1000-2200"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0700-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0700-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0700-2300"
       }
     ],
     "Facilities": [
@@ -127293,8 +127436,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2300"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -129227,43 +129370,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "4:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0400-2200"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -130186,43 +130329,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -131844,43 +131987,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       }
     ],
     "Facilities": [
@@ -133598,43 +133741,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Sun: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Mon: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Tue: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Wed: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Thu: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Fri: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Sat: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Sun: 0500-0000"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       }
     ],
     "Facilities": [
@@ -135227,43 +135370,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2100"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2100"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2100"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2100"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2100"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2100"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "5:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2100"
       }
     ],
     "Facilities": [
@@ -142834,43 +142977,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -143707,18 +143850,18 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
@@ -143727,23 +143870,23 @@
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -143957,43 +144100,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -144845,43 +144988,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -145586,43 +145729,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -145769,43 +145912,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       }
     ],
     "Facilities": [
@@ -146180,14 +146323,16 @@
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -148135,13 +148280,13 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "10:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 1000-2200"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2200"
       },
       {
         "Day": "Wednesday",
@@ -158859,43 +159004,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -161912,43 +162057,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1900"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Mon: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-1900"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Tue: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-1900"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Wed: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-1900"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Thu: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-1900"
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-1900"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sat: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-1900"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Sun: 0600-2000"
+        "OpenHour": "6:00 AM - 7:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-1900"
       }
     ],
     "Facilities": [
@@ -161960,14 +162105,16 @@
       "General-DisabledToilet",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -168208,28 +168355,28 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
@@ -170529,43 +170676,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -171669,43 +171816,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "4:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0400-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2200"
       }
     ],
     "Facilities": [
@@ -178464,8 +178611,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "9:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1700"
       },
       {
         "Day": "Saturday",
@@ -178741,8 +178888,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -180478,8 +180625,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -181429,8 +181576,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2200"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -181844,8 +181991,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -183016,8 +183163,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -183085,8 +183232,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -183365,8 +183512,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -184050,8 +184197,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -184739,8 +184886,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -190052,28 +190199,28 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "9:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0900-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "9:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0900-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "9:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0900-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0700-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "9:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0900-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0700-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2300"
       },
       {
         "Day": "Saturday",

@@ -66,14 +66,16 @@
     "General-BBQGasAvailable",
     "Pay-AmpolCardaccepted",
     "Pay-FuelPay",
-    "Rewards-Everyday Rewards"
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
   ],
   "CategorisedFacilities": [
     {
       "Category": "Rewards",
       "CategoryLabel": "Rewards",
       "Facilities": [
-        "Everyday Rewards"
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
       ]
     },
     {

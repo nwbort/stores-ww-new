@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sun: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Mon: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Tue: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Wed: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "5:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sun: 0500-2300"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
     }
   ],
   "Facilities": [
@@ -67,14 +67,16 @@
     "General-BBQGasAvailable",
     "Pay-AmpolCardaccepted",
     "Pay-FuelPay",
-    "Rewards-Everyday Rewards"
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
   ],
   "CategorisedFacilities": [
     {
       "Category": "Rewards",
       "CategoryLabel": "Rewards",
       "Facilities": [
-        "Everyday Rewards"
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
       ]
     },
     {

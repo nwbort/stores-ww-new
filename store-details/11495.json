@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sun: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Mon: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Mon: 0500-2359"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Tue: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Tue: 0500-2359"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Wed: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Wed: 0500-2359"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Thu: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Thu: 0500-2359"
     },
     {
       "Day": "Friday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Fri: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Fri: 0500-2359"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sat: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sat: 0500-2359"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sun: 24 Hours"
+      "OpenHour": "5:00 AM - 11:59 PM",
+      "TradingHourForDisplay": "Sun: 0500-2359"
     }
   ],
   "Facilities": [
@@ -67,7 +67,6 @@
     "General-ATM",
     "General-BBQGasAvailable",
     "General-DisabledToilet",
-    "General-TwentyFourHourOutdoor",
     "Pay-AmpolCardaccepted",
     "Pay-FuelPay",
     "Rewards-Everyday Rewards"
@@ -106,8 +105,7 @@
       "Facilities": [
         "ATM",
         "BBQ Gas Available",
-        "Disabled Toilet",
-        "Twenty Four Hour Outdoor Payment"
+        "Disabled Toilet"
       ]
     }
   ],

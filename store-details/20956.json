@@ -1,7 +1,7 @@
 {
   "Division": "AMPOL",
   "StoreNo": "20956",
-  "Name": "Ampol Foodary Seven Hills (Abbott Rd)",
+  "Name": "Ampol Foodary Seven Hills Abbott Rd",
   "AddressLine1": "38-Abbott Rd",
   "AddressLine2": null,
   "Suburb": "Seven Hills",
@@ -68,14 +68,16 @@
     "General-TwentyFourHourOutdoor",
     "Pay-AmpolCardaccepted",
     "Pay-FuelPay",
-    "Rewards-Everyday Rewards"
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
   ],
   "CategorisedFacilities": [
     {
       "Category": "Rewards",
       "CategoryLabel": "Rewards",
       "Facilities": [
-        "Everyday Rewards"
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
       ]
     },
     {
