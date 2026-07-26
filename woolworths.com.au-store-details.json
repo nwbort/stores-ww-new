@@ -3407,8 +3407,7 @@
     "Facilities": [
       "Convenience Store",
       "Liquor (Adjacent BWS)",
-      "Metro",
-      "Pick up"
+      "Metro"
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": [
@@ -5267,7 +5266,6 @@
       "Australia Post Parcel Locker",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -33623,8 +33621,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Metro",
-      "Pick up"
+      "Metro"
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": []
@@ -34587,7 +34584,6 @@
       "Convenience Store",
       "Cut on Demand",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -35213,7 +35209,6 @@
       "Convenience Store",
       "Instore Bakery",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -38425,9 +38420,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot - drive through",
       "Metro",
-      "Pick up",
       "Seafood",
       "WiFi"
     ],
@@ -38707,7 +38700,6 @@
       "Convenience Store",
       "Direct to boot - drive through",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -40929,10 +40921,8 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
       "Liquor (Adjacent BWS)",
-      "Metro",
-      "Pick up"
+      "Metro"
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": [
@@ -41342,8 +41332,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Metro",
-      "Pick up"
+      "Metro"
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": [
@@ -41687,8 +41676,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Metro",
-      "Pick up"
+      "Metro"
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": [
@@ -42028,7 +42016,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -42095,7 +42082,6 @@
     ],
     "Facilities": [
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -44591,6 +44577,7 @@
     ],
     "Facilities": [
       "Convenience Store",
+      "Direct to boot",
       "Instore Bakery",
       "Metro",
       "Pick up",
@@ -44730,7 +44717,6 @@
     "Facilities": [
       "Community Pick up - Drive up",
       "Direct to boot",
-      "Direct to boot - drive through",
       "Liquor (Adjacent BWS)",
       "Metro",
       "Pick up"
@@ -45277,7 +45263,6 @@
     ],
     "Facilities": [
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -46738,10 +46723,8 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -47428,9 +47411,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
       "Metro",
-      "Pick up",
       "Sushi Bar"
     ],
     "CategorisedFacilities": [],
@@ -49370,7 +49351,7 @@
     ],
     "Facilities": [
       "Australia Post Parcel Locker",
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Liquor (Adjacent BWS)",
       "Metro",
       "Pick up",
@@ -49651,6 +49632,7 @@
     "Facilities": [
       "Convenience Store",
       "Metro",
+      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -50426,7 +50408,6 @@
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -50749,7 +50730,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -51162,7 +51142,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar"
     ],
     "CategorisedFacilities": [],
@@ -52734,6 +52713,7 @@
     ],
     "Facilities": [
       "Metro",
+      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -52869,7 +52849,6 @@
     "Facilities": [
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -53213,7 +53192,6 @@
     "Facilities": [
       "Cut on Demand",
       "Metro",
-      "Pick up",
       "Seafood",
       "Sushi Bar",
       "WiFi"
@@ -54550,14 +54528,16 @@
       "General-BBQGasAvailable",
       "Pay-AmpolCardaccepted",
       "Pay-FuelPay",
-      "Rewards-Everyday Rewards"
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
     ],
     "CategorisedFacilities": [
       {
         "Category": "Rewards",
         "CategoryLabel": "Rewards",
         "Facilities": [
-          "Everyday Rewards"
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
         ]
       },
       {
@@ -56118,8 +56098,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 6:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1800"
+        "OpenHour": "8:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2100"
       },
       {
         "Day": "Saturday",
@@ -61406,43 +61386,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       }
     ],
     "Facilities": [
@@ -64784,43 +64764,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0600-2359"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -77654,7 +77634,6 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot",
       "Metro",
       "WiFi"
     ],
@@ -93882,8 +93861,8 @@
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "8:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Tue: 0800-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Tue: 0900-1800"
       },
       {
         "Day": "Wednesday",
@@ -105323,43 +105302,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0630-2300"
+        "OpenHour": "6:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0630-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0500-2300"
+        "OpenHour": "5:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "6:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0630-2300"
+        "OpenHour": "6:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0630-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "6:30 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0630-2300"
+        "OpenHour": "6:30 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0630-2200"
       }
     ],
     "Facilities": [
@@ -106966,7 +106945,6 @@
       "Convenience Store",
       "Instore Bakery",
       "Metro",
-      "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Sushi Bar",
       "WiFi"
@@ -112439,7 +112417,6 @@
       }
     ],
     "Facilities": [
-      "Community Pick up",
       "Convenience Store",
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
@@ -112888,13 +112865,13 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 7:45 PM",
-        "TradingHourForDisplay": "Mon: 0700-1945"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "10:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 1000-2200"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2200"
       },
       {
         "Day": "Wednesday",
@@ -114317,7 +114294,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -114588,10 +114564,8 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot - drive through",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -119389,7 +119363,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Liquor (Adjacent BWS)",
       "Metro",
       "Pick up",
@@ -122201,28 +122175,28 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0700-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0700-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0700-2300"
       },
       {
         "Day": "Friday",
@@ -127436,8 +127410,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2300"
       },
       {
         "Day": "Saturday",
@@ -128860,7 +128834,6 @@
       "Cut on Demand",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Seafood"
     ],
     "CategorisedFacilities": [],
@@ -139808,7 +139781,6 @@
     "Facilities": [
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -139878,7 +139850,6 @@
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -140014,7 +139985,6 @@
     ],
     "Facilities": [
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -140083,7 +140053,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -140516,7 +140485,6 @@
     ],
     "Facilities": [
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -140654,7 +140622,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -141621,11 +141588,9 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot - drive through",
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -141765,7 +141730,6 @@
       "Convenience Store",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -146781,7 +146745,6 @@
       "Convenience Store",
       "Instore Bakery",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -148039,7 +148002,6 @@
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -178611,8 +178573,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1700"
+        "OpenHour": "8:00 AM - 8:00 PM",
+        "TradingHourForDisplay": "Fri: 0800-2000"
       },
       {
         "Day": "Saturday",
@@ -178888,8 +178850,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -180625,8 +180587,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -181576,8 +181538,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
@@ -181991,8 +181953,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -183163,8 +183125,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2200"
       },
       {
         "Day": "Saturday",
@@ -183232,8 +183194,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2200"
       },
       {
         "Day": "Saturday",
@@ -183512,8 +183474,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2200"
       },
       {
         "Day": "Saturday",
@@ -184197,8 +184159,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -184886,8 +184848,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "8:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Fri: 0800-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2200"
       },
       {
         "Day": "Saturday",
@@ -189271,7 +189233,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot",
+      "Direct to boot - drive through",
       "Pick up"
     ],
     "CategorisedFacilities": [],
@@ -189339,7 +189301,6 @@
     "Facilities": [
       "Instore Bakery",
       "Metro",
-      "Pick up",
       "Seafood",
       "WiFi"
     ],
@@ -189476,12 +189437,10 @@
       }
     ],
     "Facilities": [
-      "Community Pick up - Drive up",
       "Convenience Store",
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
-      "Pick up",
       "Sushi Bar",
       "WiFi"
     ],
@@ -189753,7 +189712,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Liquor (Adjacent BWS)",
       "Metro",
       "Pick up",
@@ -190304,7 +190263,7 @@
     ],
     "Facilities": [
       "Convenience Store",
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Instore Bakery",
       "Metro",
       "Pick up",
@@ -190645,7 +190604,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -190713,7 +190672,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -190918,7 +190877,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -191055,7 +191014,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -191123,7 +191082,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -191534,7 +191493,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Metro",
       "Pick up",
       "WiFi"
@@ -191672,7 +191631,6 @@
     "Facilities": [
       "Currently being renovated",
       "Metro",
-      "Pick up",
       "WiFi"
     ],
     "CategorisedFacilities": [],
@@ -192077,7 +192035,7 @@
       }
     ],
     "Facilities": [
-      "Direct to boot - drive through",
+      "Direct to boot",
       "Instore Bakery",
       "Liquor (Adjacent BWS)",
       "Metro",
