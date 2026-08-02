@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "9:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sun: 0900-2000"
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0600-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Tue: 0700-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0600-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0600-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0600-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2200"
+      "OpenHour": "6:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0600-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "9:00 AM - 7:00 PM",
-      "TradingHourForDisplay": "Sat: 0900-1900"
+      "OpenHour": "6:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Sat: 0600-1900"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "9:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sun: 0900-2000"
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Sun: 0800-2000"
     }
   ],
   "Facilities": [
