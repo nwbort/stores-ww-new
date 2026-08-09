@@ -13,13 +13,13 @@
   "Distance": null,
   "Phone": "07 4437 2025",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "10:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1000-1700"
     },
     {
       "Day": "Tomorrow",

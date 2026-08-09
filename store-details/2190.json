@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2100"
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Mon: 0900-1800"
     },
     {
       "Day": "Tuesday",
@@ -58,6 +58,7 @@
     }
   ],
   "Facilities": [
+    "Currently being renovated",
     "Direct to boot - drive through",
     "Pick up",
     "Quiet Hour: Mon-Thurs 10:30am"

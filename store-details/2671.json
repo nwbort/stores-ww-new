@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Mon: Closed"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2100"
     },
     {
       "Day": "Tuesday",
