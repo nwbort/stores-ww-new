@@ -18,42 +18,42 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Mon: 0700-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Tue: 0700-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Wed: 0700-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Thu: 0700-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Fri: 0700-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Sat: 0700-2200"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "7:00 AM - 10:00 PM",
+      "OpenHour": "7:00 am - 10:00 pm",
       "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],

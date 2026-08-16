@@ -59,8 +59,6 @@
   ],
   "Facilities": [
     "Fuel-AdBlue",
-    "Fuel-PremiumDieselA",
-    "Fuel-UnleadedPetrol",
     "General-ATM",
     "General-TwentyFourHourOutdoor",
     "Pay-AmpolCardaccepted",
@@ -79,9 +77,7 @@
       "Category": "Fuel",
       "CategoryLabel": "Fuel",
       "Facilities": [
-        "AdBlue",
-        "Premium Diesel A",
-        "Unleaded Petrol"
+        "AdBlue"
       ]
     },
     {

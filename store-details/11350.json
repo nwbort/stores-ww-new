@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Sun: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Mon: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0500-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Tue: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0500-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Wed: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0500-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Thu: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0500-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Fri: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0500-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Sat: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0500-2200"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "5:00 AM - 11:59 PM",
-      "TradingHourForDisplay": "Sun: 0500-2359"
+      "OpenHour": "5:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0500-2200"
     }
   ],
   "Facilities": [
@@ -147,8 +147,8 @@
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Wed: 0900-1700"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
         },
         {
           "Day": "Thursday",
