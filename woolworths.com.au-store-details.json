@@ -1879,6 +1879,7 @@
     "Facilities": [
       "Direct to boot - drive through",
       "Instore Bakery",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "WiFi"
@@ -3012,9 +3013,9 @@
     "NearbyPartners": []
   },
   {
-    "Division": "EG",
+    "Division": "AMPOL",
     "StoreNo": "10507",
-    "Name": "Agnes Water",
+    "Name": "Ampol Foodary Agnes Water",
     "AddressLine1": "Round Hill Rd Cnr Captain Cook Dr",
     "AddressLine2": null,
     "Suburb": "Agnes Water",
@@ -3024,54 +3025,100 @@
     "Longitude": "151.903349",
     "GeoLevel": "0",
     "Distance": null,
-    "Phone": "0749749166",
+    "Phone": null,
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Sun: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Mon: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0500-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Tue: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0500-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Wed: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0500-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Thu: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0500-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Fri: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0500-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Sat: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0500-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": " ",
-        "TradingHourForDisplay": "Sun: "
+        "OpenHour": "5:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0500-2300"
       }
     ],
-    "Facilities": [],
-    "CategorisedFacilities": [],
+    "Facilities": [
+      "Fuel-AdBlue",
+      "Fuel-Premium95A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "General-ATM",
+      "General-BBQGasAvailable",
+      "General-DisabledToilet",
+      "Pay-AmpolCardaccepted",
+      "Pay-FuelPay",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "AdBlue",
+          "Premium 95 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      },
+      {
+        "Category": "Pay",
+        "CategoryLabel": "Payment options",
+        "Facilities": [
+          "AmpolCard accepted",
+          "FuelPay"
+        ]
+      },
+      {
+        "Category": "General",
+        "CategoryLabel": "Store services",
+        "Facilities": [
+          "ATM",
+          "BBQ Gas Available",
+          "Disabled Toilet"
+        ]
+      }
+    ],
     "NearbyPartners": []
   },
   {
@@ -3340,6 +3387,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up"
     ],
     "CategorisedFacilities": [],
@@ -9192,6 +9240,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Reverse Vending Machines (RVM)",
@@ -12389,8 +12438,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -15709,8 +15758,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -16328,8 +16377,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -16764,8 +16813,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -20512,8 +20561,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -20693,8 +20742,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -21662,6 +21711,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -22006,8 +22056,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -23644,8 +23694,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -24644,6 +24694,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Scan&Go Trolley"
     ],
@@ -27176,8 +27227,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -27477,8 +27528,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -30436,8 +30487,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -33486,6 +33537,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
@@ -33757,6 +33809,7 @@
     ],
     "Facilities": [
       "Direct to boot",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -33963,6 +34016,7 @@
     ],
     "Facilities": [
       "Australia Post Parcel Locker",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Sushi Bar",
@@ -37108,6 +37162,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Scan&Go Trolley",
@@ -38142,6 +38197,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Seafood"
     ],
@@ -39738,6 +39794,7 @@
     ],
     "Facilities": [
       "Direct to boot",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -40085,6 +40142,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -41947,6 +42005,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -42643,6 +42702,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up"
     ],
     "CategorisedFacilities": [],
@@ -43612,6 +43672,7 @@
     ],
     "Facilities": [
       "Direct to boot",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -45263,6 +45324,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Metro",
       "Sushi Bar",
       "WiFi"
@@ -46378,6 +46440,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Reverse Vending Machines (RVM)"
@@ -47961,7 +48024,6 @@
       "Australia Post Parcel Locker",
       "Direct to boot - drive through",
       "Instore Bakery",
-      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Reverse Vending Machines (RVM)",
@@ -48061,43 +48123,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -48376,6 +48438,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -49976,6 +50039,7 @@
     "Facilities": [
       "Direct to boot - drive through",
       "EV Charging",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
@@ -50407,7 +50471,6 @@
     ],
     "Facilities": [
       "Instore Bakery",
-      "Liquor (Adjacent BWS)",
       "Metro",
       "WiFi"
     ],
@@ -50641,8 +50704,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -50962,43 +51025,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
@@ -51702,6 +51765,7 @@
     ],
     "Facilities": [
       "Direct to boot",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Reverse Vending Machines (RVM)",
@@ -52258,6 +52322,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Scan&Go",
@@ -56586,8 +56651,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -57067,8 +57132,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -57138,8 +57203,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -57954,8 +58019,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -58090,8 +58155,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -67453,8 +67518,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -70435,8 +70500,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -77692,8 +77757,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -78430,8 +78495,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -78776,8 +78841,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -78917,8 +78982,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -78985,8 +79050,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -79194,8 +79259,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -79264,8 +79329,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -79354,6 +79419,7 @@
       "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "WiFi"
     ],
@@ -79630,6 +79696,7 @@
       }
     ],
     "Facilities": [
+      "Currently being renovated",
       "Direct to boot - drive through",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
@@ -80095,8 +80162,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -80165,8 +80232,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -82868,8 +82935,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -82937,8 +83004,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -85169,6 +85236,7 @@
       "Instore Bakery",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "Sushi Bar",
       "WiFi"
@@ -85290,8 +85358,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2200"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -85360,8 +85428,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -86375,8 +86443,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -86442,8 +86510,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -87128,8 +87196,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -87406,8 +87474,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -87472,8 +87540,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -87766,6 +87834,7 @@
       "Instore Bakery",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "Sushi Bar",
       "WiFi"
@@ -88027,8 +88096,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -88951,7 +89020,6 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
-      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -89441,6 +89509,7 @@
       "Direct to boot - drive through",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "WiFi"
     ],
@@ -89510,6 +89579,7 @@
       "Direct to boot - drive through",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Sushi Bar"
     ],
     "CategorisedFacilities": [],
@@ -90348,6 +90418,7 @@
       "Instore Bakery",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "Sushi Bar",
       "WiFi"
@@ -90400,8 +90471,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -90470,8 +90541,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -94713,8 +94784,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -94782,8 +94853,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -94850,8 +94921,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -95332,8 +95403,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -96092,8 +96163,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -96229,8 +96300,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -96300,8 +96371,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -97056,8 +97127,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -97423,6 +97494,7 @@
       "Instore Bakery",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood",
       "Sushi Bar",
       "WiFi"
@@ -97821,8 +97893,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "6:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0600-2200"
+        "OpenHour": "7:00 AM - 9:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-2100"
       },
       {
         "Day": "Saturday",
@@ -98716,8 +98788,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -98783,8 +98855,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -99125,8 +99197,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -100218,6 +100290,8 @@
     ],
     "Facilities": [
       "Fuel-AdBlue",
+      "Fuel-Diesel",
+      "Fuel-PremiumDieselA",
       "General-ATM",
       "General-TwentyFourHourOutdoor",
       "Pay-AmpolCardaccepted",
@@ -100236,7 +100310,9 @@
         "Category": "Fuel",
         "CategoryLabel": "Fuel",
         "Facilities": [
-          "AdBlue"
+          "AdBlue",
+          "Diesel",
+          "Premium Diesel A"
         ]
       },
       {
@@ -107372,8 +107448,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -109595,7 +109671,6 @@
     ],
     "Facilities": [
       "Instore Bakery",
-      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -110101,8 +110176,8 @@
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 9:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2100"
+        "OpenHour": "9:00 AM - 6:00 PM",
+        "TradingHourForDisplay": "Fri: 0900-1800"
       },
       {
         "Day": "Saturday",
@@ -110168,8 +110243,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -127913,8 +127988,8 @@
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0700-2200"
       }
     ],
     "Facilities": [
@@ -140874,7 +140949,6 @@
     "Facilities": [
       "Convenience Store",
       "Instore Bakery",
-      "Liquor (Adjacent BWS)",
       "Metro"
     ],
     "CategorisedFacilities": [],
@@ -150593,6 +150667,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
@@ -151968,6 +152043,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -153215,6 +153291,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Scan&Go",
@@ -153494,6 +153571,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -153633,6 +153711,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -153977,6 +154056,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
@@ -154602,6 +154682,7 @@
     ],
     "Facilities": [
       "Australia Post Parcel Locker",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
@@ -154876,6 +154957,7 @@
       }
     ],
     "Facilities": [
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -157099,6 +157181,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -157582,6 +157665,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -157790,6 +157874,7 @@
     "Facilities": [
       "Australia Post Parcel Locker",
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -161137,6 +161222,7 @@
     ],
     "Facilities": [
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up"
     ],
     "CategorisedFacilities": [],
@@ -164239,6 +164325,7 @@
     ],
     "Facilities": [
       "Australia Post Parcel Locker",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood"
@@ -164588,6 +164675,7 @@
     "Facilities": [
       "Direct to boot - drive through",
       "Instore Bakery",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Scan&Go",
@@ -165231,6 +165319,7 @@
     "Facilities": [
       "Direct to boot - drive through",
       "Instore Bakery",
+      "Liquor (Adjacent BWS)",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
       "Seafood",
@@ -179262,6 +179351,7 @@
       "Direct to boot - drive through",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood"
     ],
     "CategorisedFacilities": [],
@@ -182292,6 +182382,7 @@
       "Direct to boot - drive through",
       "Pick up",
       "Quiet Hour: Mon-Thurs 10:30am",
+      "Scan&Go Trolley",
       "Seafood"
     ],
     "CategorisedFacilities": [],
@@ -189928,43 +190019,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2200"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2200"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Thu: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2200"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2200"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sat: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2200"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2200"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       }
     ],
     "Facilities": [
@@ -190087,8 +190178,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -190269,48 +190360,47 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0600-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0600-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0600-2300"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Thu: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Thu: 0600-2300"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Fri: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Fri: 0600-2300"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sat: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sat: 0600-2300"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 11:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2300"
+        "OpenHour": "6:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2300"
       }
     ],
     "Facilities": [
       "Convenience Store",
-      "Liquor (Adjacent BWS)",
       "Metro",
       "Sushi Bar",
       "WiFi"
@@ -210289,8 +210379,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:30 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0830-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
@@ -219300,8 +219390,8 @@
           },
           {
             "Day": "Friday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Fri: 0800-1800"
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Fri: 0900-1700"
           },
           {
             "Day": "Saturday",
