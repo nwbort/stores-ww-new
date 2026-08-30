@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3648 4384",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -80,7 +80,7 @@
       "Distance": "2.08",
       "Phone": "0730123313",
       "GMTZone": "10:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0278/BIG-W-Brisbane City?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

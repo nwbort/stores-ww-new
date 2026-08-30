@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3826 2552",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -79,7 +79,7 @@
       "Distance": "0.53",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0274/BIG-W-Loganholme?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

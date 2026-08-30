@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 9203 3541",
   "GMTZone": "8:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -82,7 +82,7 @@
       "Distance": "2.85",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0455/BIG-W-Spearwood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

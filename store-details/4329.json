@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 9027 2600",
   "GMTZone": "8:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {

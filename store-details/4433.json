@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Mon: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Mon: Closed"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Tue: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Tue: Closed"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Wed: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Wed: Closed"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Thu: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Thu: Closed"
     },
     {
       "Day": "Friday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Fri: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Fri: Closed"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sat: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [],
@@ -75,7 +75,7 @@
       "Distance": "2.99",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0444/BIG-W-Success?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

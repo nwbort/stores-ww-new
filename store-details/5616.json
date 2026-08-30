@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 8314 5432",
   "GMTZone": "9:30",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {

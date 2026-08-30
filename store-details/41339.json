@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": null,
   "GMTZone": "9:30",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {

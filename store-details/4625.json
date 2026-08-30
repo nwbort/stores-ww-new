@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 9297 7109",
   "GMTZone": "8:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -83,7 +83,7 @@
       "Distance": "2.52",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0446/BIG-W-Ellenbrook?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
