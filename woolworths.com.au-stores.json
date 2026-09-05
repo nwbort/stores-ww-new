@@ -6910,6 +6910,12 @@
     "type": "ampol"
   },
   {
+    "id": 22440,
+    "name": "Rozelle",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-rozelle-22440-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 22447,
     "name": "Neutral Bay",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-neutral-bay-22447-ampol",
@@ -7111,6 +7117,12 @@
     "id": 22718,
     "name": "Nabiac",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-nabiac-22718-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 22720,
+    "name": "Taren Point",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-taren-point-22720-ampol",
     "type": "ampol"
   },
   {
@@ -7756,6 +7768,12 @@
     "type": "ampol"
   },
   {
+    "id": 30278,
+    "name": "Sunbury",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-sunbury-30278-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 30707,
     "name": "Yarra Glen",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-yarra-glen-30707-ampol",
@@ -8233,6 +8251,12 @@
     "id": 37253,
     "name": "Diamond Creek",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-diamond-creek-37253-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37257,
+    "name": "Westmeadows",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-westmeadows-37257-ampol",
     "type": "ampol"
   },
   {
