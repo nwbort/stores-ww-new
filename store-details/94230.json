@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 6186 0342",
   "GMTZone": "8:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {

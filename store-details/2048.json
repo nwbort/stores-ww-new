@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3513 4413",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -62,7 +62,7 @@
     "Direct to boot - drive through",
     "Pick up",
     "Quiet Hour: Mon-Thurs 10:30am",
-    "Scan&Go",
+    "Scan&Go Trolley",
     "Sushi Bar"
   ],
   "CategorisedFacilities": [],

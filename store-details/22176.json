@@ -18,43 +18,43 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sun: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Mon: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Mon: 24 Hours"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Tue: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Tue: 24 Hours"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Wed: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Wed: 24 Hours"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Thu: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Thu: 24 Hours"
     },
     {
       "Day": "Friday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Fri: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Fri: 24 Hours"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sat: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sat: 24 Hours"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "5:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Sun: 0500-2000"
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     }
   ],
   "Facilities": [
@@ -64,6 +64,7 @@
     "Fuel-UnleadedPetrol",
     "General-ATM",
     "General-BBQGasAvailable",
+    "General-TwentyFourHourOutdoor",
     "Pay-AmpolCardaccepted",
     "Pay-FuelPay",
     "Rewards-Everyday Rewards",
@@ -101,7 +102,8 @@
       "CategoryLabel": "Store services",
       "Facilities": [
         "ATM",
-        "BBQ Gas Available"
+        "BBQ Gas Available",
+        "Twenty Four Hour Outdoor Payment"
       ]
     }
   ],

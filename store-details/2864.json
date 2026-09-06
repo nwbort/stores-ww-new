@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3819 7138",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -82,7 +82,7 @@
       "Distance": "1.89",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": false,
+      "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0282/BIG-W-Springfield Central?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

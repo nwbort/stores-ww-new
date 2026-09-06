@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3648 4330",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {

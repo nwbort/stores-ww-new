@@ -33,31 +33,34 @@
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Wed: Closed"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Thu: Closed"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
     },
     {
       "Day": "Friday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Fri: Closed"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sat: Closed"
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
-  "Facilities": [],
+  "Facilities": [
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
   "CategorisedFacilities": [],
   "NearbyPartners": [
     {

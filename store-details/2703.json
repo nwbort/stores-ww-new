@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 5343 2110",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -43,8 +43,8 @@
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Fri: 0900-1800"
     },
     {
       "Day": "Saturday",
@@ -109,8 +109,8 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1800"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Fri: 0900-1700"
         },
         {
           "Day": "Saturday",

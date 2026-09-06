@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3383 4122",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -61,7 +61,7 @@
     "Direct to boot",
     "Instore Bakery",
     "Pick up",
-    "Scan&Go",
+    "Scan&Go Trolley",
     "Seafood",
     "WiFi"
   ],

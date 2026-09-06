@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 3826 2552",
   "GMTZone": "10:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -60,7 +60,7 @@
   "Facilities": [
     "Direct to boot",
     "Pick up",
-    "Scan&Go"
+    "Scan&Go Trolley"
   ],
   "CategorisedFacilities": [],
   "NearbyPartners": [
