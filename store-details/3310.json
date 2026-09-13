@@ -57,7 +57,11 @@
       "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
-  "Facilities": [],
+  "Facilities": [
+    "Direct to boot",
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
   "CategorisedFacilities": [],
   "NearbyPartners": []
 }

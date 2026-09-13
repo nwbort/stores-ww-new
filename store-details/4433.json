@@ -1,7 +1,7 @@
 {
   "Division": "SUPERMARKETS",
   "StoreNo": "4433",
-  "Name": "New - Hammond Park SM",
+  "Name": "Hammond Park SM",
   "AddressLine1": "490 Wattleup Rd",
   "AddressLine2": null,
   "Suburb": "Hammond Park",
@@ -18,18 +18,18 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Mon: Closed"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Tue: Closed"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
     },
     {
       "Day": "Wednesday",
