@@ -5830,6 +5830,12 @@
     "type": "ampol"
   },
   {
+    "id": 11022,
+    "name": "Mount Warren Park",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-mount-warren-park-11022-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 11046,
     "name": "Shailer Park",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-shailer-park-11046-ampol",
@@ -5950,6 +5956,12 @@
     "type": "ampol"
   },
   {
+    "id": 11271,
+    "name": "Rocklea",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-rocklea-11271-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 11272,
     "name": "Yarrabilba South",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-yarrabilba-south-11272-ampol",
@@ -5977,6 +5989,12 @@
     "id": 11300,
     "name": "Mackay",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-mackay-11300-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 11304,
+    "name": "Tewantin",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-tewantin-11304-ampol",
     "type": "ampol"
   },
   {
@@ -6055,6 +6073,12 @@
     "id": 11387,
     "name": "Sunnybank",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-sunnybank-11387-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 11390,
+    "name": "Park Ridge",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-park-ridge-11390-ampol",
     "type": "ampol"
   },
   {
@@ -6196,6 +6220,12 @@
     "type": "ampol"
   },
   {
+    "id": 11689,
+    "name": "Toowoomba",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-toowoomba-11689-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 11728,
     "name": "Nundah",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-nundah-11728-ampol",
@@ -6205,6 +6235,12 @@
     "id": 11729,
     "name": "Labrador",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-labrador-11729-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 11732,
+    "name": "Cleveland",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-cleveland-11732-ampol",
     "type": "ampol"
   },
   {
@@ -6229,6 +6265,12 @@
     "id": 11747,
     "name": "Gladstone",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-gladstone-11747-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 11750,
+    "name": "Loganholme",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-loganholme-11750-ampol",
     "type": "ampol"
   },
   {
@@ -6340,6 +6382,12 @@
     "type": "ampol"
   },
   {
+    "id": 11864,
+    "name": "Lutwyche",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-lutwyche-11864-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 11866,
     "name": "Arana Hills",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-arana-hills-11866-ampol",
@@ -6364,6 +6412,12 @@
     "type": "ampol"
   },
   {
+    "id": 11885,
+    "name": "Chermside",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-chermside-11885-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 11892,
     "name": "Mareeba",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-mareeba-11892-ampol",
@@ -6379,6 +6433,12 @@
     "id": 11896,
     "name": "Rural View",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-rural-view-11896-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 11898,
+    "name": "Bracken Ridge",
+    "url": "https://www.woolworths.com.au/shop/storelocator/qld-bracken-ridge-11898-ampol",
     "type": "ampol"
   },
   {
@@ -6742,6 +6802,12 @@
     "type": "ampol"
   },
   {
+    "id": 22260,
+    "name": "Mount Colah",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-mount-colah-22260-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 22267,
     "name": "Mudgee",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-mudgee-22267-ampol",
@@ -6784,6 +6850,12 @@
     "type": "ampol"
   },
   {
+    "id": 22308,
+    "name": "East Maitland",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-east-maitland-22308-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 22316,
     "name": "Kensington",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-kensington-22316-ampol",
@@ -6823,6 +6895,12 @@
     "id": 22362,
     "name": "Concord",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-concord-22362-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 22372,
+    "name": "Carlingford",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-carlingford-22372-ampol",
     "type": "ampol"
   },
   {
@@ -6910,6 +6988,12 @@
     "type": "ampol"
   },
   {
+    "id": 22440,
+    "name": "Rozelle",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-rozelle-22440-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 22447,
     "name": "Neutral Bay",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-neutral-bay-22447-ampol",
@@ -6919,6 +7003,18 @@
     "id": 22453,
     "name": "Caringbah South",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-caringbah-south-22453-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 22458,
+    "name": "Canley Heights",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-canley-heights-22458-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 22464,
+    "name": "Baulkham Hills",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-baulkham-hills-22464-ampol",
     "type": "ampol"
   },
   {
@@ -7042,6 +7138,12 @@
     "type": "ampol"
   },
   {
+    "id": 22550,
+    "name": "Moorebank",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-moorebank-22550-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 22582,
     "name": "Gosford West",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-gosford-west-22582-ampol",
@@ -7111,6 +7213,12 @@
     "id": 22718,
     "name": "Nabiac",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-nabiac-22718-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 22720,
+    "name": "Taren Point",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-taren-point-22720-ampol",
     "type": "ampol"
   },
   {
@@ -7522,6 +7630,12 @@
     "type": "ampol"
   },
   {
+    "id": 28690,
+    "name": "Yamba",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-yamba-28690-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 28704,
     "name": "Mt Victoria",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-mt-victoria-28704-ampol",
@@ -7666,6 +7780,12 @@
     "type": "ampol"
   },
   {
+    "id": 28979,
+    "name": "Lake Munmorah",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-lake-munmorah-28979-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 28982,
     "name": "Cambridge Park",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-cambridge-park-28982-ampol",
@@ -7756,6 +7876,12 @@
     "type": "ampol"
   },
   {
+    "id": 30278,
+    "name": "Sunbury",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-sunbury-30278-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 30707,
     "name": "Yarra Glen",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-yarra-glen-30707-ampol",
@@ -7804,6 +7930,12 @@
     "type": "ampol"
   },
   {
+    "id": 33171,
+    "name": "Keysborough",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-keysborough-33171-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 33190,
     "name": "Reservoir",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-reservoir-33190-ampol",
@@ -7828,6 +7960,12 @@
     "type": "ampol"
   },
   {
+    "id": 33256,
+    "name": "Springvale",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-springvale-33256-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 33260,
     "name": "South Yarra",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-south-yarra-33260-ampol",
@@ -7837,6 +7975,12 @@
     "id": 33261,
     "name": "Kew",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-kew-33261-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 33276,
+    "name": "Echuca",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-echuca-33276-ampol",
     "type": "ampol"
   },
   {
@@ -7894,6 +8038,12 @@
     "type": "ampol"
   },
   {
+    "id": 33380,
+    "name": "Glen Waverley",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-glen-waverley-33380-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 33409,
     "name": "Laverton North",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-laverton-north-33409-ampol",
@@ -7903,6 +8053,12 @@
     "id": 33415,
     "name": "Moorabbin",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-moorabbin-33415-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 33456,
+    "name": "Lilydale",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-lilydale-33456-ampol",
     "type": "ampol"
   },
   {
@@ -7921,6 +8077,12 @@
     "id": 33474,
     "name": "Ararat",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-ararat-33474-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 33477,
+    "name": "Werribee",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-werribee-33477-ampol",
     "type": "ampol"
   },
   {
@@ -7960,6 +8122,12 @@
     "type": "ampol"
   },
   {
+    "id": 33549,
+    "name": "Ararat",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-ararat-33549-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 33552,
     "name": "Ballarat",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-ballarat-33552-ampol",
@@ -7975,6 +8143,12 @@
     "id": 33605,
     "name": "Ascot Vale",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-ascot-vale-33605-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 33613,
+    "name": "Coburg",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-coburg-33613-ampol",
     "type": "ampol"
   },
   {
@@ -8014,6 +8188,12 @@
     "type": "ampol"
   },
   {
+    "id": 33722,
+    "name": "St Albans",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-st-albans-33722-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 33732,
     "name": "Rowville",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-rowville-33732-ampol",
@@ -8023,6 +8203,12 @@
     "id": 33799,
     "name": "Mernda",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-mernda-33799-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 33810,
+    "name": "Mill Park",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mill-park-33810-ampol",
     "type": "ampol"
   },
   {
@@ -8140,6 +8326,18 @@
     "type": "ampol"
   },
   {
+    "id": 37055,
+    "name": "Chadstone",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-chadstone-37055-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37069,
+    "name": "Mentone",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-mentone-37069-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 37091,
     "name": "Cheltenham",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-cheltenham-37091-ampol",
@@ -8149,6 +8347,12 @@
     "id": 37092,
     "name": "Northcote",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-northcote-37092-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37096,
+    "name": "Carrum Downs",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-carrum-downs-37096-ampol",
     "type": "ampol"
   },
   {
@@ -8170,9 +8374,21 @@
     "type": "ampol"
   },
   {
+    "id": 37153,
+    "name": "Dandenong",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-dandenong-37153-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 37155,
     "name": "Avondale Heights",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-avondale-heights-37155-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37160,
+    "name": "Sebastopol",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-sebastopol-37160-ampol",
     "type": "ampol"
   },
   {
@@ -8191,6 +8407,12 @@
     "id": 37195,
     "name": "Kilsyth",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-kilsyth-37195-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37199,
+    "name": "Ringwood East",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-ringwood-east-37199-ampol",
     "type": "ampol"
   },
   {
@@ -8233,6 +8455,12 @@
     "id": 37253,
     "name": "Diamond Creek",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-diamond-creek-37253-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 37257,
+    "name": "Westmeadows",
+    "url": "https://www.woolworths.com.au/shop/storelocator/vic-westmeadows-37257-ampol",
     "type": "ampol"
   },
   {
@@ -8326,15 +8554,33 @@
     "type": "ampol"
   },
   {
+    "id": 44124,
+    "name": "West Hindmarsh",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-west-hindmarsh-44124-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 44163,
     "name": "Cumberland Park",
     "url": "https://www.woolworths.com.au/shop/storelocator/sa-cumberland-park-44163-ampol",
     "type": "ampol"
   },
   {
+    "id": 44164,
+    "name": "Clearview",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-clearview-44164-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 44166,
     "name": "Northfield",
     "url": "https://www.woolworths.com.au/shop/storelocator/sa-northfield-44166-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 44174,
+    "name": "St Marys",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-st-marys-44174-ampol",
     "type": "ampol"
   },
   {
@@ -8347,6 +8593,12 @@
     "id": 44193,
     "name": "Gillman",
     "url": "https://www.woolworths.com.au/shop/storelocator/sa-gillman-44193-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 44204,
+    "name": "Elizabeth Vale",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-elizabeth-vale-44204-ampol",
     "type": "ampol"
   },
   {
@@ -8383,6 +8635,12 @@
     "id": 44360,
     "name": "Keswick",
     "url": "https://www.woolworths.com.au/shop/storelocator/sa-keswick-44360-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 44367,
+    "name": "Salisbury Downs",
+    "url": "https://www.woolworths.com.au/shop/storelocator/sa-salisbury-downs-44367-ampol",
     "type": "ampol"
   },
   {
@@ -8818,6 +9076,12 @@
     "type": "ampol"
   },
   {
+    "id": 55498,
+    "name": "Mundaring",
+    "url": "https://www.woolworths.com.au/shop/storelocator/wa-mundaring-55498-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 55499,
     "name": "Applecross",
     "url": "https://www.woolworths.com.au/shop/storelocator/wa-applecross-55499-ampol",
@@ -8977,6 +9241,12 @@
     "id": 66149,
     "name": "Hobart South",
     "url": "https://www.woolworths.com.au/shop/storelocator/tas-hobart-south-66149-ampol",
+    "type": "ampol"
+  },
+  {
+    "id": 66357,
+    "name": "Lindisfarne",
+    "url": "https://www.woolworths.com.au/shop/storelocator/tas-lindisfarne-66357-ampol",
     "type": "ampol"
   },
   {

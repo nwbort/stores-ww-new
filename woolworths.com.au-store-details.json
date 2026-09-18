@@ -6271,6 +6271,165 @@
     "NearbyPartners": []
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "11022",
+    "Name": "U-Go Mt Warren Park",
+    "AddressLine1": "40-42-Rochester Drive",
+    "AddressLine2": null,
+    "Suburb": "Mount Warren Park",
+    "State": "QLD",
+    "Postcode": "4207",
+    "Latitude": "-27.7284047",
+    "Longitude": "153.2087935",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "275",
+        "Name": "BIG W Beenleigh",
+        "AddressLine1": "114-118 George Street",
+        "AddressLine2": null,
+        "Suburb": "Beenleigh",
+        "State": "QLD",
+        "Postcode": "4207",
+        "Latitude": "-27.71771877",
+        "Longitude": "153.2066778",
+        "GeoLevel": "7",
+        "Distance": "1.17",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0275/BIG-W-Beenleigh?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:30 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0830-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0830-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0830-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0830-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:30 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0830-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "1103",
     "Name": "Lane Cove",
@@ -11981,6 +12140,95 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "11271",
+    "Name": "U-Go Rocklea",
+    "AddressLine1": "117-Sherwood Rd",
+    "AddressLine2": null,
+    "Suburb": "Rocklea",
+    "State": "QLD",
+    "Postcode": "4106",
+    "Latitude": "-27.538665",
+    "Longitude": "153.005534",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "11272",
     "Name": "Ampol Foodary Yarrabilba South",
     "AddressLine1": "Cnr Yarrabilba Drive & Mill St",
@@ -13039,6 +13287,166 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "11304",
+    "Name": "U-Go Tewantin",
+    "AddressLine1": "44-Doonella St Cnr Memorial Ave",
+    "AddressLine2": null,
+    "Suburb": "Tewantin",
+    "State": "QLD",
+    "Postcode": "4565",
+    "Latitude": "-26.3926539",
+    "Longitude": "153.0390188",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "249",
+        "Name": "BIG W Noosa",
+        "AddressLine1": "28 Eenie Creek Road",
+        "AddressLine2": null,
+        "Suburb": "Noosaville",
+        "State": "QLD",
+        "Postcode": "4566",
+        "Latitude": "-26.4160841",
+        "Longitude": "153.0492094",
+        "GeoLevel": "7",
+        "Distance": "2.76",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0249/BIG-W-Noosaville?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-1900"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -15989,6 +16397,97 @@
       "WiFi"
     ],
     "CategorisedFacilities": [],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "11390",
+    "Name": "U-Go Park Ridge",
+    "AddressLine1": "3726-3730-Mt Lindesay Hwy",
+    "AddressLine2": null,
+    "Suburb": "Park Ridge",
+    "State": "QLD",
+    "Postcode": "4125",
+    "Latitude": "-27.6967112",
+    "Longitude": "153.0381677",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
     "NearbyPartners": []
   },
   {
@@ -21326,6 +21825,164 @@
     ]
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "11689",
+    "Name": "U-Go Toowoomba Central",
+    "AddressLine1": "646-Ruthven St",
+    "AddressLine2": null,
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "Postcode": "4350",
+    "Latitude": "-27.5684857",
+    "Longitude": "151.9525291",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "291",
+        "Name": "BIG W Grand Central",
+        "AddressLine1": "Corner of Dent Street and Margaret Street",
+        "AddressLine2": null,
+        "Suburb": "Toowoomba",
+        "State": "QLD",
+        "Postcode": "4350",
+        "Latitude": "-27.56067702",
+        "Longitude": "151.949801",
+        "GeoLevel": "0",
+        "Distance": "0.87",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0291/BIG-W-Toowoomba?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0830-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0830-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0830-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0830-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:30 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0830-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "1170",
     "Name": "Kempsey",
@@ -22101,6 +22758,97 @@
       "Quiet Hour: Mon-Thurs 10:30am"
     ],
     "CategorisedFacilities": [],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "11732",
+    "Name": "U-Go Cleveland",
+    "AddressLine1": "Bloomfield St Cnr Ross Court",
+    "AddressLine2": null,
+    "Suburb": "Cleveland",
+    "State": "QLD",
+    "Postcode": "4163",
+    "Latitude": "-27.5323",
+    "Longitude": "153.266442",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
     "NearbyPartners": []
   },
   {
@@ -22966,6 +23714,166 @@
             "Day": "Sunday",
             "OpenHour": "9:00 AM - 6:00 PM",
             "TradingHourForDisplay": "Sun: 0900-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "11750",
+    "Name": "U-Go Loganholme",
+    "AddressLine1": "80-Bryants Rd",
+    "AddressLine2": null,
+    "Suburb": "Loganholme",
+    "State": "QLD",
+    "Postcode": "4129",
+    "Latitude": "-27.6629122",
+    "Longitude": "153.1798141",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "274",
+        "Name": "BIG W Loganholme",
+        "AddressLine1": "Corner of Bryants Road and Pacific Highway",
+        "AddressLine2": null,
+        "Suburb": "Loganholme",
+        "State": "QLD",
+        "Postcode": "4129",
+        "Latitude": "-27.65644173",
+        "Longitude": "153.1715975",
+        "GeoLevel": "0",
+        "Distance": "1.1",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0274/BIG-W-Loganholme?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:30 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0830-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0830-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0830-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0830-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:30 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0830-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1800"
           }
         ],
         "Facilities": [
@@ -26843,6 +27751,97 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "11864",
+    "Name": "U-Go Lutwyche",
+    "AddressLine1": "404-Lutwyche Rd",
+    "AddressLine2": null,
+    "Suburb": "Lutwyche",
+    "State": "QLD",
+    "Postcode": "4030",
+    "Latitude": "-27.425972",
+    "Longitude": "153.032366",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "11866",
     "Name": "Ampol Foodary Arana Hills",
     "AddressLine1": "282-Dawson Pde Cnr Nepean Rd",
@@ -27509,6 +28508,163 @@
     ]
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "11885",
+    "Name": "U-Go West Chermside",
+    "AddressLine1": "644-Webster Rd Cnr Milburn St",
+    "AddressLine2": null,
+    "Suburb": "Chermside",
+    "State": "QLD",
+    "Postcode": "4032",
+    "Latitude": "-27.38002941",
+    "Longitude": "153.02241567",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "248",
+        "Name": "BIG W Chermside",
+        "AddressLine1": "Corner of Gympie Rd and Hamilton Road",
+        "AddressLine2": null,
+        "Suburb": "Chermside",
+        "State": "QLD",
+        "Postcode": "4032",
+        "Latitude": "-27.386",
+        "Longitude": "153.031",
+        "GeoLevel": "0",
+        "Distance": "1.11",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0248/BIG-W-Chermside?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "1189",
     "Name": "Plumpton",
@@ -27977,6 +29133,165 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "11898",
+    "Name": "U-Go Bracken Ridge",
+    "AddressLine1": "168-Barrett St",
+    "AddressLine2": null,
+    "Suburb": "Bracken Ridge",
+    "State": "QLD",
+    "Postcode": "4017",
+    "Latitude": "-27.3195024",
+    "Longitude": "153.0409046",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "277",
+        "Name": "BIG W Taigum",
+        "AddressLine1": "Corner of Beams Road and Church Road",
+        "AddressLine2": null,
+        "Suburb": "Taigum",
+        "State": "QLD",
+        "Postcode": "4018",
+        "Latitude": "-27.34985873",
+        "Longitude": "153.048842",
+        "GeoLevel": "0",
+        "Distance": "3.41",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0277/BIG-W-Taigum?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 8:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2000"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "SUPERMARKETS",
@@ -62269,6 +63584,93 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "22260",
+    "Name": "U-Go Mount Colah",
+    "AddressLine1": "603-Pacific Hwy",
+    "AddressLine2": null,
+    "Suburb": "Mount Colah",
+    "State": "NSW",
+    "Postcode": "2079",
+    "Latitude": "-33.670458",
+    "Longitude": "151.115",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "22267",
     "Name": "Ampol Foodary Mudgee",
     "AddressLine1": "114-116-Church St",
@@ -63351,6 +64753,161 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "22308",
+    "Name": "U-Go East Maitland",
+    "AddressLine1": "Newcastle Rd Cnr William St",
+    "AddressLine2": null,
+    "Suburb": "East Maitland",
+    "State": "NSW",
+    "Postcode": "2323",
+    "Latitude": "-32.748786",
+    "Longitude": "151.582974",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "139",
+        "Name": "BIG W Green Hills",
+        "AddressLine1": "1 Molly Morgan Drive",
+        "AddressLine2": null,
+        "Suburb": "East Maitland",
+        "State": "NSW",
+        "Postcode": "2323",
+        "Latitude": "-32.76067",
+        "Longitude": "151.592743",
+        "GeoLevel": "0",
+        "Distance": "1.59",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0139/BIG-W-East Maitland?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:30 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:30 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0830-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:30 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0830-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:30 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0830-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:30 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0830-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:30 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0830-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:30 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0830-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "SUPERMARKETS",
@@ -64572,6 +66129,91 @@
           "BBQ Gas Available",
           "Disabled Toilet",
           "Twenty Four Hour Outdoor Payment"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "22372",
+    "Name": "U-Go Carlingford Court",
+    "AddressLine1": "797-Pennant Hills Rd",
+    "AddressLine2": null,
+    "Suburb": "Carlingford",
+    "State": "NSW",
+    "Postcode": "2118",
+    "Latitude": "-33.775767",
+    "Longitude": "151.051678",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Unleaded Petrol"
         ]
       }
     ],
@@ -67138,6 +68780,165 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "22440",
+    "Name": "U-Go Woolworths Rozelle",
+    "AddressLine1": "121-Victoria Rd Cnr Wellington St",
+    "AddressLine2": null,
+    "Suburb": "Rozelle",
+    "State": "NSW",
+    "Postcode": "2039",
+    "Latitude": "-33.862558",
+    "Longitude": "151.168495",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Saturday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "101",
+        "Name": "BIG W Town Hall",
+        "AddressLine1": "Big W Service Desk, Level 1  Cnr Park & George Street Sydney",
+        "AddressLine2": null,
+        "Suburb": "Sydney",
+        "State": "NSW",
+        "Postcode": "2000",
+        "Latitude": "-33.873204",
+        "Longitude": "151.2073606",
+        "GeoLevel": "0",
+        "Distance": "3.81",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": true,
+        "PartnerUrl": "https://www.bigw.com.au/store/0101/BIG-W-Sydney?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Sat: 0700-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "9:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-2100"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Mon: 0700-2100"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Tue: 0700-2100"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Wed: 0700-2100"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0700-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0700-2100"
+          },
+          {
+            "Day": "Saturday",
+            "OpenHour": "7:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Sat: 0700-2100"
+          }
+        ],
+        "Facilities": [
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "22447",
     "Name": "Ampol Foodary Neutral Bay",
     "AddressLine1": "16-38-Military Rd",
@@ -67427,6 +69228,165 @@
     ]
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "22458",
+    "Name": "U-Go Canley Heights",
+    "AddressLine1": "280-286-Canley Vale Rd",
+    "AddressLine2": null,
+    "Suburb": "Canley Heights",
+    "State": "NSW",
+    "Postcode": "2166",
+    "Latitude": "-33.8838611",
+    "Longitude": "150.9241182",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "158",
+        "Name": "BIG W Wetherill Park",
+        "AddressLine1": "561-583 Polding Street",
+        "AddressLine2": null,
+        "Suburb": "Wetherill Park",
+        "State": "NSW",
+        "Postcode": "2164",
+        "Latitude": "-33.860928",
+        "Longitude": "150.901154",
+        "GeoLevel": "0",
+        "Distance": "3.32",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0158/BIG-W-Wetherill Park?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0900-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "2246",
     "Name": "Smith Collective",
@@ -67496,6 +69456,167 @@
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "22464",
+    "Name": "U-Go Baulkham Hills",
+    "AddressLine1": "117-Seven Hills Rd",
+    "AddressLine2": null,
+    "Suburb": "Baulkham Hills",
+    "State": "NSW",
+    "Postcode": "2153",
+    "Latitude": "-33.7615",
+    "Longitude": "150.9752",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "157",
+        "Name": "BIG W Winston Hills",
+        "AddressLine1": "180-190 Caroline Chisolm Drive",
+        "AddressLine2": null,
+        "Suburb": "Winston Hills",
+        "State": "NSW",
+        "Postcode": "2153",
+        "Latitude": "-33.7723084",
+        "Longitude": "150.9687836",
+        "GeoLevel": "0",
+        "Distance": "1.38",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0157/BIG-W-Winston Hills?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -70295,6 +72416,167 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "22550",
+    "Name": "U-Go Moorebank Bridges Rd",
+    "AddressLine1": "2-Bridges Rd Cnr Newbridge Rd",
+    "AddressLine2": null,
+    "Suburb": "Moorebank",
+    "State": "NSW",
+    "Postcode": "2170",
+    "Latitude": "-33.928407",
+    "Longitude": "150.9327177",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-E10",
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "E10",
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "124",
+        "Name": "BIG W Liverpool",
+        "AddressLine1": "25 George Street",
+        "AddressLine2": null,
+        "Suburb": "Liverpool",
+        "State": "NSW",
+        "Postcode": "2170",
+        "Latitude": "-33.9199",
+        "Longitude": "150.9217",
+        "GeoLevel": "7",
+        "Distance": "1.38",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0124/BIG-W-Liverpool?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "22582",
     "Name": "Ampol Foodary Gosford West (Eastbound)",
     "AddressLine1": "69-71-Central Coast Hwy",
@@ -72061,6 +74343,163 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "22720",
+    "Name": "U-Go Woolworths Taren Point",
+    "AddressLine1": "114-Taren Point Rd",
+    "AddressLine2": null,
+    "Suburb": "Taren Point",
+    "State": "NSW",
+    "Postcode": "2229",
+    "Latitude": "-34.020771",
+    "Longitude": "151.121679",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Saturday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "171",
+        "Name": "BIG W Miranda",
+        "AddressLine1": "600 Kingsway",
+        "AddressLine2": null,
+        "Suburb": "Miranda",
+        "State": "NSW",
+        "Postcode": "2228",
+        "Latitude": "-34.03501205",
+        "Longitude": "151.1001526",
+        "GeoLevel": "7",
+        "Distance": "2.55",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0171/BIG-W-Miranda?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Saturday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -105608,6 +108047,93 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "28690",
+    "Name": "U-Go Yamba Treelands Dve",
+    "AddressLine1": "22-Treelands Dve",
+    "AddressLine2": null,
+    "Suburb": "Yamba",
+    "State": "NSW",
+    "Postcode": "2464",
+    "Latitude": "-29.4268882",
+    "Longitude": "153.327992",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "28704",
     "Name": "Ampol Foodary Mt Victoria",
     "AddressLine1": "36a-Great Western Hwy Cnr Mt York Rd",
@@ -109310,6 +111836,95 @@
     "NearbyPartners": []
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "28979",
+    "Name": "U-Go Lake Munmorah",
+    "AddressLine1": "1135-Pacific Hwy",
+    "AddressLine2": null,
+    "Suburb": "Lake Munmorah",
+    "State": "NSW",
+    "Postcode": "2259",
+    "Latitude": "-33.1864909",
+    "Longitude": "151.5522249",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "2898",
     "Name": "Wynnum Central",
@@ -112387,6 +115002,165 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "30278",
+    "Name": "U-Go Woolworths Sunbury",
+    "AddressLine1": "81-87-Horne Street",
+    "AddressLine2": null,
+    "Suburb": "Sunbury",
+    "State": "VIC",
+    "Postcode": "3429",
+    "Latitude": "-37.5833276",
+    "Longitude": "144.7236119",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Saturday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "383",
+        "Name": "BIG W Sunbury",
+        "AddressLine1": "Horne Street",
+        "AddressLine2": null,
+        "Suburb": "Sunbury",
+        "State": "VIC",
+        "Postcode": "3429",
+        "Latitude": "-37.5799046",
+        "Longitude": "144.7267677",
+        "GeoLevel": "0",
+        "Distance": "0.42",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0383/BIG-W-Sunbury?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0800-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Saturday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "SUPERMARKETS",
@@ -129742,6 +132516,95 @@
     ]
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "33171",
+    "Name": "U-Go Keysborough",
+    "AddressLine1": "248-Cheltenham Rd",
+    "AddressLine2": null,
+    "Suburb": "Keysborough",
+    "State": "VIC",
+    "Postcode": "3173",
+    "Latitude": "-37.995246",
+    "Longitude": "145.182472",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "3318",
     "Name": "Mornington Central SM",
@@ -130888,6 +133751,164 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "33256",
+    "Name": "U-Go Sandown",
+    "AddressLine1": "754-768-Princes Hwy",
+    "AddressLine2": null,
+    "Suburb": "Springvale",
+    "State": "VIC",
+    "Postcode": "3171",
+    "Latitude": "-37.941682",
+    "Longitude": "145.166686",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "399",
+        "Name": "BIG W Waverley Gardens",
+        "AddressLine1": "Police Road and Jackson's Road",
+        "AddressLine2": null,
+        "Suburb": "Mulgrave",
+        "State": "VIC",
+        "Postcode": "3170",
+        "Latitude": "-37.93484992",
+        "Longitude": "145.1895423",
+        "GeoLevel": "0",
+        "Distance": "2.13",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0399/BIG-W-Mulgrave?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "33260",
     "Name": "Ampol Foodary South Yarra",
     "AddressLine1": "262-268-Punt Rd Cnr Commercial Rd",
@@ -131251,6 +134272,164 @@
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "33276",
+    "Name": "U-Go Echuca",
+    "AddressLine1": "200-Ogilvie Ave",
+    "AddressLine2": null,
+    "Suburb": "Echuca",
+    "State": "VIC",
+    "Postcode": "3564",
+    "Latitude": "-36.1402461",
+    "Longitude": "144.7530392",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "392",
+        "Name": "BIG W Echuca",
+        "AddressLine1": "Maude Street and Annesley Street",
+        "AddressLine2": null,
+        "Suburb": "Echuca",
+        "State": "VIC",
+        "Postcode": "3564",
+        "Latitude": "-36.13142734",
+        "Longitude": "144.7522672",
+        "GeoLevel": "0",
+        "Distance": "0.96",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0392/BIG-W-Echuca?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -132885,6 +136064,95 @@
     "NearbyPartners": []
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "33380",
+    "Name": "U-Go Glen Waverley",
+    "AddressLine1": "252-Springvale Road",
+    "AddressLine2": null,
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "Postcode": "3150",
+    "Latitude": "-37.8799844",
+    "Longitude": "145.1660694",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "3339",
     "Name": "Woodgrove SM",
@@ -133729,6 +136997,166 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "33456",
+    "Name": "U-Go Lilydale",
+    "AddressLine1": "346-Main Street",
+    "AddressLine2": null,
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "Postcode": "3140",
+    "Latitude": "-37.7578339",
+    "Longitude": "145.3552691",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "365",
+        "Name": "BIG W Lilydale",
+        "AddressLine1": "33 Hutchinson Street",
+        "AddressLine2": null,
+        "Suburb": "Lilydale",
+        "State": "VIC",
+        "Postcode": "3140",
+        "Latitude": "-37.75959188",
+        "Longitude": "145.3476574",
+        "GeoLevel": "7",
+        "Distance": "0.67",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0365/BIG-W-Lilydale?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 8:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2000"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 8:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2000"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "33472",
     "Name": "Ampol Foodary Yarraville",
     "AddressLine1": "130-132-Hyde St Cnr Somerville Rd",
@@ -134130,6 +137558,166 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "33477",
+    "Name": "U-Go Werribee Cherry St",
+    "AddressLine1": "45-Cherry St",
+    "AddressLine2": null,
+    "Suburb": "Werribee",
+    "State": "VIC",
+    "Postcode": "3030",
+    "Latitude": "-37.900018",
+    "Longitude": "144.665019",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "386",
+        "Name": "BIG W Werribee",
+        "AddressLine1": "250 Heath Road",
+        "AddressLine2": null,
+        "Suburb": "Werribee",
+        "State": "VIC",
+        "Postcode": "3030",
+        "Latitude": "-37.8777",
+        "Longitude": "144.6835",
+        "GeoLevel": "7",
+        "Distance": "2.96",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0386/BIG-W-Werribee?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0800-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "SUPERMARKETS",
@@ -135217,6 +138805,93 @@
     ]
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "33549",
+    "Name": "U-Go Ararat Lambert St",
+    "AddressLine1": "44-Lambert St",
+    "AddressLine2": null,
+    "Suburb": "Ararat",
+    "State": "VIC",
+    "Postcode": "3377",
+    "Latitude": "-37.2781806",
+    "Longitude": "142.9253981",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "3355",
     "Name": "Epping North",
@@ -135975,6 +139650,95 @@
         "NearbyPartners": null
       }
     ]
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "33613",
+    "Name": "U-Go Coburg",
+    "AddressLine1": "114-116-Sydney Road",
+    "AddressLine2": null,
+    "Suburb": "Coburg",
+    "State": "VIC",
+    "Postcode": "3058",
+    "Latitude": "-37.7521713",
+    "Longitude": "144.9649892",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
   },
   {
     "Division": "AMPOL",
@@ -137269,6 +141033,165 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "33722",
+    "Name": "U-Go St Albans",
+    "AddressLine1": "151-167-Kings Road",
+    "AddressLine2": null,
+    "Suburb": "St Albans",
+    "State": "VIC",
+    "Postcode": "3021",
+    "Latitude": "-37.7280812",
+    "Longitude": "144.7816972",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "369",
+        "Name": "BIG W Watergardens",
+        "AddressLine1": "399 Melton Highway",
+        "AddressLine2": null,
+        "Suburb": "Taylors Lakes",
+        "State": "VIC",
+        "Postcode": "3038",
+        "Latitude": "-37.6956805",
+        "Longitude": "144.7720642",
+        "GeoLevel": "7",
+        "Distance": "3.7",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0369/BIG-W-Taylors Lakes?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0800-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "33732",
     "Name": "Ampol Foodary Rowville",
     "AddressLine1": "940-Stud Road Cnr Kingsley Close",
@@ -137625,6 +141548,93 @@
       "Pick up"
     ],
     "CategorisedFacilities": [],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "33810",
+    "Name": "U-Go Mill Park",
+    "AddressLine1": "377-Plenty Rd Btwn Childs & Centenary",
+    "AddressLine2": null,
+    "Suburb": "Mill Park",
+    "State": "VIC",
+    "Postcode": "3082",
+    "Latitude": "-37.659783",
+    "Longitude": "145.073334",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
     "NearbyPartners": []
   },
   {
@@ -143284,6 +147294,252 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "37055",
+    "Name": "U-Go Chadstone",
+    "AddressLine1": "2-Waverley Rd",
+    "AddressLine2": null,
+    "Suburb": "Chadstone",
+    "State": "VIC",
+    "Postcode": "3148",
+    "Latitude": "-37.880703",
+    "Longitude": "145.090997",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Fri: 0000-2329"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Sat: 0000-2329"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Sun: 0000-2329"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Mon: 0000-2329"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Tue: 0000-2329"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Wed: 0000-2329"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Thu: 0000-2329"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "12:00 AM - 11:29 PM",
+        "TradingHourForDisplay": "Fri: 0000-2329"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "37069",
+    "Name": "U-Go Mentone",
+    "AddressLine1": "53-77-Balcombe Rd Cnr Station St",
+    "AddressLine2": null,
+    "Suburb": "Mentone",
+    "State": "VIC",
+    "Postcode": "3194",
+    "Latitude": "-37.981726",
+    "Longitude": "145.066158",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "375",
+        "Name": "BIG W Southland",
+        "AddressLine1": "1239 Nepean Highway",
+        "AddressLine2": null,
+        "Suburb": "Cheltenham",
+        "State": "VIC",
+        "Postcode": "3192",
+        "Latitude": "-37.95809361",
+        "Longitude": "145.0551848",
+        "GeoLevel": "7",
+        "Distance": "2.82",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0375/BIG-W-Cheltenham?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1900"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "37091",
     "Name": "Ampol Foodary Cheltenham",
     "AddressLine1": "299-Charman Rd",
@@ -143573,6 +147829,162 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "37096",
+    "Name": "U-Go Carrum Downs",
+    "AddressLine1": "467-Frankston-Dandenong Rds",
+    "AddressLine2": null,
+    "Suburb": "Carrum Downs",
+    "State": "VIC",
+    "Postcode": "3201",
+    "Latitude": "-38.1108601",
+    "Longitude": "145.1600755",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "370",
+        "Name": "BIG W Karingal",
+        "AddressLine1": "Karingal Road and Cranbourne Road",
+        "AddressLine2": null,
+        "Suburb": "Karingal",
+        "State": "VIC",
+        "Postcode": "3199",
+        "Latitude": "-38.140575",
+        "Longitude": "145.155655",
+        "GeoLevel": "0",
+        "Distance": "3.31",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0370/BIG-W-Karingal?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -144048,6 +148460,93 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "37153",
+    "Name": "U-Go Dandenong",
+    "AddressLine1": "154-156-Princes Hwy",
+    "AddressLine2": null,
+    "Suburb": "Dandenong",
+    "State": "VIC",
+    "Postcode": "3175",
+    "Latitude": "-37.9747467",
+    "Longitude": "145.2036412",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "37155",
     "Name": "Ampol Foodary Avondale Heights",
     "AddressLine1": "160-Military Rd",
@@ -144295,6 +148794,166 @@
     ],
     "CategorisedFacilities": [],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "37160",
+    "Name": "U-Go Sebastopol",
+    "AddressLine1": "76-82-Albert Street",
+    "AddressLine2": null,
+    "Suburb": "Sebastopol",
+    "State": "VIC",
+    "Postcode": "3356",
+    "Latitude": "-37.5885763",
+    "Longitude": "143.8406376",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "385",
+        "Name": "BIG W Ballarat",
+        "AddressLine1": "Grenville Street and Curtis Street",
+        "AddressLine2": null,
+        "Suburb": "Ballarat",
+        "State": "VIC",
+        "Postcode": "3350",
+        "Latitude": "-37.56116024",
+        "Longitude": "143.8617963",
+        "GeoLevel": "0",
+        "Distance": "3.6",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0385/BIG-W-Ballarat?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -144704,6 +149363,165 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "37199",
+    "Name": "U-Go Ringwood East",
+    "AddressLine1": "18-Mt Dandenong Rd",
+    "AddressLine2": null,
+    "Suburb": "Ringwood East",
+    "State": "VIC",
+    "Postcode": "3135",
+    "Latitude": "-37.8120206",
+    "Longitude": "145.2411394",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "384",
+        "Name": "BIG W Eastland",
+        "AddressLine1": "171-175 Maroondah Highway",
+        "AddressLine2": null,
+        "Suburb": "Ringwood",
+        "State": "VIC",
+        "Postcode": "3134",
+        "Latitude": "-37.81273202",
+        "Longitude": "145.2305437",
+        "GeoLevel": "7",
+        "Distance": "0.92",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0384/BIG-W-Ringwood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1800"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Fri: 1000-1800"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -145625,6 +150443,95 @@
         "Facilities": [
           "ATM",
           "BBQ Gas Available"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "37257",
+    "Name": "U-Go Woolworths Westmeadows",
+    "AddressLine1": "227-231-Mickleham Rd",
+    "AddressLine2": null,
+    "Suburb": "Westmeadows",
+    "State": "VIC",
+    "Postcode": "3049",
+    "Latitude": "-37.684676",
+    "Longitude": "144.882928",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Saturday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
         ]
       }
     ],
@@ -159750,6 +164657,166 @@
     "NearbyPartners": []
   },
   {
+    "Division": "AMPOL",
+    "StoreNo": "44124",
+    "Name": "U-Go West Hindmarsh",
+    "AddressLine1": "484-Port Road",
+    "AddressLine2": null,
+    "Suburb": "West Hindmarsh",
+    "State": "SA",
+    "Postcode": "5007",
+    "Latitude": "-34.898205",
+    "Longitude": "138.560506",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "9:30",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "521",
+        "Name": "BIG W Brickworks",
+        "AddressLine1": "Corner of Ashwin Parade and South Road",
+        "AddressLine2": null,
+        "Suburb": "Torrensville",
+        "State": "SA",
+        "Postcode": "5031",
+        "Latitude": "-34.91404576",
+        "Longitude": "138.5644442",
+        "GeoLevel": "0",
+        "Distance": "1.81",
+        "Phone": "1300 411 875",
+        "GMTZone": "9:30",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0521/BIG-W-Torrensville?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 8:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2000"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
     "Division": "SUPERMARKETS",
     "StoreNo": "4416",
     "Name": "Busselton Kent St",
@@ -160000,6 +165067,91 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "44164",
+    "Name": "U-Go Clearview",
+    "AddressLine1": "443-Main North Road",
+    "AddressLine2": null,
+    "Suburb": "Clearview",
+    "State": "SA",
+    "Postcode": "5085",
+    "Latitude": "-34.853624",
+    "Longitude": "138.600862",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "9:30",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "44166",
     "Name": "Ampol Foodary Northfield",
     "AddressLine1": "245-Hampstead Rd",
@@ -160108,6 +165260,166 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "44174",
+    "Name": "U-Go St Marys",
+    "AddressLine1": "1129-1131-Cnr South Rd & Southern Ave",
+    "AddressLine2": null,
+    "Suburb": "St Marys",
+    "State": "SA",
+    "Postcode": "5042",
+    "Latitude": "-34.994444",
+    "Longitude": "138.575132",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "9:30",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "551",
+        "Name": "BIG W Cumberland Park",
+        "AddressLine1": "366 Goodwood Road",
+        "AddressLine2": null,
+        "Suburb": "Cumberland Park",
+        "State": "SA",
+        "Postcode": "5041",
+        "Latitude": "-34.96735095",
+        "Longitude": "138.5899568",
+        "GeoLevel": "7",
+        "Distance": "3.26",
+        "Phone": "1300 411 875",
+        "GMTZone": "9:30",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0551/BIG-W-Cumberland Park?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-2100"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-2100"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-2100"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
@@ -160455,6 +165767,163 @@
             "Day": "Sunday",
             "OpenHour": "9:00 AM - 5:00 PM",
             "TradingHourForDisplay": "Sun: 0900-1700"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "44204",
+    "Name": "U-Go Elizabeth Vale",
+    "AddressLine1": "149-Main North Road",
+    "AddressLine2": null,
+    "Suburb": "Elizabeth Vale",
+    "State": "SA",
+    "Postcode": "5112",
+    "Latitude": "-34.7420006",
+    "Longitude": "138.6757091",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "9:30",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "550",
+        "Name": "BIG W Elizabeth",
+        "AddressLine1": "Princess Ann Walk",
+        "AddressLine2": null,
+        "Suburb": "Elizabeth",
+        "State": "SA",
+        "Postcode": "5112",
+        "Latitude": "-34.72246827",
+        "Longitude": "138.6685477",
+        "GeoLevel": "6",
+        "Distance": "2.28",
+        "Phone": "1300 411 875",
+        "GMTZone": "9:30",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0550/BIG-W-Elizabeth?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2100"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
           }
         ],
         "Facilities": [
@@ -161676,6 +167145,163 @@
         "Facilities": [
           "Bike Build",
           "Direct to Boot",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "44367",
+    "Name": "U-Go Salisbury Downs",
+    "AddressLine1": "201-Salisbury Highway",
+    "AddressLine2": null,
+    "Suburb": "Salisbury Downs",
+    "State": "SA",
+    "Postcode": "5108",
+    "Latitude": "-34.7716085",
+    "Longitude": "138.6327376",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "9:30",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "552",
+        "Name": "BIG W Parabanks",
+        "AddressLine1": "John Street and Gawler Street",
+        "AddressLine2": null,
+        "Suburb": "Salisbury",
+        "State": "SA",
+        "Postcode": "5108",
+        "Latitude": "-34.75995631",
+        "Longitude": "138.6455226",
+        "GeoLevel": "0",
+        "Distance": "1.76",
+        "Phone": "1300 411 875",
+        "GMTZone": "9:30",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0552/BIG-W-Salisbury?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1700"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "9:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0900-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1900"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1900"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1900"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 8:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-2000"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-1900"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
           "In-Store Layby",
           "Party",
           "Pick Up",
@@ -174550,6 +180176,95 @@
   },
   {
     "Division": "AMPOL",
+    "StoreNo": "55498",
+    "Name": "U-Go Mundaring",
+    "AddressLine1": "5895-Great Eastern Hwy Cnr Coppin Rd",
+    "AddressLine2": null,
+    "Suburb": "Mundaring",
+    "State": "WA",
+    "Postcode": "6073",
+    "Latitude": "-31.9007",
+    "Longitude": "116.152528",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "8:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium95A",
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Everyday Rewards",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Everyday Rewards",
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 95 A",
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
     "StoreNo": "55499",
     "Name": "Ampol Foodary Applecross",
     "AddressLine1": "918-Canning Hwy",
@@ -185931,6 +191646,161 @@
       }
     ],
     "NearbyPartners": []
+  },
+  {
+    "Division": "AMPOL",
+    "StoreNo": "66357",
+    "Name": "U-Go Lindisfarne",
+    "AddressLine1": "109-East Derwent Hwy",
+    "AddressLine2": null,
+    "Suburb": "Lindisfarne",
+    "State": "TAS",
+    "Postcode": "7015",
+    "Latitude": "-42.851872",
+    "Longitude": "147.36033",
+    "GeoLevel": "0",
+    "Distance": null,
+    "Phone": null,
+    "GMTZone": "10:0",
+    "IsOpen": true,
+    "PartnerUrl": null,
+    "TradingHours": [
+      {
+        "Day": "Today",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      },
+      {
+        "Day": "Tomorrow",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sat: 24 Hours"
+      },
+      {
+        "Day": "Sunday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Sun: 24 Hours"
+      },
+      {
+        "Day": "Monday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Mon: 24 Hours"
+      },
+      {
+        "Day": "Tuesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Tue: 24 Hours"
+      },
+      {
+        "Day": "Wednesday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Wed: 24 Hours"
+      },
+      {
+        "Day": "Thursday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Thu: 24 Hours"
+      },
+      {
+        "Day": "Friday",
+        "OpenHour": "24 Hours",
+        "TradingHourForDisplay": "Fri: 24 Hours"
+      }
+    ],
+    "Facilities": [
+      "Fuel-Premium98A",
+      "Fuel-PremiumDieselA",
+      "Fuel-UnleadedPetrol",
+      "Rewards-Redeem Fuel Discount"
+    ],
+    "CategorisedFacilities": [
+      {
+        "Category": "Rewards",
+        "CategoryLabel": "Rewards",
+        "Facilities": [
+          "Redeem Fuel Discount"
+        ]
+      },
+      {
+        "Category": "Fuel",
+        "CategoryLabel": "Fuel",
+        "Facilities": [
+          "Premium 98 A",
+          "Premium Diesel A",
+          "Unleaded Petrol"
+        ]
+      }
+    ],
+    "NearbyPartners": [
+      {
+        "Division": "BIGW",
+        "StoreNo": "389",
+        "Name": "BIG W Rosny Park",
+        "AddressLine1": "6-26 Bligh Street",
+        "AddressLine2": null,
+        "Suburb": "Rosny Park",
+        "State": "TAS",
+        "Postcode": "7018",
+        "Latitude": "-42.86646535",
+        "Longitude": "147.3682334",
+        "GeoLevel": "7",
+        "Distance": "1.74",
+        "Phone": "1300 411 875",
+        "GMTZone": "10:0",
+        "IsOpen": false,
+        "PartnerUrl": "https://www.bigw.com.au/store/0389/BIG-W-Rosny Park?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+        "TradingHours": [
+          {
+            "Day": "Today",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          },
+          {
+            "Day": "Tomorrow",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Sat: 0800-1800"
+          },
+          {
+            "Day": "Sunday",
+            "OpenHour": "8:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Sun: 0800-1700"
+          },
+          {
+            "Day": "Monday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Mon: 0800-1800"
+          },
+          {
+            "Day": "Tuesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Tue: 0800-1800"
+          },
+          {
+            "Day": "Wednesday",
+            "OpenHour": "8:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 0800-1800"
+          },
+          {
+            "Day": "Thursday",
+            "OpenHour": "8:00 AM - 7:00 PM",
+            "TradingHourForDisplay": "Thu: 0800-1900"
+          },
+          {
+            "Day": "Friday",
+            "OpenHour": "8:00 AM - 9:00 PM",
+            "TradingHourForDisplay": "Fri: 0800-2100"
+          }
+        ],
+        "Facilities": [
+          "Bike Build",
+          "In-Store Layby",
+          "Party",
+          "Pick Up",
+          "Soda Stream Refill"
+        ],
+        "CategorisedFacilities": [],
+        "NearbyPartners": null
+      }
+    ]
   },
   {
     "Division": "AMPOL",
