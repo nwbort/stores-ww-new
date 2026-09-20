@@ -65,21 +65,21 @@
   "NearbyPartners": [
     {
       "Division": "BIGW",
-      "StoreNo": "180",
-      "Name": "BIG W Bonnyrigg",
-      "AddressLine1": "100 Bonnyrigg Avenue",
+      "StoreNo": "124",
+      "Name": "BIG W Liverpool",
+      "AddressLine1": "25 George Street",
       "AddressLine2": null,
-      "Suburb": "Bonnyrigg",
+      "Suburb": "Liverpool",
       "State": "NSW",
-      "Postcode": "2177",
-      "Latitude": "-33.88805542",
-      "Longitude": "150.8872717",
+      "Postcode": "2170",
+      "Latitude": "-33.9199",
+      "Longitude": "150.9217",
       "GeoLevel": "7",
       "Distance": "3.57",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": true,
-      "PartnerUrl": "https://www.bigw.com.au/store/0180/BIG-W-Bonnyrigg?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "PartnerUrl": "https://www.bigw.com.au/store/0124/BIG-W-Liverpool?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
@@ -124,7 +124,6 @@
       ],
       "Facilities": [
         "Bike Build",
-        "Direct to Boot",
         "In-Store Layby",
         "Party",
         "Pick Up",

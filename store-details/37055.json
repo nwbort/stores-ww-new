@@ -19,20 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "12:00 AM - 11:29 PM",
-      "TradingHourForDisplay": "Fri: 0000-2329"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "12:00 AM - 11:29 PM",
-      "TradingHourForDisplay": "Sat: 0000-2329"
-    },
-    {
-      "Day": "Sunday",
-      "OpenHour": "12:00 AM - 11:29 PM",
       "TradingHourForDisplay": "Sun: 0000-2329"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "12:00 AM - 11:29 PM",
       "TradingHourForDisplay": "Mon: 0000-2329"
     },
@@ -55,6 +45,16 @@
       "Day": "Friday",
       "OpenHour": "12:00 AM - 11:29 PM",
       "TradingHourForDisplay": "Fri: 0000-2329"
+    },
+    {
+      "Day": "Saturday",
+      "OpenHour": "12:00 AM - 11:29 PM",
+      "TradingHourForDisplay": "Sat: 0000-2329"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "12:00 AM - 11:29 PM",
+      "TradingHourForDisplay": "Sun: 0000-2329"
     }
   ],
   "Facilities": [

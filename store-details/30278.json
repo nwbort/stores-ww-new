@@ -1,7 +1,7 @@
 {
   "Division": "AMPOL",
   "StoreNo": "30278",
-  "Name": "U-Go Woolworths Sunbury",
+  "Name": "U-Go Sunbury",
   "AddressLine1": "81-87-Horne Street",
   "AddressLine2": null,
   "Suburb": "Sunbury",
@@ -19,15 +19,10 @@
     {
       "Day": "Today",
       "OpenHour": "24 Hours",
-      "TradingHourForDisplay": "Sat: 24 Hours"
-    },
-    {
-      "Day": "Tomorrow",
-      "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Sun: 24 Hours"
     },
     {
-      "Day": "Monday",
+      "Day": "Tomorrow",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Mon: 24 Hours"
     },
@@ -55,6 +50,11 @@
       "Day": "Saturday",
       "OpenHour": "24 Hours",
       "TradingHourForDisplay": "Sat: 24 Hours"
+    },
+    {
+      "Day": "Sunday",
+      "OpenHour": "24 Hours",
+      "TradingHourForDisplay": "Sun: 24 Hours"
     }
   ],
   "Facilities": [
@@ -101,21 +101,16 @@
       "Distance": "0.42",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
-      "IsOpen": false,
+      "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0383/BIG-W-Sunbury?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1900"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 6:00 PM",
           "TradingHourForDisplay": "Sun: 0800-1800"
         },
         {
-          "Day": "Monday",
+          "Day": "Tomorrow",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Mon: 0800-1900"
         },
@@ -136,13 +131,18 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2100"
+          "OpenHour": "10:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Fri: 1000-1800"
         },
         {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 7:00 PM",
           "TradingHourForDisplay": "Sat: 0800-1900"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-1800"
         }
       ],
       "Facilities": [
