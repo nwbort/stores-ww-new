@@ -7444,6 +7444,12 @@
     "type": "ampol"
   },
   {
+    "id": 28075,
+    "name": "Bonnyrigg",
+    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-bonnyrigg-28075-ampol",
+    "type": "ampol"
+  },
+  {
     "id": 28077,
     "name": "Coolongolook",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-coolongolook-28077-ampol",
@@ -11299,12 +11305,6 @@
     "id": 93502,
     "name": "Ringwood (Eastlands)",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-ringwood-(eastlands)-93502-eg",
-    "type": "eg"
-  },
-  {
-    "id": 93503,
-    "name": "Abbotsford (Fitzroy)",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-abbotsford-(fitzroy)-93503-eg",
     "type": "eg"
   },
   {
