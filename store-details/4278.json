@@ -18,46 +18,50 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Mon: CLOSED"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2100"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Tue: CLOSED"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Tue: 0800-2100"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Wed: CLOSED"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0800-2100"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Thu: CLOSED"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2100"
     },
     {
       "Day": "Friday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Fri: CLOSED"
+      "OpenHour": "8:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0800-2100"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sat: CLOSED"
+      "OpenHour": "8:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sat: 0800-1700"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "11:00 AM - 5:00 PM",
+      "TradingHourForDisplay": "Sun: 1100-1700"
     }
   ],
-  "Facilities": [],
+  "Facilities": [
+    "Direct to boot",
+    "Direct to boot - drive through",
+    "Pick up"
+  ],
   "CategorisedFacilities": [],
   "NearbyPartners": []
 }

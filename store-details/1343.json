@@ -28,33 +28,33 @@
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Tue: 0700-2100"
+      "OpenHour": "7:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-1800"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2100"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Wed: Closed"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Thu: Closed"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Fri: Closed"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0800-2100"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sat: Closed"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "8:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sun: 0800-2100"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     }
   ],
   "Facilities": [

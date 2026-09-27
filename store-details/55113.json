@@ -58,7 +58,9 @@
     }
   ],
   "Facilities": [
+    "Fuel-Premium95A",
     "Fuel-PremiumDieselA",
+    "Fuel-UnleadedPetrol",
     "General-ATM",
     "General-BBQGasAvailable",
     "General-DisabledToilet",
@@ -81,7 +83,9 @@
       "Category": "Fuel",
       "CategoryLabel": "Fuel",
       "Facilities": [
-        "Premium Diesel A"
+        "Premium 95 A",
+        "Premium Diesel A",
+        "Unleaded Petrol"
       ]
     },
     {
