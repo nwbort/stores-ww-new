@@ -3645,11 +3645,6 @@
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-colac-3214"
   },
   {
-    "id": 3215,
-    "name": "Charlemont",
-    "url": "https://www.woolworths.com.au/shop/storelocator/vic-charlemont-3215"
-  },
-  {
     "id": 3216,
     "name": "Croydon",
     "url": "https://www.woolworths.com.au/shop/storelocator/vic-croydon-3216"
@@ -9499,12 +9494,6 @@
     "id": 91504,
     "name": "Young",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-young-91504-eg",
-    "type": "eg"
-  },
-  {
-    "id": 91505,
-    "name": "Eaglevale",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-eaglevale-91505-eg",
     "type": "eg"
   },
   {
