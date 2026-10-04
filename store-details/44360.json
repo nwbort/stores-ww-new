@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
-  "GMTZone": "9:30",
+  "GMTZone": "10:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -122,7 +122,7 @@
       "GeoLevel": "0",
       "Distance": "3.17",
       "Phone": "1300 411 875",
-      "GMTZone": "9:30",
+      "GMTZone": "10:30",
       "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0521/BIG-W-Torrensville?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-1900"
+          "OpenHour": "Closed",
+          "TradingHourForDisplay": "Mon: Closed"
         },
         {
           "Day": "Tuesday",

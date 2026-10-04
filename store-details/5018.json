@@ -12,7 +12,7 @@
   "GeoLevel": "7",
   "Distance": null,
   "Phone": "08 8726 4907",
-  "GMTZone": "9:30",
+  "GMTZone": "10:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2100"
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2000"
     },
     {
       "Day": "Tuesday",
@@ -80,7 +80,7 @@
       "GeoLevel": "7",
       "Distance": "0.51",
       "Phone": "1300 411 875",
-      "GMTZone": "9:30",
+      "GMTZone": "10:30",
       "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0567/BIG-W-Mount Gambier?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
@@ -91,8 +91,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-1900"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1700"
         },
         {
           "Day": "Tuesday",

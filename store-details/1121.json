@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "02 6881 7604",
-  "GMTZone": "10:0",
+  "GMTZone": "11:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -28,33 +28,33 @@
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Tue: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "7:00 AM - 9:00 PM",
-      "TradingHourForDisplay": "Sun: 0700-2100"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [
@@ -80,8 +80,8 @@
       "GeoLevel": "0",
       "Distance": "0.17",
       "Phone": "1300 411 875",
-      "GMTZone": "10:0",
-      "IsOpen": true,
+      "GMTZone": "11:0",
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0153/BIG-W-Dubbo?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
@@ -91,8 +91,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-1900"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-1700"
         },
         {
           "Day": "Tuesday",

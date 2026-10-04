@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "03 8841 7627",
-  "GMTZone": "10:0",
+  "GMTZone": "11:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -80,8 +80,8 @@
       "GeoLevel": "7",
       "Distance": "3.82",
       "Phone": "1300 411 875",
-      "GMTZone": "10:0",
-      "IsOpen": true,
+      "GMTZone": "11:0",
+      "IsOpen": false,
       "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {

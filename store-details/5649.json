@@ -12,8 +12,8 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "08 8678 5000",
-  "GMTZone": "9:30",
-  "IsOpen": true,
+  "GMTZone": "10:30",
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2000"
+      "OpenHour": "8:00 AM - 7:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-1900"
     },
     {
       "Day": "Tuesday",

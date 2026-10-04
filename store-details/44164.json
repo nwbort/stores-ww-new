@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
-  "GMTZone": "9:30",
+  "GMTZone": "10:30",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -61,14 +61,16 @@
     "Fuel-Premium98A",
     "Fuel-PremiumDieselA",
     "Fuel-UnleadedPetrol",
-    "Rewards-Everyday Rewards"
+    "Rewards-Everyday Rewards",
+    "Rewards-Redeem Fuel Discount"
   ],
   "CategorisedFacilities": [
     {
       "Category": "Rewards",
       "CategoryLabel": "Rewards",
       "Facilities": [
-        "Everyday Rewards"
+        "Everyday Rewards",
+        "Redeem Fuel Discount"
       ]
     },
     {

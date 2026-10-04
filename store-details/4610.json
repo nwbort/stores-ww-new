@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 9941 5400",
   "GMTZone": "8:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "10:00 AM - 5:00 PM",
-      "TradingHourForDisplay": "Mon: 1000-1700"
+      "OpenHour": "7:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2000"
     },
     {
       "Day": "Tuesday",

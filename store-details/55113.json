@@ -59,6 +59,7 @@
   ],
   "Facilities": [
     "Fuel-Premium95A",
+    "Fuel-Premium98A",
     "Fuel-PremiumDieselA",
     "Fuel-UnleadedPetrol",
     "General-ATM",
@@ -84,6 +85,7 @@
       "CategoryLabel": "Fuel",
       "Facilities": [
         "Premium 95 A",
+        "Premium 98 A",
         "Premium Diesel A",
         "Unleaded Petrol"
       ]

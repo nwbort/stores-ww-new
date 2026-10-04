@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "02 8565 9212",
-  "GMTZone": "10:0",
+  "GMTZone": "11:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -23,8 +23,8 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Mon: 0700-0000"
+      "OpenHour": "8:00 AM - 8:00 PM",
+      "TradingHourForDisplay": "Mon: 0800-2000"
     },
     {
       "Day": "Tuesday",
@@ -79,7 +79,7 @@
       "GeoLevel": "0",
       "Distance": "1.35",
       "Phone": "1300 411 875",
-      "GMTZone": "10:0",
+      "GMTZone": "11:0",
       "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0101/BIG-W-Sydney?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
@@ -90,8 +90,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2100"
+          "OpenHour": "9:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0900-2100"
         },
         {
           "Day": "Tuesday",

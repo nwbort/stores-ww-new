@@ -12,7 +12,7 @@
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "03 8347 6524",
-  "GMTZone": "10:0",
+  "GMTZone": "11:0",
   "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
@@ -23,38 +23,38 @@
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Mon: 0700-0000"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Tue: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Tue: 0700-0000"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Wed: 0700-0000"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0000"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Fri: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0000"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sat: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0000"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "7:00 AM - 11:00 PM",
-      "TradingHourForDisplay": "Sun: 0700-2300"
+      "OpenHour": "7:00 AM - 12:00 AM",
+      "TradingHourForDisplay": "Sun: 0700-0000"
     }
   ],
   "Facilities": [
@@ -80,7 +80,7 @@
       "GeoLevel": "0",
       "Distance": "0.08",
       "Phone": "1300 411 875",
-      "GMTZone": "10:0",
+      "GMTZone": "11:0",
       "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0391/BIG-W-Melbourne?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
