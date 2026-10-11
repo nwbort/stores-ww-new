@@ -7,8 +7,8 @@
   "Suburb": "North Lakes",
   "State": "QLD",
   "Postcode": "4509",
-  "Latitude": "-27.239211",
-  "Longitude": "153.009544",
+  "Latitude": "-27.239569",
+  "Longitude": "153.009238",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -122,7 +122,7 @@
       "Latitude": "-27.24161018",
       "Longitude": "153.0146065",
       "GeoLevel": "6",
-      "Distance": "0.54",
+      "Distance": "0.58",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

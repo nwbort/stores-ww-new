@@ -7,8 +7,8 @@
   "Suburb": "Kingsford",
   "State": "NSW",
   "Postcode": "2032",
-  "Latitude": "-33.934311",
-  "Longitude": "151.237128",
+  "Latitude": "-33.934384",
+  "Longitude": "151.237213",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

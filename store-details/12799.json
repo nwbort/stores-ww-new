@@ -7,8 +7,8 @@
   "Suburb": "Nambour",
   "State": "QLD",
   "Postcode": "4560",
-  "Latitude": "-26.6168441",
-  "Longitude": "152.973509",
+  "Latitude": "-26.616949",
+  "Longitude": "152.973217",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -120,7 +120,7 @@
       "Latitude": "-26.6271",
       "Longitude": "152.9608",
       "GeoLevel": "0",
-      "Distance": "1.73",
+      "Distance": "1.65",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

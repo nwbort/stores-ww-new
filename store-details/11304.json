@@ -7,8 +7,8 @@
   "Suburb": "Tewantin",
   "State": "QLD",
   "Postcode": "4565",
-  "Latitude": "-26.3926539",
-  "Longitude": "153.0390188",
+  "Latitude": "-26.392675",
+  "Longitude": "153.039028",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -111,8 +111,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

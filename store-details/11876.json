@@ -7,8 +7,8 @@
   "Suburb": "Elanora",
   "State": "QLD",
   "Postcode": "4221",
-  "Latitude": "-28.12273",
-  "Longitude": "153.461563",
+  "Latitude": "-28.122814",
+  "Longitude": "153.461404",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -122,7 +122,7 @@
       "Latitude": "-28.09761497",
       "Longitude": "153.4410933",
       "GeoLevel": "7",
-      "Distance": "3.49",
+      "Distance": "3.43",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

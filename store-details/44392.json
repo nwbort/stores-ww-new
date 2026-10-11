@@ -7,8 +7,8 @@
   "Suburb": "St Agnes",
   "State": "SA",
   "Postcode": "5097",
-  "Latitude": "-34.821416",
-  "Longitude": "138.715605",
+  "Latitude": "-34.821439",
+  "Longitude": "138.715672",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -94,8 +94,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-2100"
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
         },
         {
           "Day": "Tuesday",

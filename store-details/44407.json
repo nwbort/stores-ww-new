@@ -7,8 +7,8 @@
   "Suburb": "Port Augusta",
   "State": "SA",
   "Postcode": "5700",
-  "Latitude": "-32.5000276",
-  "Longitude": "137.7788248",
+  "Latitude": "-32.500123",
+  "Longitude": "137.778724",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -129,8 +129,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

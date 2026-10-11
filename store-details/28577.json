@@ -7,8 +7,8 @@
   "Suburb": "Eastern Creek",
   "State": "NSW",
   "Postcode": "2766",
-  "Latitude": "-33.802145",
-  "Longitude": "150.880213",
+  "Latitude": "-33.802459",
+  "Longitude": "150.882835",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -122,7 +122,7 @@
       "Latitude": "-33.77297034",
       "Longitude": "150.9054095",
       "GeoLevel": "6",
-      "Distance": "3.99",
+      "Distance": "3.84",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

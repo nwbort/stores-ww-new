@@ -7,8 +7,8 @@
   "Suburb": "Lavington",
   "State": "NSW",
   "Postcode": "2641",
-  "Latitude": "-36.045017",
-  "Longitude": "146.944506",
+  "Latitude": "-36.044884",
+  "Longitude": "146.944429",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -120,7 +120,7 @@
       "Latitude": "-36.043522",
       "Longitude": "146.94371",
       "GeoLevel": "0",
-      "Distance": "0.2",
+      "Distance": "0.17",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

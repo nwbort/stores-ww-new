@@ -7,8 +7,8 @@
   "Suburb": "Marsden Park",
   "State": "NSW",
   "Postcode": "2765",
-  "Latitude": "-33.716122",
-  "Longitude": "150.84571801",
+  "Latitude": "-33.716245",
+  "Longitude": "150.844669",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -128,7 +128,7 @@
       "Latitude": "-33.74597439",
       "Longitude": "150.83498",
       "GeoLevel": "0",
-      "Distance": "3.49",
+      "Distance": "3.46",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -141,8 +141,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

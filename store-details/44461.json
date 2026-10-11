@@ -7,8 +7,8 @@
   "Suburb": "Salisbury Park",
   "State": "SA",
   "Postcode": "5109",
-  "Latitude": "-34.7580477",
-  "Longitude": "138.6759638",
+  "Latitude": "-34.758361",
+  "Longitude": "138.676183",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -131,8 +131,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

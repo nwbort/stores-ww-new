@@ -7,8 +7,8 @@
   "Suburb": "Lambton",
   "State": "NSW",
   "Postcode": "2299",
-  "Latitude": "-32.9096179",
-  "Longitude": "151.7108069",
+  "Latitude": "-32.909638",
+  "Longitude": "151.710814",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

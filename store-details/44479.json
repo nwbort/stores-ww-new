@@ -7,8 +7,8 @@
   "Suburb": "North Adelaide",
   "State": "SA",
   "Postcode": "5006",
-  "Latitude": "-34.9049645",
-  "Longitude": "138.5950815",
+  "Latitude": "-34.904959",
+  "Longitude": "138.595183",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Goodna",
   "State": "QLD",
   "Postcode": "4300",
-  "Latitude": "-27.608577",
-  "Longitude": "152.898015",
+  "Latitude": "-27.608638",
+  "Longitude": "152.897761",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

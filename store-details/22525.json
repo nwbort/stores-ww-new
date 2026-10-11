@@ -7,8 +7,8 @@
   "Suburb": "Dubbo",
   "State": "NSW",
   "Postcode": "2830",
-  "Latitude": "-32.253305",
-  "Longitude": "148.603083",
+  "Latitude": "-32.253295",
+  "Longitude": "148.603156",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Edmondson Park",
   "State": "NSW",
   "Postcode": "2174",
-  "Latitude": "-33.9566724",
-  "Longitude": "150.86491",
+  "Latitude": "-33.955618",
+  "Longitude": "150.865306",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-33.93789858",
       "Longitude": "150.8455137",
       "GeoLevel": "6",
-      "Distance": "2.78",
+      "Distance": "2.7",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

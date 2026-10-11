@@ -7,8 +7,8 @@
   "Suburb": "Salisbury Downs",
   "State": "SA",
   "Postcode": "5108",
-  "Latitude": "-34.7716085",
-  "Longitude": "138.6327376",
+  "Latitude": "-34.771558",
+  "Longitude": "138.632707",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -111,8 +111,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

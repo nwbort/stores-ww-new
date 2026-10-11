@@ -7,8 +7,8 @@
   "Suburb": "Broadbeach",
   "State": "QLD",
   "Postcode": "4218",
-  "Latitude": "-28.02542",
-  "Longitude": "153.429389",
+  "Latitude": "-28.025296",
+  "Longitude": "153.429391",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

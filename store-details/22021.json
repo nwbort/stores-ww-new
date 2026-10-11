@@ -7,8 +7,8 @@
   "Suburb": "Mcdougalls Hill",
   "State": "NSW",
   "Postcode": "2330",
-  "Latitude": "-32.5453779",
-  "Longitude": "151.1491775",
+  "Latitude": "-32.545546",
+  "Longitude": "151.149166",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -126,7 +126,7 @@
       "Latitude": "-32.5674",
       "Longitude": "151.1651",
       "GeoLevel": "0",
-      "Distance": "2.91",
+      "Distance": "2.82",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

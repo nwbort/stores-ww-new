@@ -7,8 +7,8 @@
   "Suburb": "Tamworth",
   "State": "NSW",
   "Postcode": "2340",
-  "Latitude": "-31.0924654",
-  "Longitude": "150.9341931",
+  "Latitude": "-31.092433",
+  "Longitude": "150.934024",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

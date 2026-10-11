@@ -7,8 +7,8 @@
   "Suburb": "Shailer Park",
   "State": "QLD",
   "Postcode": "4128",
-  "Latitude": "-27.659349",
-  "Longitude": "153.168626",
+  "Latitude": "-27.659557",
+  "Longitude": "153.169084",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-27.65644173",
       "Longitude": "153.1715975",
       "GeoLevel": "0",
-      "Distance": "0.38",
+      "Distance": "0.47",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

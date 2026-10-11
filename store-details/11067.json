@@ -7,8 +7,8 @@
   "Suburb": "Mackay North",
   "State": "QLD",
   "Postcode": "4740",
-  "Latitude": "-21.12265",
-  "Longitude": "149.175217",
+  "Latitude": "-21.122455",
+  "Longitude": "149.175196",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -122,7 +122,7 @@
       "Latitude": "-21.13779101",
       "Longitude": "149.1790056",
       "GeoLevel": "7",
-      "Distance": "1.7",
+      "Distance": "1.8",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

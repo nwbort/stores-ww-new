@@ -7,8 +7,8 @@
   "Suburb": "Kempsey South",
   "State": "NSW",
   "Postcode": "2440",
-  "Latitude": "-31.0935725",
-  "Longitude": "152.8370597",
+  "Latitude": "-31.093603",
+  "Longitude": "152.837116",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

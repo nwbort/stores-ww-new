@@ -7,8 +7,8 @@
   "Suburb": "Vincent",
   "State": "QLD",
   "Postcode": "4814",
-  "Latitude": "-19.2877577",
-  "Longitude": "146.7615613",
+  "Latitude": "-19.287784",
+  "Longitude": "146.761423",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -122,7 +122,7 @@
       "Latitude": "-19.29918222",
       "Longitude": "146.7642178",
       "GeoLevel": "0",
-      "Distance": "1.26",
+      "Distance": "1.29",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

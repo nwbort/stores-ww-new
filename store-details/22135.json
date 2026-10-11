@@ -7,8 +7,8 @@
   "Suburb": "Alexandria",
   "State": "NSW",
   "Postcode": "2015",
-  "Latitude": "-33.9021424",
-  "Longitude": "151.1994031",
+  "Latitude": "-33.902233",
+  "Longitude": "151.200058",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -126,7 +126,7 @@
       "Latitude": "-33.873204",
       "Longitude": "151.2073606",
       "GeoLevel": "0",
-      "Distance": "3.29",
+      "Distance": "3.27",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": true,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-2100"
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
         },
         {
           "Day": "Tuesday",

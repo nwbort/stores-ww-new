@@ -18,13 +18,13 @@
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "8:00 AM - 9:30 PM",
-      "TradingHourForDisplay": "Sun: 0800-2130"
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Sun: 0700-2130"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "8:00 AM - 8:00 PM",
-      "TradingHourForDisplay": "Mon: 0800-2000"
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Mon: 0700-2130"
     },
     {
       "Day": "Tuesday",
@@ -53,8 +53,8 @@
     },
     {
       "Day": "Sunday",
-      "OpenHour": "8:00 AM - 9:30 PM",
-      "TradingHourForDisplay": "Sun: 0800-2130"
+      "OpenHour": "7:00 AM - 9:30 PM",
+      "TradingHourForDisplay": "Sun: 0700-2130"
     }
   ],
   "Facilities": [

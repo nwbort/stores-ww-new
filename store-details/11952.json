@@ -7,8 +7,8 @@
   "Suburb": "Burleigh Waters",
   "State": "QLD",
   "Postcode": "4220",
-  "Latitude": "-28.097921",
-  "Longitude": "153.425827",
+  "Latitude": "-28.098148",
+  "Longitude": "153.425716",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

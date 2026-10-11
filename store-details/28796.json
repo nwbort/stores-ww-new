@@ -7,8 +7,8 @@
   "Suburb": "Punchbowl",
   "State": "NSW",
   "Postcode": "2196",
-  "Latitude": "-33.9314597",
-  "Longitude": "151.0596341",
+  "Latitude": "-33.931498",
+  "Longitude": "151.059526",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

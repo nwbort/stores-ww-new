@@ -7,8 +7,8 @@
   "Suburb": "Croydon",
   "State": "NSW",
   "Postcode": "2132",
-  "Latitude": "-33.8884891",
-  "Longitude": "151.1160172",
+  "Latitude": "-33.888484",
+  "Longitude": "151.115893",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

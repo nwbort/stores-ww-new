@@ -7,8 +7,8 @@
   "Suburb": "Beacon Hill",
   "State": "NSW",
   "Postcode": "2100",
-  "Latitude": "-33.753823",
-  "Longitude": "151.260266",
+  "Latitude": "-33.753817",
+  "Longitude": "151.260205",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

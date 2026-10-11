@@ -7,8 +7,8 @@
   "Suburb": "Robina",
   "State": "QLD",
   "Postcode": "4226",
-  "Latitude": "-28.081347",
-  "Longitude": "153.382388",
+  "Latitude": "-28.081498",
+  "Longitude": "153.382501",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-28.080482",
       "Longitude": "153.383575",
       "GeoLevel": "0",
-      "Distance": "0.16",
+      "Distance": "0.08",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Woolloongabba",
   "State": "QLD",
   "Postcode": "4102",
-  "Latitude": "-27.49078",
-  "Longitude": "153.040461",
+  "Latitude": "-27.490813",
+  "Longitude": "153.040273",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

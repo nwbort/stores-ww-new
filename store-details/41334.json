@@ -7,8 +7,8 @@
   "Suburb": "Holden Hill",
   "State": "SA",
   "Postcode": "5088",
-  "Latitude": "-34.854462",
-  "Longitude": "138.66245",
+  "Latitude": "-34.854385",
+  "Longitude": "138.662476",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -131,8 +131,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Cambridge Park",
   "State": "NSW",
   "Postcode": "2747",
-  "Latitude": "-33.7406477",
-  "Longitude": "150.7171697",
+  "Latitude": "-33.740704",
+  "Longitude": "150.717061",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "St Marys",
   "State": "SA",
   "Postcode": "5042",
-  "Latitude": "-34.994444",
-  "Longitude": "138.575132",
+  "Latitude": "-34.994404",
+  "Longitude": "138.575218",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -111,8 +111,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2100"
         },
         {
           "Day": "Tuesday",

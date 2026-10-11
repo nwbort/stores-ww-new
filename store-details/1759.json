@@ -13,48 +13,48 @@
   "Distance": null,
   "Phone": "02 8633 2937",
   "GMTZone": "11:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Sun: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Sun: 0700-0100"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Mon: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Mon: 0700-0100"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Tue: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Tue: 0700-0100"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Wed: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Wed: 0700-0100"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Thu: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Thu: 0700-0100"
     },
     {
       "Day": "Friday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Fri: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Fri: 0700-0100"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Sat: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Sat: 0700-0100"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "7:00 AM - 12:00 AM",
-      "TradingHourForDisplay": "Sun: 0700-0000"
+      "OpenHour": "7:00 AM - 01:00 AM",
+      "TradingHourForDisplay": "Sun: 0700-0100"
     }
   ],
   "Facilities": [
@@ -93,8 +93,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

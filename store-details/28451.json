@@ -7,8 +7,8 @@
   "Suburb": "Maryland",
   "State": "NSW",
   "Postcode": "2287",
-  "Latitude": "-32.88964",
-  "Longitude": "151.662078",
+  "Latitude": "-32.889643",
+  "Longitude": "151.661971",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Monkland",
   "State": "QLD",
   "Postcode": "4570",
-  "Latitude": "-26.2187796",
-  "Longitude": "152.6861914",
+  "Latitude": "-26.218699",
+  "Longitude": "152.686234",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

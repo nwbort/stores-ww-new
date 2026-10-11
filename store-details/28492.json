@@ -7,8 +7,8 @@
   "Suburb": "Weston",
   "State": "ACT",
   "Postcode": "2611",
-  "Latitude": "-35.3219901",
-  "Longitude": "149.0571738",
+  "Latitude": "-35.322142",
+  "Longitude": "149.057122",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

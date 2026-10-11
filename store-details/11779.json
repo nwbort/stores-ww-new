@@ -7,8 +7,8 @@
   "Suburb": "Manunda Cairns",
   "State": "QLD",
   "Postcode": "4870",
-  "Latitude": "-16.924561",
-  "Longitude": "145.753813",
+  "Latitude": "-16.924723",
+  "Longitude": "145.754011",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

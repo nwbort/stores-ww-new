@@ -7,8 +7,8 @@
   "Suburb": "Mudgeeraba",
   "State": "QLD",
   "Postcode": "4213",
-  "Latitude": "-28.074615",
-  "Longitude": "153.364005",
+  "Latitude": "-28.074595",
+  "Longitude": "153.364051",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Camp Hill",
   "State": "QLD",
   "Postcode": "4152",
-  "Latitude": "-27.491855",
-  "Longitude": "153.06463",
+  "Latitude": "-27.491818",
+  "Longitude": "153.064933",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

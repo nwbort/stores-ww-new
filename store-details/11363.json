@@ -7,8 +7,8 @@
   "Suburb": "Carina",
   "State": "QLD",
   "Postcode": "4152",
-  "Latitude": "-27.495918",
-  "Longitude": "153.093332",
+  "Latitude": "-27.495943",
+  "Longitude": "153.093325",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

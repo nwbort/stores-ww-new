@@ -7,8 +7,8 @@
   "Suburb": "Coogee",
   "State": "NSW",
   "Postcode": "2034",
-  "Latitude": "-33.9199406",
-  "Longitude": "151.2517628",
+  "Latitude": "-33.919936",
+  "Longitude": "151.251751",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

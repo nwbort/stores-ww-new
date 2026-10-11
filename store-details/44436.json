@@ -7,8 +7,8 @@
   "Suburb": "Edwardstown",
   "State": "SA",
   "Postcode": "5039",
-  "Latitude": "-34.981876",
-  "Longitude": "138.573769",
+  "Latitude": "-34.981831",
+  "Longitude": "138.573778",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2100"
         },
         {
           "Day": "Tuesday",

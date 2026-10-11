@@ -7,8 +7,8 @@
   "Suburb": "Brendale",
   "State": "QLD",
   "Postcode": "4500",
-  "Latitude": "-27.31535",
-  "Longitude": "152.96716",
+  "Latitude": "-27.314974",
+  "Longitude": "152.966779",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

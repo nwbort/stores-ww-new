@@ -7,8 +7,8 @@
   "Suburb": "East Maitland",
   "State": "NSW",
   "Postcode": "2323",
-  "Latitude": "-32.748786",
-  "Longitude": "151.582974",
+  "Latitude": "-32.748697",
+  "Longitude": "151.583041",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -107,8 +107,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1900"
         },
         {
           "Day": "Tuesday",

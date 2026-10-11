@@ -7,8 +7,8 @@
   "Suburb": "New Lambton",
   "State": "NSW",
   "Postcode": "2305",
-  "Latitude": "-32.932728",
-  "Longitude": "151.714106",
+  "Latitude": "-32.932774",
+  "Longitude": "151.714123",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

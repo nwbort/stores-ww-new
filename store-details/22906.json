@@ -7,8 +7,8 @@
   "Suburb": "Penrith",
   "State": "NSW",
   "Postcode": "2750",
-  "Latitude": "-33.7429406",
-  "Longitude": "150.692728",
+  "Latitude": "-33.742843",
+  "Longitude": "150.692839",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

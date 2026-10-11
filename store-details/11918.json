@@ -7,8 +7,8 @@
   "Suburb": "Condon",
   "State": "QLD",
   "Postcode": "4815",
-  "Latitude": "-19.331666",
-  "Longitude": "146.727296",
+  "Latitude": "-19.331344",
+  "Longitude": "146.727202",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-19.31446378",
       "Longitude": "146.7270623",
       "GeoLevel": "0",
-      "Distance": "1.95",
+      "Distance": "1.84",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

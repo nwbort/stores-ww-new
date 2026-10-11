@@ -7,8 +7,8 @@
   "Suburb": "Padstow",
   "State": "NSW",
   "Postcode": "2211",
-  "Latitude": "-33.9433313",
-  "Longitude": "151.0345043",
+  "Latitude": "-33.943495",
+  "Longitude": "151.034617",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

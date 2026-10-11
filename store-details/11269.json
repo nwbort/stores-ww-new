@@ -7,8 +7,8 @@
   "Suburb": "Yatala",
   "State": "QLD",
   "Postcode": "4207",
-  "Latitude": "-27.73708",
-  "Longitude": "153.22824",
+  "Latitude": "-27.737566",
+  "Longitude": "153.228679",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -126,7 +126,7 @@
       "Latitude": "-27.71771877",
       "Longitude": "153.2066778",
       "GeoLevel": "7",
-      "Distance": "3",
+      "Distance": "3.15",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

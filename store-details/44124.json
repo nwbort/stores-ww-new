@@ -7,8 +7,8 @@
   "Suburb": "West Hindmarsh",
   "State": "SA",
   "Postcode": "5007",
-  "Latitude": "-34.898205",
-  "Longitude": "138.560506",
+  "Latitude": "-34.898146",
+  "Longitude": "138.560464",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -98,7 +98,7 @@
       "Latitude": "-34.91404576",
       "Longitude": "138.5644442",
       "GeoLevel": "0",
-      "Distance": "1.81",
+      "Distance": "1.83",
       "Phone": "1300 411 875",
       "GMTZone": "10:30",
       "IsOpen": false,
@@ -111,8 +111,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

@@ -7,8 +7,8 @@
   "Suburb": "Keswick",
   "State": "SA",
   "Postcode": "5035",
-  "Latitude": "-34.9424784",
-  "Longitude": "138.5714943",
+  "Latitude": "-34.942453",
+  "Longitude": "138.571417",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

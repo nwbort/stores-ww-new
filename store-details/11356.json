@@ -7,8 +7,8 @@
   "Suburb": "Booval",
   "State": "QLD",
   "Postcode": "4304",
-  "Latitude": "-27.6134093",
-  "Longitude": "152.7922169",
+  "Latitude": "-27.613441",
+  "Longitude": "152.792164",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

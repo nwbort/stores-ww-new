@@ -7,8 +7,8 @@
   "Suburb": "Kingston",
   "State": "QLD",
   "Postcode": "4114",
-  "Latitude": "-27.6336541",
-  "Longitude": "153.1193642",
+  "Latitude": "-27.633616",
+  "Longitude": "153.119251",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

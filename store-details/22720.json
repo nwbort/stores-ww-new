@@ -7,8 +7,8 @@
   "Suburb": "Taren Point",
   "State": "NSW",
   "Postcode": "2229",
-  "Latitude": "-34.020771",
-  "Longitude": "151.121679",
+  "Latitude": "-34.020667",
+  "Longitude": "151.121869",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -109,8 +109,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

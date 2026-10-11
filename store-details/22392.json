@@ -7,8 +7,8 @@
   "Suburb": "Coogee South",
   "State": "NSW",
   "Postcode": "2034",
-  "Latitude": "-33.932528",
-  "Longitude": "151.257218",
+  "Latitude": "-33.932362",
+  "Longitude": "151.257283",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -120,7 +120,7 @@
       "Latitude": "-33.94481209",
       "Longitude": "151.2242561",
       "GeoLevel": "7",
-      "Distance": "3.29",
+      "Distance": "3.34",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

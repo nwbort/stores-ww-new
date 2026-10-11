@@ -7,8 +7,8 @@
   "Suburb": "Wingfield",
   "State": "SA",
   "Postcode": "5013",
-  "Latitude": "-34.8470035",
-  "Longitude": "138.5638689",
+  "Latitude": "-34.846957",
+  "Longitude": "138.563989",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

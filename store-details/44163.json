@@ -7,8 +7,8 @@
   "Suburb": "Cumberland Park",
   "State": "SA",
   "Postcode": "5041",
-  "Latitude": "-34.966871",
-  "Longitude": "138.581951",
+  "Latitude": "-34.966912",
+  "Longitude": "138.582238",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -131,8 +131,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Mon: Closed"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2100"
         },
         {
           "Day": "Tuesday",

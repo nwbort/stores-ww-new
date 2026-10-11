@@ -7,8 +7,8 @@
   "Suburb": "Lakemba",
   "State": "NSW",
   "Postcode": "2195",
-  "Latitude": "-33.911492",
-  "Longitude": "151.0732469",
+  "Latitude": "-33.911455",
+  "Longitude": "151.073212",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",

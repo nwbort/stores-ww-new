@@ -7,8 +7,8 @@
   "Suburb": "Wetherill Park",
   "State": "NSW",
   "Postcode": "2164",
-  "Latitude": "-33.852384",
-  "Longitude": "150.891176",
+  "Latitude": "-33.852208",
+  "Longitude": "150.890644",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

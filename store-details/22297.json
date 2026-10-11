@@ -7,8 +7,8 @@
   "Suburb": "Manly",
   "State": "NSW",
   "Postcode": "2095",
-  "Latitude": "-33.79305",
-  "Longitude": "151.285803",
+  "Latitude": "-33.793042",
+  "Longitude": "151.285834",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

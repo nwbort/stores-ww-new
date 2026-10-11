@@ -7,8 +7,8 @@
   "Suburb": "Railway Estate",
   "State": "QLD",
   "Postcode": "4810",
-  "Latitude": "-19.2724112",
-  "Longitude": "146.8157193",
+  "Latitude": "-19.272421",
+  "Longitude": "146.815603",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

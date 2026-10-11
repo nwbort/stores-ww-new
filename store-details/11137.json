@@ -7,8 +7,8 @@
   "Suburb": "Maroochydore",
   "State": "QLD",
   "Postcode": "4558",
-  "Latitude": "-26.659525",
-  "Longitude": "153.097519",
+  "Latitude": "-26.659345",
+  "Longitude": "153.097195",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-26.655425",
       "Longitude": "153.084329",
       "GeoLevel": "0",
-      "Distance": "1.45",
+      "Distance": "1.32",
       "Phone": "1300 411 875",
       "GMTZone": "10:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

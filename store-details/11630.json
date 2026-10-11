@@ -7,8 +7,8 @@
   "Suburb": "North Rockhampton",
   "State": "QLD",
   "Postcode": "4701",
-  "Latitude": "-23.3327212",
-  "Longitude": "150.5189355",
+  "Latitude": "-23.332738",
+  "Longitude": "150.518605",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -139,8 +139,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

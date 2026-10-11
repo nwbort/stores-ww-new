@@ -7,8 +7,8 @@
   "Suburb": "Carrum Downs",
   "State": "VIC",
   "Postcode": "3201",
-  "Latitude": "-38.1108601",
-  "Longitude": "145.1600755",
+  "Latitude": "-38.110813",
+  "Longitude": "145.160179",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -134,8 +134,8 @@
         },
         {
           "Day": "Saturday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
         },
         {
           "Day": "Sunday",

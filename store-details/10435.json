@@ -7,8 +7,8 @@
   "Suburb": "Southside",
   "State": "QLD",
   "Postcode": "4570",
-  "Latitude": "-26.199826",
-  "Longitude": "152.649299",
+  "Latitude": "-26.199784",
+  "Longitude": "152.649328",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

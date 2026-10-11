@@ -7,8 +7,8 @@
   "Suburb": "Cabramatta",
   "State": "NSW",
   "Postcode": "2166",
-  "Latitude": "-33.8941665",
-  "Longitude": "150.9279513",
+  "Latitude": "-33.894133",
+  "Longitude": "150.927952",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -131,8 +131,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

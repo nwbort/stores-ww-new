@@ -7,8 +7,8 @@
   "Suburb": "Kirwan Townsville",
   "State": "QLD",
   "Postcode": "4817",
-  "Latitude": "-19.304323",
-  "Longitude": "146.7349226",
+  "Latitude": "-19.304275",
+  "Longitude": "146.734831",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1800"
         },
         {
           "Day": "Tuesday",

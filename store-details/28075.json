@@ -7,8 +7,8 @@
   "Suburb": "Bonnyrigg",
   "State": "NSW",
   "Postcode": "2177",
-  "Latitude": "-33.888364",
-  "Longitude": "150.882148",
+  "Latitude": "-33.888388",
+  "Longitude": "150.882184",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -113,8 +113,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

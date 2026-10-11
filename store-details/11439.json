@@ -7,8 +7,8 @@
   "Suburb": "Burleigh Heads",
   "State": "QLD",
   "Postcode": "4220",
-  "Latitude": "-28.110174",
-  "Longitude": "153.440779",
+  "Latitude": "-28.110208",
+  "Longitude": "153.440752",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -133,8 +133,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

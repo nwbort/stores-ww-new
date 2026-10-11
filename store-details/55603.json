@@ -7,8 +7,8 @@
   "Suburb": "Malaga",
   "State": "WA",
   "Postcode": "6090",
-  "Latitude": "-31.848174",
-  "Longitude": "115.878564",
+  "Latitude": "-31.848184",
+  "Longitude": "115.878484",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -120,7 +120,7 @@
       "Latitude": "-31.871952",
       "Longitude": "115.859207",
       "GeoLevel": "7",
-      "Distance": "3.25",
+      "Distance": "3.2",
       "Phone": "1300 411 875",
       "GMTZone": "8:0",
       "IsOpen": false,
@@ -133,28 +133,28 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Mon: 0830-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2100"
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Tue: 0830-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2100"
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Wed: 0830-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2100"
         },
         {
           "Day": "Thursday",
-          "OpenHour": "8:30 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0830-2100"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:30 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
         },
         {
           "Day": "Saturday",

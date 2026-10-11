@@ -7,8 +7,8 @@
   "Suburb": "Dee Why",
   "State": "NSW",
   "Postcode": "2099",
-  "Latitude": "-33.745629",
-  "Longitude": "151.292113",
+  "Latitude": "-33.745786",
+  "Longitude": "151.292197",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -135,8 +135,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-1900"
         },
         {
           "Day": "Tuesday",

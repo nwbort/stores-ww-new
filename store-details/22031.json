@@ -7,8 +7,8 @@
   "Suburb": "Raymond Terrace",
   "State": "NSW",
   "Postcode": "2324",
-  "Latitude": "-32.7559273",
-  "Longitude": "151.7628779",
+  "Latitude": "-32.755426",
+  "Longitude": "151.762738",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -124,7 +124,7 @@
       "Latitude": "-32.76096667",
       "Longitude": "151.7436463",
       "GeoLevel": "0",
-      "Distance": "1.89",
+      "Distance": "1.93",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -137,8 +137,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",

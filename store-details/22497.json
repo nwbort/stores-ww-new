@@ -7,8 +7,8 @@
   "Suburb": "Lismore South",
   "State": "NSW",
   "Postcode": "2480",
-  "Latitude": "-28.8205539",
-  "Longitude": "153.26475",
+  "Latitude": "-28.820473",
+  "Longitude": "153.264859",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": null,
@@ -118,7 +118,7 @@
       "Latitude": "-28.81",
       "Longitude": "153.2898",
       "GeoLevel": "0",
-      "Distance": "2.71",
+      "Distance": "2.66",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
@@ -131,8 +131,8 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 5:00 PM",
-          "TradingHourForDisplay": "Mon: 0900-1700"
+          "OpenHour": "8:30 AM - 6:00 PM",
+          "TradingHourForDisplay": "Mon: 0830-1800"
         },
         {
           "Day": "Tuesday",
