@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "08 8678 5000",
   "GMTZone": "10:30",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {

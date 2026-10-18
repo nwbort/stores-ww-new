@@ -5359,7 +5359,7 @@
         "Distance": "0.36",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0120/BIG-W-Rouse Hill?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -14405,7 +14405,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -19192,7 +19192,7 @@
     "Distance": null,
     "Phone": "02 6969 6005",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -27661,7 +27661,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -34696,7 +34696,7 @@
         "Distance": "0.93",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -38239,7 +38239,7 @@
   {
     "Division": "SUPERMARKETS",
     "StoreNo": "1289",
-    "Name": "North Strathfield Metro",
+    "Name": "North Strathfield",
     "AddressLine1": "145 Concord Road",
     "AddressLine2": null,
     "Suburb": "North Strathfield",
@@ -42963,7 +42963,7 @@
         "Distance": "2.42",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -44628,7 +44628,7 @@
         "Distance": "0.11",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -47259,23 +47259,23 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Sun: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Sun: 0700-2300"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2300"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2300"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Wed: 0700-2200"
+        "OpenHour": "7:00 AM - 11:00 PM",
+        "TradingHourForDisplay": "Wed: 0700-2300"
       },
       {
         "Day": "Thursday",
@@ -47321,7 +47321,7 @@
         "Distance": "2.63",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0120/BIG-W-Rouse Hill?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -49397,7 +49397,7 @@
         "Distance": "3.66",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -50733,28 +50733,28 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Mon: 0900-1700"
+        "OpenHour": "7:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-1700"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Tue: 0900-1700"
+        "OpenHour": "7:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-1700"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Wed: 0900-1700"
+        "OpenHour": "7:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Wed: 0700-1700"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Thu: 0900-1700"
+        "OpenHour": "7:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Thu: 0700-1700"
       },
       {
         "Day": "Friday",
-        "OpenHour": "9:00 AM - 5:00 PM",
-        "TradingHourForDisplay": "Fri: 0900-1700"
+        "OpenHour": "7:00 AM - 5:00 PM",
+        "TradingHourForDisplay": "Fri: 0700-1700"
       },
       {
         "Day": "Saturday",
@@ -52301,7 +52301,7 @@
         "Distance": "3.89",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -52439,7 +52439,7 @@
         "Distance": "3.88",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -52791,48 +52791,48 @@
     "Distance": null,
     "Phone": "02 8633 2937",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Sun: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0700-0000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Mon: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Mon: 0700-0000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Tue: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Tue: 0700-0000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Wed: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Wed: 0700-0000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Thu: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Thu: 0700-0000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Fri: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Fri: 0700-0000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Sat: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sat: 0700-0000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "7:00 AM - 01:00 AM",
-        "TradingHourForDisplay": "Sun: 0700-0100"
+        "OpenHour": "7:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0700-0000"
       }
     ],
     "Facilities": [
@@ -53419,7 +53419,7 @@
         "Distance": "1.59",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -65052,7 +65052,7 @@
         "Distance": "3.32",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -66294,7 +66294,7 @@
         "Distance": "2.95",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -66844,7 +66844,7 @@
         "Distance": "3.34",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -67214,7 +67214,7 @@
         "Distance": "3.76",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -70580,7 +70580,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -70689,7 +70689,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -72048,7 +72048,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -72262,7 +72262,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -74758,7 +74758,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -77928,7 +77928,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -79343,7 +79343,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -83785,7 +83785,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -97370,7 +97370,7 @@
     "Distance": null,
     "Phone": "02 6680 6303",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -103257,7 +103257,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -109426,7 +109426,7 @@
         "Distance": "1.68",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -113169,43 +113169,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0500-0000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Mon: 0500-0000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Tue: 0500-0000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Wed: 0500-0000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Thu: 0500-0000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Fri: 0500-0000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sat: 0500-0000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0500-0000"
       }
     ],
     "Facilities": [
@@ -113279,7 +113279,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -114824,7 +114824,7 @@
     "Longitude": "144.33776",
     "GeoLevel": "0",
     "Distance": null,
-    "Phone": null,
+    "Phone": "03 5264 9013",
     "GMTZone": "11:0",
     "IsOpen": false,
     "PartnerUrl": null,
@@ -119184,8 +119184,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -119856,7 +119856,7 @@
         "Distance": "2.83",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -122161,7 +122161,7 @@
         "Distance": "1.71",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -123923,8 +123923,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -125981,7 +125981,7 @@
         "Distance": "3.81",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -127044,8 +127044,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -127721,7 +127721,7 @@
         "Distance": "3.82",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -131112,8 +131112,8 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "6:00 AM - 12:00 AM",
-        "TradingHourForDisplay": "Sun: 0600-0000"
+        "OpenHour": "6:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Sun: 0600-2200"
       },
       {
         "Day": "Tomorrow",
@@ -132567,7 +132567,7 @@
         "Distance": "0.23",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -134923,7 +134923,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -140382,8 +140382,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -141771,13 +141771,13 @@
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "7:00 AM - 8:00 PM",
-        "TradingHourForDisplay": "Mon: 0700-2000"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Mon: 0700-2200"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "10:00 AM - 10:00 PM",
-        "TradingHourForDisplay": "Tue: 1000-2200"
+        "OpenHour": "7:00 AM - 10:00 PM",
+        "TradingHourForDisplay": "Tue: 0700-2200"
       },
       {
         "Day": "Wednesday",
@@ -141830,7 +141830,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -143798,43 +143798,43 @@
     "TradingHours": [
       {
         "Day": "Today",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0500-0000"
       },
       {
         "Day": "Tomorrow",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Mon: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Mon: 0500-0000"
       },
       {
         "Day": "Tuesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Tue: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Tue: 0500-0000"
       },
       {
         "Day": "Wednesday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Wed: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Wed: 0500-0000"
       },
       {
         "Day": "Thursday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Thu: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Thu: 0500-0000"
       },
       {
         "Day": "Friday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Fri: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Fri: 0500-0000"
       },
       {
         "Day": "Saturday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sat: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sat: 0500-0000"
       },
       {
         "Day": "Sunday",
-        "OpenHour": "5:00 AM - 11:59 PM",
-        "TradingHourForDisplay": "Sun: 0500-2359"
+        "OpenHour": "5:00 AM - 12:00 AM",
+        "TradingHourForDisplay": "Sun: 0500-0000"
       }
     ],
     "Facilities": [
@@ -154518,7 +154518,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -156097,6 +156097,7 @@
     "Facilities": [
       "Direct to boot",
       "Direct to boot - drive through",
+      "Liquor (Adjacent BWS)",
       "Pick up"
     ],
     "CategorisedFacilities": [],
@@ -168174,7 +168175,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -176138,7 +176139,7 @@
     "Distance": null,
     "Phone": null,
     "GMTZone": "8:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -184047,7 +184048,7 @@
     "Distance": null,
     "Phone": "08 8958 6575",
     "GMTZone": "9:30",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -186607,7 +186608,7 @@
     "Distance": null,
     "Phone": "08 8973 3100",
     "GMTZone": "9:30",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -187635,7 +187636,7 @@
     "Distance": null,
     "Phone": "08 8678 5000",
     "GMTZone": "10:30",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -190047,7 +190048,7 @@
     "Distance": null,
     "Phone": "08 8580 6400",
     "GMTZone": "10:30",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -191638,8 +191639,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -191904,8 +191905,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -192331,8 +192332,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -192584,8 +192585,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -192791,8 +192792,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -192928,8 +192929,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193066,8 +193067,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193203,8 +193204,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193343,8 +193344,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193548,8 +193549,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193686,8 +193687,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -193890,8 +193891,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -195193,8 +195194,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -195737,7 +195738,7 @@
         "Distance": "2.57",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0136/BIG-W-Pagewood?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -197236,7 +197237,7 @@
   {
     "Division": "SUPERMARKETS",
     "StoreNo": "8837",
-    "Name": "Spring Hill Metro",
+    "Name": "Spring Hill",
     "AddressLine1": "365 Turbot Street",
     "AddressLine2": null,
     "Suburb": "Spring Hill",
@@ -202661,7 +202662,7 @@
     "Distance": null,
     "Phone": "02 8073 3933",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -202881,7 +202882,7 @@
     "Distance": null,
     "Phone": "02 8074 0899",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -204423,7 +204424,7 @@
     "Distance": null,
     "Phone": "02 9157 9495",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -204935,7 +204936,7 @@
     "Distance": null,
     "Phone": "02 8073 7641",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -206912,7 +206913,7 @@
         "Distance": "1.14",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0120/BIG-W-Rouse Hill?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -209783,7 +209784,7 @@
     "Distance": null,
     "Phone": "02 8074 0809",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -211175,7 +211176,7 @@
     "Distance": null,
     "Phone": "02 8074 0827",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -219337,7 +219338,7 @@
     "Distance": null,
     "Phone": "02 8073 3948",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -221757,7 +221758,7 @@
     "Distance": null,
     "Phone": "02 8073 3967",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -221978,7 +221979,7 @@
     "Distance": null,
     "Phone": "07 3088 8725",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -222123,7 +222124,7 @@
     "Distance": null,
     "Phone": "07 40827484",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -222198,7 +222199,7 @@
     "Distance": null,
     "Phone": "02 5318 2994",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -222928,7 +222929,7 @@
     "Distance": null,
     "Phone": "07 3088 8707",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223073,7 +223074,7 @@
     "Distance": null,
     "Phone": "07 3088 8779",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223219,7 +223220,7 @@
     "Distance": null,
     "Phone": "07 5334 0638",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223369,7 +223370,7 @@
     "Distance": null,
     "Phone": "07 3088 8753",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223444,7 +223445,7 @@
     "Distance": null,
     "Phone": "07 4082 7472",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223589,7 +223590,7 @@
     "Distance": null,
     "Phone": "(07) 3088 8775",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -223734,7 +223735,7 @@
     "Distance": null,
     "Phone": "07 3088 8767",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -224249,7 +224250,7 @@
     "Distance": null,
     "Phone": "07 4802 3666",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -224394,7 +224395,7 @@
     "Distance": null,
     "Phone": "07 3088 8739",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -224981,7 +224982,7 @@
     "Distance": null,
     "Phone": "07 3088 8766",
     "GMTZone": "10:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -228911,8 +228912,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -232003,7 +232004,7 @@
         "Distance": "3.41",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -232150,7 +232151,7 @@
     "Distance": null,
     "Phone": "03 5614 5236",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -233277,8 +233278,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -238441,8 +238442,8 @@
           },
           {
             "Day": "Wednesday",
-            "OpenHour": "8:00 AM - 6:00 PM",
-            "TradingHourForDisplay": "Wed: 0800-1800"
+            "OpenHour": "10:00 AM - 6:00 PM",
+            "TradingHourForDisplay": "Wed: 1000-1800"
           },
           {
             "Day": "Thursday",
@@ -239153,7 +239154,7 @@
         "Distance": "2.9",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -240341,7 +240342,7 @@
         "Distance": "1.77",
         "Phone": "1300 411 875",
         "GMTZone": "11:0",
-        "IsOpen": false,
+        "IsOpen": true,
         "PartnerUrl": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
         "TradingHours": [
           {
@@ -242261,7 +242262,7 @@
     "Distance": null,
     "Phone": "08 6186 0312",
     "GMTZone": "8:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -242702,7 +242703,7 @@
     "Distance": null,
     "Phone": "08 6186 0178",
     "GMTZone": "8:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -243949,7 +243950,7 @@
     "Distance": null,
     "Phone": "08 6830 1068",
     "GMTZone": "8:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -249862,8 +249863,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -250307,8 +250308,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",
@@ -250428,7 +250429,7 @@
     "Distance": null,
     "Phone": "03 9020 9402",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -250503,7 +250504,7 @@
     "Distance": null,
     "Phone": "03 9020 9435",
     "GMTZone": "11:0",
-    "IsOpen": false,
+    "IsOpen": true,
     "PartnerUrl": null,
     "TradingHours": [
       {
@@ -250677,8 +250678,8 @@
           },
           {
             "Day": "Thursday",
-            "OpenHour": "8:00 AM - 7:00 PM",
-            "TradingHourForDisplay": "Thu: 0800-1900"
+            "OpenHour": "10:00 AM - 5:00 PM",
+            "TradingHourForDisplay": "Thu: 1000-1700"
           },
           {
             "Day": "Friday",

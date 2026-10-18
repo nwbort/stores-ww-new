@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "02 5318 2994",
   "GMTZone": "11:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {

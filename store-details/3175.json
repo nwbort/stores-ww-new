@@ -102,8 +102,8 @@
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-1800"
+          "OpenHour": "10:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Wed: 1000-1800"
         },
         {
           "Day": "Thursday",
