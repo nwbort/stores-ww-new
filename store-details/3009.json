@@ -13,48 +13,48 @@
   "Distance": null,
   "Phone": "03 5264 9013",
   "GMTZone": "11:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Mon: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Tue: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Wed: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Thu: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
     },
     {
       "Day": "Friday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Fri: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2200"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sat: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2200"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "CLOSED",
-      "TradingHourForDisplay": "Sun: CLOSED"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     }
   ],
   "Facilities": [

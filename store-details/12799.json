@@ -60,6 +60,7 @@
   "Facilities": [
     "Fuel-AdBlue",
     "Fuel-E10",
+    "Fuel-Premium95A",
     "Fuel-Premium98A",
     "Fuel-PremiumDieselA",
     "Fuel-UnleadedPetrol",
@@ -85,6 +86,7 @@
       "Facilities": [
         "AdBlue",
         "E10",
+        "Premium 95 A",
         "Premium 98 A",
         "Premium Diesel A",
         "Unleaded Petrol"
