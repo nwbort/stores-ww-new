@@ -6371,12 +6371,6 @@
     "type": "ampol"
   },
   {
-    "id": 11854,
-    "name": "Beaudesert",
-    "url": "https://www.woolworths.com.au/shop/storelocator/qld-beaudesert-11854-ampol",
-    "type": "ampol"
-  },
-  {
     "id": 11864,
     "name": "Lutwyche",
     "url": "https://www.woolworths.com.au/shop/storelocator/qld-lutwyche-11864-ampol",
@@ -6788,12 +6782,6 @@
     "id": 22256,
     "name": "Brownsville",
     "url": "https://www.woolworths.com.au/shop/storelocator/nsw-brownsville-22256-ampol",
-    "type": "ampol"
-  },
-  {
-    "id": 22259,
-    "name": "Manly Vale",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-manly-vale-22259-ampol",
     "type": "ampol"
   },
   {
@@ -7226,12 +7214,6 @@
     "id": 22723,
     "name": "Nicholls",
     "url": "https://www.woolworths.com.au/shop/storelocator/act-nicholls-22723-ampol",
-    "type": "ampol"
-  },
-  {
-    "id": 22728,
-    "name": "Dubbo",
-    "url": "https://www.woolworths.com.au/shop/storelocator/nsw-dubbo-22728-ampol",
     "type": "ampol"
   },
   {
