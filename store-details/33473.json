@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": null,
   "GMTZone": "11:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
@@ -134,8 +134,8 @@
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-1900"
+          "OpenHour": "10:00 AM - 6:00 PM",
+          "TradingHourForDisplay": "Tue: 1000-1800"
         },
         {
           "Day": "Wednesday",
@@ -154,8 +154,8 @@
         },
         {
           "Day": "Saturday",
-          "OpenHour": "8:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1800"
+          "OpenHour": "8:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-1900"
         },
         {
           "Day": "Sunday",

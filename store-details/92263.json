@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "07 2104 9012",
   "GMTZone": "10:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {

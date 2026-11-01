@@ -13,7 +13,7 @@
   "Distance": null,
   "Phone": "03 4311 1958",
   "GMTZone": "11:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
