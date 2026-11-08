@@ -65,21 +65,21 @@
   "NearbyPartners": [
     {
       "Division": "BIGW",
-      "StoreNo": "180",
-      "Name": "BIG W Bonnyrigg",
-      "AddressLine1": "100 Bonnyrigg Avenue",
+      "StoreNo": "124",
+      "Name": "BIG W Liverpool",
+      "AddressLine1": "25 George Street",
       "AddressLine2": null,
-      "Suburb": "Bonnyrigg",
+      "Suburb": "Liverpool",
       "State": "NSW",
-      "Postcode": "2177",
-      "Latitude": "-33.88805542",
-      "Longitude": "150.8872717",
+      "Postcode": "2170",
+      "Latitude": "-33.9199",
+      "Longitude": "150.9217",
       "GeoLevel": "7",
       "Distance": "3.57",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
       "IsOpen": false,
-      "PartnerUrl": "https://www.bigw.com.au/store/0180/BIG-W-Bonnyrigg?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
+      "PartnerUrl": "https://www.bigw.com.au/store/0124/BIG-W-Liverpool?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
@@ -88,18 +88,18 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-1900"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2000"
         },
         {
           "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-1900"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2000"
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-1900"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2000"
         },
         {
           "Day": "Thursday",
@@ -108,23 +108,22 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-1900"
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2000"
         },
         {
           "Day": "Saturday",
-          "OpenHour": "8:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-1900"
+          "OpenHour": "8:00 AM - 8:00 AM",
+          "TradingHourForDisplay": "Sat: 0800-0800"
         },
         {
           "Day": "Sunday",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sun: 0900-1800"
+          "OpenHour": "9:00 AM - 7:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1900"
         }
       ],
       "Facilities": [
         "Bike Build",
-        "Direct to Boot",
         "In-Store Layby",
         "Party",
         "Pick Up",
