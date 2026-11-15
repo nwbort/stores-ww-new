@@ -13,33 +13,33 @@
   "Distance": null,
   "Phone": "03 5264 9013",
   "GMTZone": "11:0",
-  "IsOpen": true,
+  "IsOpen": false,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Sun: 0700-2200"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Sun: Closed"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Mon: 0700-2200"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Mon: Closed"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Tue: 0700-2200"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Tue: Closed"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Wed: 0700-2200"
+      "OpenHour": "Closed",
+      "TradingHourForDisplay": "Wed: Closed"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "7:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0700-2200"
+      "OpenHour": "8:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0800-2200"
     },
     {
       "Day": "Friday",
@@ -60,6 +60,7 @@
   "Facilities": [
     "Direct to boot - drive through",
     "Instore Bakery",
+    "Pick up",
     "Seafood"
   ],
   "CategorisedFacilities": [],

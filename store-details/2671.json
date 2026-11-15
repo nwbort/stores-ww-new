@@ -33,33 +33,34 @@
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Wed: Closed"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2100"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Thu: Closed"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2100"
     },
     {
       "Day": "Friday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Fri: Closed"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Fri: 0700-2100"
     },
     {
       "Day": "Saturday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sat: Closed"
+      "OpenHour": "7:00 AM - 9:00 PM",
+      "TradingHourForDisplay": "Sat: 0700-2100"
     },
     {
       "Day": "Sunday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "9:00 AM - 6:00 PM",
+      "TradingHourForDisplay": "Sun: 0900-1800"
     }
   ],
   "Facilities": [
     "Direct to boot",
     "Instore Bakery",
+    "Pick up",
     "Seafood",
     "Sushi Bar",
     "WiFi"
