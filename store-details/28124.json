@@ -145,8 +145,8 @@
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:30 AM - 6:00 PM",
-          "TradingHourForDisplay": "Wed: 0830-1800"
+          "OpenHour": "8:30 AM - 7:00 PM",
+          "TradingHourForDisplay": "Wed: 0830-1900"
         },
         {
           "Day": "Thursday",
@@ -165,8 +165,8 @@
         },
         {
           "Day": "Sunday",
-          "OpenHour": "9:00 AM - 6:00 PM",
-          "TradingHourForDisplay": "Sun: 0900-1800"
+          "OpenHour": "9:00 AM - 5:00 PM",
+          "TradingHourForDisplay": "Sun: 0900-1700"
         }
       ],
       "Facilities": [

@@ -162,13 +162,13 @@
         },
         {
           "Day": "Saturday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2100"
         },
         {
           "Day": "Sunday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sun: 0800-2000"
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2100"
         }
       ],
       "Facilities": [

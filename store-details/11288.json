@@ -63,7 +63,6 @@
     "Fuel-Premium98A",
     "Fuel-PremiumDieselA",
     "Fuel-UnleadedPetrol",
-    "General-ATM",
     "General-BBQGasAvailable",
     "General-DisabledToilet",
     "General-TwentyFourHourOutdoor",
@@ -104,7 +103,6 @@
       "Category": "General",
       "CategoryLabel": "Store services",
       "Facilities": [
-        "ATM",
         "BBQ Gas Available",
         "Disabled Toilet",
         "Twenty Four Hour Outdoor Payment"

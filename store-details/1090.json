@@ -84,13 +84,13 @@
       "Distance": "0.36",
       "Phone": "1300 411 875",
       "GMTZone": "11:0",
-      "IsOpen": false,
+      "IsOpen": true,
       "PartnerUrl": "https://www.bigw.com.au/store/0120/BIG-W-Rouse Hill?utm_source=woolworths&utm_medium=referral&utm_campaign=trafficOrch&utm_content=store_locator_details",
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 7:00 PM",
-          "TradingHourForDisplay": "Sun: 0900-1900"
+          "OpenHour": "8:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2200"
         },
         {
           "Day": "Tomorrow",
@@ -104,8 +104,8 @@
         },
         {
           "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-2200"
+          "OpenHour": "8:08 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0808-2200"
         },
         {
           "Day": "Thursday",

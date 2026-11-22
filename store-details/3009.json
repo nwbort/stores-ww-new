@@ -7,39 +7,39 @@
   "Suburb": "Armstrong Creek",
   "State": "VIC",
   "Postcode": "3217",
-  "Latitude": "-38.22738893",
-  "Longitude": "144.33776",
+  "Latitude": "-38.2264431",
+  "Longitude": "144.3382572",
   "GeoLevel": "0",
   "Distance": null,
   "Phone": "03 5264 9013",
   "GMTZone": "11:0",
-  "IsOpen": false,
+  "IsOpen": true,
   "PartnerUrl": null,
   "TradingHours": [
     {
       "Day": "Today",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Sun: Closed"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Sun: 0700-2200"
     },
     {
       "Day": "Tomorrow",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Mon: Closed"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Mon: 0700-2200"
     },
     {
       "Day": "Tuesday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Tue: Closed"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Tue: 0700-2200"
     },
     {
       "Day": "Wednesday",
-      "OpenHour": "Closed",
-      "TradingHourForDisplay": "Wed: Closed"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Wed: 0700-2200"
     },
     {
       "Day": "Thursday",
-      "OpenHour": "8:00 AM - 10:00 PM",
-      "TradingHourForDisplay": "Thu: 0800-2200"
+      "OpenHour": "7:00 AM - 10:00 PM",
+      "TradingHourForDisplay": "Thu: 0700-2200"
     },
     {
       "Day": "Friday",

@@ -117,8 +117,8 @@
         },
         {
           "Day": "Friday",
-          "OpenHour": "8:30 AM - 7:00 PM",
-          "TradingHourForDisplay": "Fri: 0830-1900"
+          "OpenHour": "8:30 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0830-2100"
         },
         {
           "Day": "Saturday",
